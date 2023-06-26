@@ -3,9 +3,6 @@
 2. Click Download ZIP
 3. Place Data and Js in /www. Replace All.
 
-# Unpacking Boxed Game
-1. Use https://f95zone.to/threads/enigma-vb-unpacker-v0-61.10201/ to decrypt the exe.
-
 # How To Contribute
 TLDR 3 steps.
 
