@@ -1652,7 +1652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　『魔術』"
+                                "                               [Sorcery]"
                             ]
                         },
                         {
@@ -1669,7 +1669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それは、魔法を操るために人間が生み出した術である。"
+                                "It is a technique created by humans to manipulate magic."
                             ]
                         },
                         {
@@ -1686,7 +1686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法とは・・・"
+                                "Magic is..."
                             ]
                         },
                         {
@@ -1703,14 +1703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　自然界を支配している物理法則と同じであり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　万物の根源をなす究極的要素の一つ。"
+                                "It is one of the ultimate elements that constitutes the origin of all\nthings, just like the physical laws that govern the natural world."
                             ]
                         },
                         {
@@ -1727,14 +1720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　魔術はそれを一定の理論に基づいて体系化した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　学術的名称であり"
+                                "Sorcery is an academic term that systematizes it based on certain\ntheories."
                             ]
                         },
                         {
@@ -1751,7 +1737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　数学や歴史学、政治学と同じ、学問の一つであった。"
+                                "It was one of the academic disciplines, just like mathematics,\nhistory, and political science."
                             ]
                         },
                         {
@@ -1768,14 +1754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　剣術や体術とは違い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　勉学のできない者が強力な魔術を体得することは難しく"
+                                "Unlike swordsmanship and physical techniques, it is difficult for\nthose who are not academically inclined to master powerful sorcery."
                             ]
                         },
                         {
@@ -1792,14 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　逆に頭脳明晰な者ほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　強力な魔術を体得することが可能であった。"
+                                "On the contrary, those with sharp intellect were able to master\npowerful sorcery."
                             ]
                         },
                         {
@@ -1816,7 +1788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　魔術アカデミー"
+                                "                               Magic Academy"
                             ]
                         },
                         {
@@ -1833,7 +1805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　魔術を学ぶ最高峰の場所である。"
+                                "It is the pinnacle place to study sorcery."
                             ]
                         },
                         {
@@ -1850,21 +1822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　魔術アカデミーのあるカスターニャ市では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　今、とある事件が起きていた・・・"
+                                "In the city of Castania, where the Magic Academy is located, a certain\nincident is currently occurring..."
                             ]
                         },
                         {
@@ -1914,28 +1872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見習い候補生の失踪が続いていまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] Actually... there have been a series of disappearances\namong the apprentice candidates."
                             ]
                         },
                         {
@@ -1952,28 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーの教師、総出で探しても見つからず・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] Even with all the teachers from the Academy searching,\nthey couldn't be found..."
                             ]
                         },
                         {
@@ -2006,28 +1922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一、生徒の身に何か起きてしまってはと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほとほと困り果てている次第でして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] In the event that something were to happen to the\nstudents, I would be at a complete loss."
                             ]
                         },
                         {
@@ -2044,28 +1939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が国、屈指の名門校と言えど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒の安全一つ守れないようでは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その評判も地に落ちてしまいます。"
+                                "[Principal] Even if it is said to be one of the most prestigious\nschools in our country, if we cannot protect the safety of our\nstudents, our reputation will be tarnished."
                             ]
                         },
                         {
@@ -2233,28 +2107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I see..."
                             ]
                         },
                         {
@@ -2271,21 +2124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その事件、私が確認致しましょう。"
+                                "[Anastasia] Understood. I will confirm that incident."
                             ]
                         },
                         {
@@ -2437,21 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシア様が来て頂けるのですか？"
+                                "[Principal] What? Anastasia-sama is coming to visit?"
                             ]
                         },
                         {
@@ -2562,28 +2387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Yes."
                             ]
                         },
                         {
@@ -2600,28 +2404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も昨年まで魔術アカデミーに在籍していた身"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I was also enrolled in the Magic Academy until last year."
                             ]
                         },
                         {
@@ -2638,28 +2421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "卒業生として看過できることでは、ありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] As a graduate, I cannot overlook this."
                             ]
                         },
                         {
@@ -2676,21 +2438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしいですか？お父様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Is that alright, Father?"
                             ]
                         },
                         {
@@ -2856,21 +2604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【グエン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もその事件については、心を痛めていたところだったのだが"
+                                "[Gwen] Ah, I was also deeply concerned about that incident."
                             ]
                         },
                         {
@@ -2887,14 +2621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【グエン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が行ってくれるのであれば、なんの心配もあるまい"
+                                "[Gwen] If you're going, then there's nothing to worry about."
                             ]
                         },
                         {
@@ -2934,21 +2661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがたい"
+                                "[Principal] Oh, how grateful."
                             ]
                         },
                         {

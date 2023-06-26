@@ -49,7 +49,7 @@
             }
         ],
         "gold": 100,
-        "name": "バット",
+        "name": "Bat",
         "note": "",
         "params": [
             200,
@@ -111,7 +111,7 @@
             }
         ],
         "gold": 100,
-        "name": "ラット",
+        "name": "Rat",
         "note": "",
         "params": [
             250,
@@ -173,7 +173,7 @@
             }
         ],
         "gold": 100,
-        "name": "ウァーウルフ",
+        "name": "Werewolf",
         "note": "",
         "params": [
             500,
@@ -235,7 +235,7 @@
             }
         ],
         "gold": 100,
-        "name": "ミノタウロス",
+        "name": "Minotaur",
         "note": "",
         "params": [
             750,
@@ -297,7 +297,7 @@
             }
         ],
         "gold": 100,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "",
         "params": [
             550,
@@ -359,7 +359,7 @@
             }
         ],
         "gold": 100,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             500,
@@ -421,7 +421,7 @@
             }
         ],
         "gold": 100,
-        "name": "ミミック",
+        "name": "Mimic",
         "note": "",
         "params": [
             350,
@@ -483,7 +483,7 @@
             }
         ],
         "gold": 100,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             450,
@@ -545,7 +545,7 @@
             }
         ],
         "gold": 100,
-        "name": "インプ",
+        "name": "Imp",
         "note": "",
         "params": [
             500,
@@ -607,7 +607,7 @@
             }
         ],
         "gold": 100,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "",
         "params": [
             480,
@@ -669,7 +669,7 @@
             }
         ],
         "gold": 100,
-        "name": "ガルーダ",
+        "name": "Garuda",
         "note": "",
         "params": [
             800,
@@ -731,7 +731,7 @@
             }
         ],
         "gold": 100,
-        "name": "オーガ",
+        "name": "Ogre",
         "note": "",
         "params": [
             900,
@@ -793,7 +793,7 @@
             }
         ],
         "gold": 100,
-        "name": "ケルベロス",
+        "name": "Cerberus",
         "note": "",
         "params": [
             750,
@@ -855,7 +855,7 @@
             }
         ],
         "gold": 100,
-        "name": "アーススプリット",
+        "name": "Earth Split",
         "note": "",
         "params": [
             400,
@@ -917,7 +917,7 @@
             }
         ],
         "gold": 100,
-        "name": "ファイアースプリット",
+        "name": "Fire Split",
         "note": "",
         "params": [
             550,
@@ -979,7 +979,7 @@
             }
         ],
         "gold": 100,
-        "name": "ガゼル",
+        "name": "Gazelle",
         "note": "",
         "params": [
             300,
@@ -1041,7 +1041,7 @@
             }
         ],
         "gold": 100,
-        "name": "スネーク",
+        "name": "Snake",
         "note": "",
         "params": [
             140,
@@ -1103,7 +1103,7 @@
             }
         ],
         "gold": 100,
-        "name": "フェアリー",
+        "name": "Fairy",
         "note": "",
         "params": [
             400,
@@ -1165,7 +1165,7 @@
             }
         ],
         "gold": 100,
-        "name": "ジェリーフィッシュ",
+        "name": "Jellyfish",
         "note": "",
         "params": [
             350,
@@ -1227,7 +1227,7 @@
             }
         ],
         "gold": 100,
-        "name": "ポプペット",
+        "name": "Pop Puppet",
         "note": "",
         "params": [
             600,
@@ -1289,7 +1289,7 @@
             }
         ],
         "gold": 100,
-        "name": "スコーピオン",
+        "name": "Scorpion",
         "note": "",
         "params": [
             215,
@@ -1351,7 +1351,7 @@
             }
         ],
         "gold": 100,
-        "name": "ウインドスプリット",
+        "name": "Wind Split",
         "note": "",
         "params": [
             550,
@@ -1413,7 +1413,7 @@
             }
         ],
         "gold": 100,
-        "name": "ウォータースプリット",
+        "name": "Water Split",
         "note": "",
         "params": [
             550,
@@ -1475,7 +1475,7 @@
             }
         ],
         "gold": 100,
-        "name": "メイジ",
+        "name": "Mage",
         "note": "",
         "params": [
             100,
@@ -1537,7 +1537,7 @@
             }
         ],
         "gold": 100,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             100,
@@ -1599,7 +1599,7 @@
             }
         ],
         "gold": 100,
-        "name": "スパイダー",
+        "name": "Spider",
         "note": "",
         "params": [
             210,
@@ -1661,7 +1661,7 @@
             }
         ],
         "gold": 100,
-        "name": "ハーネット",
+        "name": "Harnet",
         "note": "",
         "params": [
             130,
@@ -1723,7 +1723,7 @@
             }
         ],
         "gold": 100,
-        "name": "ヴァンパイア",
+        "name": "Vampire",
         "note": "",
         "params": [
             450,
@@ -1785,7 +1785,7 @@
             }
         ],
         "gold": 100,
-        "name": "ベヒーモス",
+        "name": "Behemoth",
         "note": "",
         "params": [
             1000,
@@ -1847,7 +1847,7 @@
             }
         ],
         "gold": 100,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             550,
@@ -1909,7 +1909,7 @@
             }
         ],
         "gold": 0,
-        "name": "デスサイズ",
+        "name": "Death Size",
         "note": "",
         "params": [
             1800,
@@ -1971,7 +1971,7 @@
             }
         ],
         "gold": 0,
-        "name": "デーモン",
+        "name": "Daemon",
         "note": "",
         "params": [
             2500,
@@ -2033,7 +2033,7 @@
             }
         ],
         "gold": 0,
-        "name": "ガーゴイル",
+        "name": "Gargoyle",
         "note": "",
         "params": [
             3500,
@@ -2164,7 +2164,7 @@
             }
         ],
         "gold": 0,
-        "name": "ギジェルミーナ",
+        "name": "Gizelmina",
         "note": "",
         "params": [
             3300,
@@ -2309,7 +2309,7 @@
             }
         ],
         "gold": 0,
-        "name": "ギジェルミーナ",
+        "name": "Gizelmina",
         "note": "",
         "params": [
             7100,
@@ -2475,7 +2475,7 @@
             }
         ],
         "gold": 0,
-        "name": "ギジェルミーナ",
+        "name": "Gizelmina",
         "note": "",
         "params": [
             11500,

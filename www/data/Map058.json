@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "水の都カスターニャ",
+    "displayName": "City of Water, Castania",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -20154,14 +20154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣のパンは大人気なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちの武器は、全然売れない・・・。"
+                                "The bread next door is very popular, but these weapons here don't sell\nat all..."
                             ]
                         },
                         {
@@ -20237,14 +20230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋の親父って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禿げたオヤジのイメージあるよね。"
+                                "The image of a bald old man comes to mind when you think of a weapons\nshop owner, right?"
                             ]
                         },
                         {
@@ -20329,7 +20315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お店のパンは、ここでも売ってるの。"
+                                "The bread from the shop is also sold here."
                             ]
                         },
                         {
@@ -20405,14 +20391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんさない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは、スイーツ系は売ってないの。"
+                                "I'm sorry. We don't sell any sweets here."
                             ]
                         },
                         {
@@ -20497,14 +20476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街の領主様は、良い方じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街の税金は、驚くほど安い。"
+                                "The lord of this town is a good person. The taxes in this town are\nsurprisingly low."
                             ]
                         },
                         {
@@ -20521,14 +20493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体どこからその分の収入を得ているんじゃろうかのぉ。"
+                                "However... where on earth is he getting the income from to cover that?"
                             ]
                         },
                         {
@@ -20605,7 +20570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>               この先魔術アカデミー"
+                                "\\>               Ahead is the Magic Academy."
                             ]
                         },
                         {
@@ -20682,7 +20647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昼間から飲む酒は最高だな。"
+                                "Drinking during the day is the best."
                             ]
                         },
                         {
@@ -20759,14 +20724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーひっく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またあの店に行きたいなぁ。"
+                                "I want to go to that store again."
                             ]
                         },
                         {
@@ -20843,14 +20801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりこのお店は最高ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘いものを食べると、疲れが一気に吹き飛ぶわ。"
+                                "This shop is really the best, isn't it? When I eat something sweet,\nall my fatigue just disappears in an instant."
                             ]
                         },
                         {
@@ -20927,14 +20878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンだけじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今流行りのスイーツもたべれるのよ。"
+                                "You can eat not only bread but also trendy sweets now."
                             ]
                         },
                         {
@@ -21010,14 +20954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タピオカドリンクって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今流行りよね？"
+                                "Tapioca drinks... They're popular now, right?"
                             ]
                         },
                         {
@@ -21102,14 +21039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店内で食べる場合は要予約"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ち帰りの際は、食べるのはお早めに"
+                                "If you plan to eat inside the store, please make a reservation. If you\nare taking it to go, please eat it as soon as possible."
                             ]
                         },
                         {
@@ -21186,14 +21116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここだけの話し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街には、どこかに歓楽街に繋がる入り口があるらしい。"
+                                "Just between us, it seems that there is an entrance somewhere in this\ntown that leads to a pleasure district."
                             ]
                         },
                         {
@@ -21270,14 +21193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは、カスターニャの街よ。"
+                                "Hello, this is the town of Castania."
                             ]
                         },
                         {
@@ -21354,14 +21270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行方不明の事件が起きてるだなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物騒だねぇ。"
+                                "It's dangerous that there have been cases of people going missing."
                             ]
                         },
                         {
@@ -21438,14 +21347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は警備を強化しているので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心してください。"
+                                "We have strengthened security measures, so please rest assured."
                             ]
                         },
                         {
@@ -21602,7 +21504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々この街の治安は、決して良くはなかったんだけど"
+                                "The public safety in this town was never really good to begin with."
                             ]
                         },
                         {
@@ -21619,14 +21521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカデミーができてからは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "領主様が柄の悪い人たちを、一掃してくれたのよ。"
+                                "Ever since the academy was established, the lord has been able to\neliminate the troublesome people."
                             ]
                         },
                         {
@@ -21703,7 +21598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下のほうから、何か聞こえてくる気がするんだが"
+                                "I feel like I can hear something from below."
                             ]
                         },
                         {
@@ -21720,14 +21615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞き間違いかのぉ。"
+                                "I wonder if I misheard."
                             ]
                         },
                         {
@@ -21820,14 +21708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほれっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今聞こえたじゃろっ？！"
+                                "Look!! You heard it just now, didn't you?!"
                             ]
                         },
                         {
@@ -21844,14 +21725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も聞こえない？"
+                                "・・・ Can't you hear anything?"
                             ]
                         },
                         {
@@ -21868,14 +21742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはりわしの聞き間違いかのぉ。"
+                                "・・・I see. So it was just my mistake, huh?"
                             ]
                         },
                         {
@@ -21960,14 +21827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入ろうか、どうしようか・・・。"
+                                "Hmm, should I go in or not..."
                             ]
                         },
                         {
@@ -22059,14 +21919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこは、ただのマッサージ店だよ。"
+                                "・・・. That's just a massage parlor."
                             ]
                         },
                         {
@@ -22167,7 +22020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワン！"
+                                "Woof!"
                             ]
                         },
                         {
@@ -22308,7 +22161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待ってー"
+                                "Wait!"
                             ]
                         },
                         {
@@ -22449,14 +22302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お屋敷で働いているんだけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は休憩中なの。"
+                                "I'm working at the mansion, but I'm currently on break."
                             ]
                         },
                         {
@@ -22532,14 +22378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "典型的な禿げた小太りタイプね。"
+                                "The lord here is a typical bald and chubby type."
                             ]
                         },
                         {
@@ -22615,14 +22454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主っていろんな噂があるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一言でいえば・・・"
+                                "The lord of this place has various rumors surrounding them, but if I\nhad to sum it up in one word..."
                             ]
                         },
                         {
@@ -22639,7 +22471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スケベね。"
+                                "Pervert."
                             ]
                         },
                         {
@@ -22715,7 +22547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主は、何故か貴族に人気があるの。"
+                                "The lord of this place is strangely popular among the nobles."
                             ]
                         },
                         {
@@ -22732,14 +22564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族のオヤジって、スケベが多いから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬が合うのかしら。"
+                                "I wonder if it's because there are many perverted nobles that they get\nalong with the lord of this place."
                             ]
                         },
                         {
@@ -22840,14 +22665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行方不明事件だなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供が心配だわ。"
+                                "I'm worried about the missing person case. The children are worried."
                             ]
                         },
                         {
@@ -22924,14 +22742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街には、綺麗な水が流れているのと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下水もしっかりと整備されているんだ。"
+                                "In this town, clean water flows and the sewage system is well-\nmaintained."
                             ]
                         },
                         {
@@ -22948,7 +22759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な水は、大事だよね。"
+                                "Clean water is important, right?"
                             ]
                         },
                         {
@@ -23025,7 +22836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "異常なしですっ！"
+                                "No abnormalities here!"
                             ]
                         },
                         {
@@ -23101,7 +22912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アナスタシア様の噂は、兼ねてから伺っております。"
+                                "I have been hearing rumors about Lady Anastasia for a while now."
                             ]
                         },
                         {
@@ -23118,7 +22929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術だけでなく、学園一の才女だったと。"
+                                "Not only in sorcery, but also known as the most talented girl in the\nacademy."
                             ]
                         },
                         {
@@ -23194,21 +23005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宮廷魔術師の中でも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "１位２位を争う智謀の持ち主と言われるアナスタシア様が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなにお若かったとは、驚きですっ。"
+                                "I'm surprised to see that Anastasia-sama, who is said to be one of the\nmost cunning court sorceresses, is so young."
                             ]
                         },
                         {
@@ -23284,7 +23081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主には、黒い噂もあるので気を付けてくださいっ。"
+                                "Please be careful with the lord of this place, as there are also dark\nrumors about him."
                             ]
                         },
                         {
@@ -23301,21 +23098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか失踪事件だけでなく、領主様の噂も調査に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いらっしゃったのでは？"
+                                "Huh?! Could it be that you're not only investigating the disappearance\ncase, but also the rumors about the lord?"
                             ]
                         },
                         {
@@ -23332,7 +23115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・考えすぎですね。"
+                                "・・・You're overthinking."
                             ]
                         },
                         {
@@ -23408,21 +23191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裏の山を、捜索したとき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な違和感を感じたのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も見つけることはできませんでしたっ。"
+                                "When we searched the mountain behind, I felt a strange sense of\ndiscomfort... but we couldn't find anything."
                             ]
                         },
                         {
@@ -23531,7 +23300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "残念なことに、この街に教会はないのです。"
+                                "Unfortunately, there is no church in this town."
                             ]
                         },
                         {
@@ -23548,7 +23317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なので、こちらの像にお祈りをしているのです。"
+                                "So, I am praying to this statue here."
                             ]
                         },
                         {
@@ -23624,7 +23393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・暇だから、ではありませんよ？"
+                                "・・・Because I'm free, isn't it?"
                             ]
                         },
                         {
@@ -23709,14 +23478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと調子に乗って、・・・食べ過ぎたかしら・・・。"
+                                "Phew... I might have gotten a little carried away... I wonder if I ate\ntoo much..."
                             ]
                         },
                         {
@@ -23793,14 +23555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街のどこかに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有名な占い師がいるらしいんだけど・・・"
+                                "There seems to be a famous fortune teller somewhere in this town..."
                             ]
                         },
                         {
@@ -23817,7 +23572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこにいるのかしら？"
+                                "I wonder where they are?"
                             ]
                         },
                         {
@@ -23894,7 +23649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ・・・。"
+                                "Phew..."
                             ]
                         },
                         {
@@ -23986,14 +23741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "荷物運んでるだけだよ？"
+                                "・・・ Just carrying some luggage, you know?"
                             ]
                         },
                         {
@@ -24086,14 +23834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまには外で勉強って言うのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪くないよね。"
+                                "Sometimes it's not a bad idea to study outside, right?"
                             ]
                         },
                         {
@@ -24170,14 +23911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わしも年じゃ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か元気が出るようなことはないかのぉ。"
+                                "I'm getting old too... Is there anything that can cheer me up?"
                             ]
                         },
                         {
@@ -24254,7 +23988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・たる・・・"
+                                "・・・Taru..."
                             ]
                         },
                         {
@@ -24331,28 +24065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結界というのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力の弱い者には気付くこともなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りの景色と同じような風景が見えるだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というものもあるんじゃ。"
+                                "Barrier is something that even those with weak magical power may not\nnotice, it just appears as the same scenery as the surroundings."
                             ]
                         },
                         {
@@ -24540,14 +24253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街にも、魔術の結界があるかもしれんのぉ。"
+                                "There might be a magical barrier in this town too, you know."
                             ]
                         },
                         {
@@ -24735,7 +24441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・昔、魔術の教師をしていたことがあるんじゃ。"
+                                "・・・I used to be a sorcery teacher."
                             ]
                         },
                         {
@@ -25249,7 +24955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初オナニーを言え"
+                                "Tell me about your first time masturbating."
                             ]
                         },
                         {
@@ -25492,28 +25198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらの宿に、部屋をご用意しておりますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] We have prepared a room for you at this inn."
                             ]
                         },
                         {
@@ -25530,14 +25215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調査の間は、どうぞご自由にお使いください。"
+                                "[Principal] Please feel free to use the room during the investigation."
                             ]
                         },
                         {
@@ -25648,28 +25326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Thank you very much."
                             ]
                         },
                         {
@@ -25686,14 +25343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠慮なく使わせていただきます。"
+                                "[Anastasia] I will use it without hesitation."
                             ]
                         },
                         {
@@ -25843,28 +25493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はアカデミーに居りますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] I will be at the academy, so"
                             ]
                         },
                         {
@@ -25881,28 +25510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあれば、いつでも言ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] If there's anything, please let me know anytime."
                             ]
                         },
                         {
@@ -25919,14 +25527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうか、生徒たちのことをよろしくお願い致します。"
+                                "[Principal] Please take care of the students."
                             ]
                         },
                         {
@@ -26194,21 +25795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さて、まずは宿の部屋を確認してから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調査に移ることにしましょう。）"
+                                "[Anastasia] (Well, first let's check the room at the inn before we\nproceed with the investigation.)"
                             ]
                         },
                         {
