@@ -1,0 +1,8 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!.gitignore
