@@ -1,0 +1,3675 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "魔術アカデミー",
+        "order": 15,
+        "parentId": 3,
+        "scrollX": 973.1999999999999,
+        "scrollY": 569.4
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "地下街",
+        "order": 52,
+        "parentId": 7,
+        "scrollX": 994.8,
+        "scrollY": 760.1999999999999
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "メイン街",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1935.6,
+        "scrollY": 1619.3999999999999
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "夜の店",
+        "order": 2,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "マジックショップ",
+        "order": 3,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "倉庫",
+        "order": 50,
+        "parentId": 3,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "通路",
+        "order": 51,
+        "parentId": 6,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "道具屋",
+        "order": 4,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "ランジェリーショップ",
+        "order": 6,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "宿屋１F",
+        "order": 10,
+        "parentId": 3,
+        "scrollX": 973.1999999999999,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "酒場",
+        "order": 7,
+        "parentId": 3,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "宿屋２F",
+        "order": 11,
+        "parentId": 10,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 13,
+        "expanded": false,
+        "name": "パン屋",
+        "order": 5,
+        "parentId": 3,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "魔術アカデミー１F",
+        "order": 16,
+        "parentId": 1,
+        "scrollX": 1078.8,
+        "scrollY": 760.1999999999999
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "魔術アカデミー２F",
+        "order": 17,
+        "parentId": 14,
+        "scrollX": 973.1999999999999,
+        "scrollY": 750.6
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "魔術アカデミー寮２F",
+        "order": 19,
+        "parentId": 17,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 766
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "魔術アカデミー寮１F",
+        "order": 18,
+        "parentId": 14,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 846
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "アイテム屋",
+        "order": 53,
+        "parentId": 2,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "ホテル1F",
+        "order": 64,
+        "parentId": 2,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "マジックショップ",
+        "order": 54,
+        "parentId": 2,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "安宿",
+        "order": 55,
+        "parentId": 2,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "酒場",
+        "order": 56,
+        "parentId": 2,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "テント",
+        "order": 57,
+        "parentId": 2,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "ホテルフロア",
+        "order": 65,
+        "parentId": 19,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "高級娼館",
+        "order": 60,
+        "parentId": 2,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "高級娼館部屋",
+        "order": 61,
+        "parentId": 25,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "カジノ",
+        "order": 62,
+        "parentId": 2,
+        "scrollX": 994.8,
+        "scrollY": 1163.3999999999999
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "カジノ奥",
+        "order": 63,
+        "parentId": 27,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "森",
+        "order": 21,
+        "parentId": 1,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 30,
+        "expanded": true,
+        "name": "屋敷",
+        "order": 22,
+        "parentId": 29,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "魔女の部屋",
+        "order": 34,
+        "parentId": 34,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "書斎",
+        "order": 24,
+        "parentId": 33,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "屋敷内",
+        "order": 23,
+        "parentId": 30,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "３階書庫",
+        "order": 31,
+        "parentId": 33,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "通路３階",
+        "order": 28,
+        "parentId": 32,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "民家",
+        "order": 59,
+        "parentId": 2,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "民家",
+        "order": 58,
+        "parentId": 2,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "民家",
+        "order": 8,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "民家",
+        "order": 9,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "領主の屋敷",
+        "order": 66,
+        "parentId": 3,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "モンスター部屋４",
+        "order": 48,
+        "parentId": 43,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "モンスター部屋２",
+        "order": 46,
+        "parentId": 46,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "モンスター部屋３",
+        "order": 47,
+        "parentId": 42,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "モンスター部屋５",
+        "order": 49,
+        "parentId": 41,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "魔女の部屋（ED）",
+        "order": 35,
+        "parentId": 31,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "モンスター部屋",
+        "order": 45,
+        "parentId": 173,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "魔術アカデミー２F（ED）",
+        "order": 39,
+        "parentId": 50,
+        "scrollX": 816,
+        "scrollY": 704
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "魔術アカデミー（ED）",
+        "order": 37,
+        "parentId": 49,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "メイン街（ED）",
+        "order": 36,
+        "parentId": 45,
+        "scrollX": 2050,
+        "scrollY": 1438
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "地下街（ED）",
+        "order": 38,
+        "parentId": 48,
+        "scrollX": 994,
+        "scrollY": 1198
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "領主の屋敷",
+        "order": 42,
+        "parentId": 395,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "屋敷内２階",
+        "order": 29,
+        "parentId": 33,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "小部屋１",
+        "order": 27,
+        "parentId": 55,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "小部屋",
+        "order": 30,
+        "parentId": 52,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "通路２階",
+        "order": 25,
+        "parentId": 32,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "屋敷（OP）",
+        "order": 70,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "宿屋２F（夜）",
+        "order": 67,
+        "parentId": 3,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "メイン街（OP用）",
+        "order": 71,
+        "parentId": 56,
+        "scrollX": 1846.8,
+        "scrollY": 1816.1999999999998
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "宿屋１F(OP用)",
+        "order": 72,
+        "parentId": 58,
+        "scrollX": 973.1999999999999,
+        "scrollY": 665.4
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "宿屋２F（OP用）",
+        "order": 73,
+        "parentId": 59,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "森（OP用）",
+        "order": 74,
+        "parentId": 60,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "魔術アカデミー２F（OP）",
+        "order": 75,
+        "parentId": 61,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 750
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "書庫（OP）",
+        "order": 76,
+        "parentId": 62,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "MAP064",
+        "order": 77,
+        "parentId": 63,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "宿屋２F（OP用2）",
+        "order": 78,
+        "parentId": 64,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "メイン街（イベ１）",
+        "order": 79,
+        "parentId": 0,
+        "scrollX": 1825.1999999999998,
+        "scrollY": 1629
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "宿屋２F（イベ１）",
+        "order": 80,
+        "parentId": 66,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "宿屋１F(イベ１)",
+        "order": 81,
+        "parentId": 67,
+        "scrollX": 973.1999999999999,
+        "scrollY": 606.6
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "屋敷イベ２",
+        "order": 83,
+        "parentId": 70,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "書斎（イベ２）",
+        "order": 82,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "宿屋２F（イベ２）",
+        "order": 84,
+        "parentId": 69,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "宿屋１F(イベ３）",
+        "order": 85,
+        "parentId": 0,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 606
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "宿屋２F（夜）",
+        "order": 86,
+        "parentId": 72,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "宿屋１F(イベ３）",
+        "order": 87,
+        "parentId": 73,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "メイン街（イベ４）",
+        "order": 88,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "宿屋１F(イベ５）",
+        "order": 89,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "宿屋２F（イベ５）",
+        "order": 90,
+        "parentId": 76,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "宿屋１F(イベ５）",
+        "order": 91,
+        "parentId": 76,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 79,
+        "expanded": false,
+        "name": "メイン街（イベ６）",
+        "order": 92,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "宿屋１F(イベ７)",
+        "order": 94,
+        "parentId": 0,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "宿屋２F（イベ７）",
+        "order": 96,
+        "parentId": 80,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 82,
+        "expanded": true,
+        "name": "宿屋１F(イベ７）",
+        "order": 95,
+        "parentId": 80,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "宿屋１F(イベ７後)",
+        "order": 99,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 84,
+        "expanded": true,
+        "name": "MAP084",
+        "order": 98,
+        "parentId": 81,
+        "scrollX": 708.6666666666666,
+        "scrollY": 551.3333333333334
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "メイン街（イベ７後）",
+        "order": 100,
+        "parentId": 83,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "宿屋１F(イベ７後)",
+        "order": 101,
+        "parentId": 85,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 87,
+        "expanded": true,
+        "name": "書斎（イベ７）",
+        "order": 97,
+        "parentId": 81,
+        "scrollX": 708.6666666666666,
+        "scrollY": 551.3333333333334
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "魔術アカデミー２F（イベ８）",
+        "order": 103,
+        "parentId": 86,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "魔術アカデミー（イベ８）",
+        "order": 102,
+        "parentId": 86,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "魔術アカデミー２F２（イベ８）",
+        "order": 104,
+        "parentId": 88,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "夜の店（イベ９）",
+        "order": 105,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 92,
+        "expanded": true,
+        "name": "夜の店（イベ９）",
+        "order": 106,
+        "parentId": 91,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "夜の店（イベ９）",
+        "order": 107,
+        "parentId": 92,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "夜の店（イベ９）",
+        "order": 108,
+        "parentId": 93,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "魔術アカデミー２F２（イベ１０）",
+        "order": 110,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "魔術アカデミー２F２（イベ１０）",
+        "order": 111,
+        "parentId": 95,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "メイン街（イベ１０）",
+        "order": 112,
+        "parentId": 95,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "夜の店（イベ１１）",
+        "order": 113,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "倉庫（イベ１１）",
+        "order": 114,
+        "parentId": 98,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "地下街(イベ１１）",
+        "order": 116,
+        "parentId": 99,
+        "scrollX": 973.1999999999999,
+        "scrollY": 594.6
+    },
+    {
+        "id": 101,
+        "expanded": true,
+        "name": "通路",
+        "order": 115,
+        "parentId": 99,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 102,
+        "expanded": true,
+        "name": "地下街(イベ１１）",
+        "order": 117,
+        "parentId": 100,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 103,
+        "expanded": false,
+        "name": "酒場（イベ１１）",
+        "order": 118,
+        "parentId": 100,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "酒場（イベ１１）",
+        "order": 119,
+        "parentId": 100,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 105,
+        "expanded": false,
+        "name": "酒場（イベ１１）",
+        "order": 120,
+        "parentId": 100,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "酒場（１１－３）",
+        "order": 125,
+        "parentId": 113,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 107,
+        "expanded": false,
+        "name": "宿屋１F(イベ１２)",
+        "order": 126,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 108,
+        "expanded": true,
+        "name": "宿屋１F(イベ１２）",
+        "order": 127,
+        "parentId": 107,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 109,
+        "expanded": true,
+        "name": "安宿（サブイベ）",
+        "order": 128,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "酒場（イベ１１ー２）",
+        "order": 121,
+        "parentId": 100,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "酒場（イベ１１ー２）",
+        "order": 122,
+        "parentId": 110,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 112,
+        "expanded": false,
+        "name": "支払い達成１",
+        "order": 130,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 113,
+        "expanded": true,
+        "name": "酒場（イベ１１－３）",
+        "order": 123,
+        "parentId": 100,
+        "scrollX": 708.6666666666666,
+        "scrollY": 551.3333333333334
+    },
+    {
+        "id": 114,
+        "expanded": false,
+        "name": "酒場（イベ１１ー３）",
+        "order": 124,
+        "parentId": 113,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "支払い達成２",
+        "order": 131,
+        "parentId": 112,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 116,
+        "expanded": false,
+        "name": "路上イベ",
+        "order": 132,
+        "parentId": 0,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 117,
+        "expanded": false,
+        "name": "路上イベ２",
+        "order": 133,
+        "parentId": 116,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "酒場サブイベ１",
+        "order": 135,
+        "parentId": 119,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "酒場サブ１",
+        "order": 134,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 120,
+        "expanded": false,
+        "name": "酒場サブイベ１",
+        "order": 136,
+        "parentId": 119,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 121,
+        "expanded": false,
+        "name": "酒場サブ２",
+        "order": 137,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 122,
+        "expanded": false,
+        "name": "酒場サブイベ２",
+        "order": 138,
+        "parentId": 121,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 123,
+        "expanded": false,
+        "name": "酒場サブイベ２",
+        "order": 139,
+        "parentId": 122,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "宿屋１F(イベ１３）",
+        "order": 140,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "宿屋２F（イベ１４）",
+        "order": 141,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "夜会２",
+        "order": 353,
+        "parentId": 262,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 127,
+        "expanded": true,
+        "name": "夜会１",
+        "order": 354,
+        "parentId": 126,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 128,
+        "expanded": true,
+        "name": "宿屋２F（イベ１５）",
+        "order": 142,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 129,
+        "expanded": true,
+        "name": "路上（イベ１６）",
+        "order": 143,
+        "parentId": 0,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 130,
+        "expanded": true,
+        "name": "高級娼館",
+        "order": 144,
+        "parentId": 129,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 131,
+        "expanded": true,
+        "name": "高級娼館部屋",
+        "order": 145,
+        "parentId": 130,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 132,
+        "expanded": true,
+        "name": "宿屋２F（イベ６）",
+        "order": 93,
+        "parentId": 79,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "高級娼館部屋",
+        "order": 146,
+        "parentId": 131,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "高級娼館",
+        "order": 147,
+        "parentId": 133,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 135,
+        "expanded": false,
+        "name": "高級娼館（イベ１７）",
+        "order": 148,
+        "parentId": 0,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "高級娼館部屋（イベ１７）",
+        "order": 149,
+        "parentId": 135,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "高級娼館部屋（イベ１７）",
+        "order": 150,
+        "parentId": 136,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "高級娼館（イベ１７）",
+        "order": 152,
+        "parentId": 139,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "高級娼館部屋（イベ１７）",
+        "order": 151,
+        "parentId": 137,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 140,
+        "expanded": false,
+        "name": "路上（イベ１７後）",
+        "order": 153,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "ガラス部屋",
+        "order": 351,
+        "parentId": 342,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "支払い達成（イベ１７後）",
+        "order": 154,
+        "parentId": 140,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 143,
+        "expanded": false,
+        "name": "支払い達成（イベ１７後）",
+        "order": 155,
+        "parentId": 142,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "宿屋２F（イベ１８）",
+        "order": 156,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "宿屋２F（イベ１８）",
+        "order": 157,
+        "parentId": 144,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "高級娼館（イベ１８）",
+        "order": 158,
+        "parentId": 145,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 147,
+        "expanded": true,
+        "name": "高級娼館部屋（イベ１８）",
+        "order": 159,
+        "parentId": 146,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 148,
+        "expanded": true,
+        "name": "高級娼館（イベ１８）",
+        "order": 160,
+        "parentId": 147,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 149,
+        "expanded": true,
+        "name": "高級娼館部屋（イベ１８）",
+        "order": 161,
+        "parentId": 148,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 150,
+        "expanded": true,
+        "name": "高級娼館（イベ１８）",
+        "order": 162,
+        "parentId": 149,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 151,
+        "expanded": true,
+        "name": "路上（イベ１８）",
+        "order": 163,
+        "parentId": 150,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 152,
+        "expanded": true,
+        "name": "宿屋２F（フリー２）",
+        "order": 164,
+        "parentId": 0,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "ランジェリー（フリー３）",
+        "order": 165,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "魔術アカデミー２F（フリ３）",
+        "order": 166,
+        "parentId": 153,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "魔術アカデミー２F（フリ３）",
+        "order": 167,
+        "parentId": 154,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 156,
+        "expanded": true,
+        "name": "ホテル1F（フリー１）",
+        "order": 168,
+        "parentId": 0,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "ホテルフロア（フリー１）",
+        "order": 169,
+        "parentId": 156,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 158,
+        "expanded": true,
+        "name": "路上（フリー１）",
+        "order": 170,
+        "parentId": 157,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 159,
+        "expanded": true,
+        "name": "空き家（フリー５）",
+        "order": 171,
+        "parentId": 0,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 160,
+        "expanded": true,
+        "name": "空き家",
+        "order": 69,
+        "parentId": 3,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 161,
+        "expanded": true,
+        "name": "空き家（フリー５）",
+        "order": 172,
+        "parentId": 159,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 162,
+        "expanded": true,
+        "name": "空き家（フリー５）",
+        "order": 173,
+        "parentId": 161,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "路上（フリー４）",
+        "order": 174,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 164,
+        "expanded": true,
+        "name": "倉庫",
+        "order": 129,
+        "parentId": 109,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 165,
+        "expanded": true,
+        "name": "地下街",
+        "order": 175,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 166,
+        "expanded": true,
+        "name": "魔術アカデミー（フリー）",
+        "order": 109,
+        "parentId": 94,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "魔女の部屋（回想４９）",
+        "order": 332,
+        "parentId": 171,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "宿屋１F",
+        "order": 40,
+        "parentId": 47,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "小部屋２",
+        "order": 26,
+        "parentId": 55,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "MAP170",
+        "order": 192,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 212,
+        "parentId": 0,
+        "scrollX": 973.1999999999999,
+        "scrollY": 736.1999999999999
+    },
+    {
+        "id": 172,
+        "expanded": false,
+        "name": "回想部屋2",
+        "order": 213,
+        "parentId": 171,
+        "scrollX": 973.1999999999999,
+        "scrollY": 707.4
+    },
+    {
+        "id": 173,
+        "expanded": true,
+        "name": "モンスター部屋",
+        "order": 44,
+        "parentId": 33,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "敗北１",
+        "order": 193,
+        "parentId": 0,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 175,
+        "expanded": true,
+        "name": "MAP175",
+        "order": 194,
+        "parentId": 174,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "敗北回想１",
+        "order": 214,
+        "parentId": 171,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "敗北回想１-２",
+        "order": 215,
+        "parentId": 176,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 178,
+        "expanded": false,
+        "name": "回想３",
+        "order": 216,
+        "parentId": 171,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 606
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "回想３宿屋２F（夜）",
+        "order": 217,
+        "parentId": 178,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 180,
+        "expanded": true,
+        "name": "宿屋１F(回想３）",
+        "order": 218,
+        "parentId": 179,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 181,
+        "expanded": true,
+        "name": "メイン街（回想４）",
+        "order": 219,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "メイン街（回想６）",
+        "order": 221,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "宿屋１F(回想７)",
+        "order": 222,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "宿屋１F(回想７）",
+        "order": 223,
+        "parentId": 183,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 185,
+        "expanded": false,
+        "name": "宿屋２F（回想７）",
+        "order": 224,
+        "parentId": 184,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 186,
+        "expanded": false,
+        "name": "魔術アカデミー（回想８）",
+        "order": 225,
+        "parentId": 171,
+        "scrollX": 970.8,
+        "scrollY": 577.8
+    },
+    {
+        "id": 187,
+        "expanded": false,
+        "name": "魔術アカデミー２F（回想８）",
+        "order": 226,
+        "parentId": 186,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 188,
+        "expanded": true,
+        "name": "宿屋１F(回想５）",
+        "order": 220,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 189,
+        "expanded": true,
+        "name": "夜の店（回想９）",
+        "order": 227,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "夜の店（回想９）",
+        "order": 228,
+        "parentId": 189,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "夜の店（回想９）",
+        "order": 230,
+        "parentId": 190,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "夜の店（回想９）",
+        "order": 229,
+        "parentId": 190,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "メイン街（回想１０）",
+        "order": 231,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 194,
+        "expanded": false,
+        "name": "魔術アカデミー２F２（回想１０）",
+        "order": 232,
+        "parentId": 193,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 195,
+        "expanded": true,
+        "name": "魔術アカデミー２F２（回想１０）",
+        "order": 233,
+        "parentId": 194,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 196,
+        "expanded": true,
+        "name": "メイン街（アナフリー）",
+        "order": 356,
+        "parentId": 0,
+        "scrollX": 1836,
+        "scrollY": 1608.6
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "夜の店（アナフリー）",
+        "order": 357,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 198,
+        "expanded": true,
+        "name": "マジックショップ（アナフリー）",
+        "order": 358,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 199,
+        "expanded": true,
+        "name": "MAP199（イベ１９）",
+        "order": 176,
+        "parentId": 165,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "カジノ",
+        "order": 177,
+        "parentId": 199,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "カジノ奥",
+        "order": 179,
+        "parentId": 202,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "カジノ",
+        "order": 178,
+        "parentId": 200,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 203,
+        "expanded": true,
+        "name": "高級娼館（魔女フリー）",
+        "order": 180,
+        "parentId": 165,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "地下街（魔女フリー）",
+        "order": 182,
+        "parentId": 203,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 994
+    },
+    {
+        "id": 205,
+        "expanded": true,
+        "name": "路上（魔女フリー）",
+        "order": 181,
+        "parentId": 203,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 206,
+        "expanded": true,
+        "name": "講堂",
+        "order": 20,
+        "parentId": 14,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 207,
+        "expanded": true,
+        "name": "ホテル1F（魔女フリー）",
+        "order": 186,
+        "parentId": 204,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 208,
+        "expanded": true,
+        "name": "酒場（魔女フリー）",
+        "order": 183,
+        "parentId": 204,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 209,
+        "expanded": true,
+        "name": "酒場（魔女フリー）",
+        "order": 184,
+        "parentId": 208,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "牢屋",
+        "order": 32,
+        "parentId": 34,
+        "scrollX": 973.1999999999999,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 211,
+        "expanded": false,
+        "name": "牢屋",
+        "order": 33,
+        "parentId": 210,
+        "scrollX": 973.1999999999999,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 212,
+        "expanded": true,
+        "name": "書庫（敗北0）",
+        "order": 209,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 213,
+        "expanded": true,
+        "name": "牢屋（敗北0）",
+        "order": 210,
+        "parentId": 212,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 598
+    },
+    {
+        "id": 214,
+        "expanded": false,
+        "name": "牢屋（敗北0）",
+        "order": 211,
+        "parentId": 213,
+        "scrollX": 973.1999999999999,
+        "scrollY": 613.8
+    },
+    {
+        "id": 215,
+        "expanded": true,
+        "name": "ホテルフロア（魔女フリー）",
+        "order": 187,
+        "parentId": 204,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "カジノ（魔女フリー）",
+        "order": 189,
+        "parentId": 204,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 1326
+    },
+    {
+        "id": 217,
+        "expanded": true,
+        "name": "路上",
+        "order": 188,
+        "parentId": 204,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 218,
+        "expanded": true,
+        "name": "カジノ（魔女フリー）",
+        "order": 191,
+        "parentId": 222,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "映像２（アナフリー）",
+        "order": 349,
+        "parentId": 341,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 220,
+        "expanded": true,
+        "name": "カジノ奥（アナフリー）",
+        "order": 346,
+        "parentId": 221,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 221,
+        "expanded": true,
+        "name": "カジノ（アナフリー）",
+        "order": 345,
+        "parentId": 0,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 222,
+        "expanded": true,
+        "name": "通路３階",
+        "order": 190,
+        "parentId": 216,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 223,
+        "expanded": false,
+        "name": "道具屋（アナフリー）",
+        "order": 359,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 224,
+        "expanded": false,
+        "name": "パン屋（アナフリー）",
+        "order": 360,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 225,
+        "expanded": false,
+        "name": "ランジェリーショップ（アナフリー）",
+        "order": 361,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 226,
+        "expanded": true,
+        "name": "酒場（アナフリー）",
+        "order": 362,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 227,
+        "expanded": false,
+        "name": "民家（アナフリー）",
+        "order": 364,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 228,
+        "expanded": true,
+        "name": "民家（アナフリー）",
+        "order": 365,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 229,
+        "expanded": true,
+        "name": "宿屋１F（アナフリー）",
+        "order": 368,
+        "parentId": 196,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 606
+    },
+    {
+        "id": 230,
+        "expanded": true,
+        "name": "宿屋２F（アナフリー）",
+        "order": 369,
+        "parentId": 229,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 231,
+        "expanded": true,
+        "name": "魔術アカデミー（アナフリー）",
+        "order": 370,
+        "parentId": 196,
+        "scrollX": 973.1999999999999,
+        "scrollY": 538.1999999999999
+    },
+    {
+        "id": 232,
+        "expanded": true,
+        "name": "魔術アカデミー１F（アナフリー）",
+        "order": 371,
+        "parentId": 231,
+        "scrollX": 1081.2,
+        "scrollY": 720.6
+    },
+    {
+        "id": 233,
+        "expanded": true,
+        "name": "魔術アカデミー２F（アナフリー）",
+        "order": 372,
+        "parentId": 232,
+        "scrollX": 973.1999999999999,
+        "scrollY": 759
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "魔術アカデミー寮１F（アナフリー）",
+        "order": 373,
+        "parentId": 232,
+        "scrollX": 973.1999999999999,
+        "scrollY": 747
+    },
+    {
+        "id": 235,
+        "expanded": true,
+        "name": "魔術アカデミー寮２F（アナフリー）",
+        "order": 374,
+        "parentId": 234,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 766
+    },
+    {
+        "id": 236,
+        "expanded": true,
+        "name": "講堂（アナフリー）",
+        "order": 381,
+        "parentId": 231,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 237,
+        "expanded": true,
+        "name": "倉庫（アナフリー）",
+        "order": 384,
+        "parentId": 196,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "通路（アナフリー）",
+        "order": 385,
+        "parentId": 237,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 239,
+        "expanded": true,
+        "name": "地下街（アナフリー）",
+        "order": 386,
+        "parentId": 238,
+        "scrollX": 994.8,
+        "scrollY": 1183.8
+    },
+    {
+        "id": 240,
+        "expanded": true,
+        "name": "アイテム屋（アナフリー）",
+        "order": 387,
+        "parentId": 239,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 241,
+        "expanded": false,
+        "name": "マジックショップ（アナフリー）",
+        "order": 388,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 242,
+        "expanded": false,
+        "name": "安宿（アナフリー）",
+        "order": 389,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 243,
+        "expanded": true,
+        "name": "酒場（アナフリー）",
+        "order": 390,
+        "parentId": 239,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 244,
+        "expanded": false,
+        "name": "テント（アナフリー）",
+        "order": 392,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 245,
+        "expanded": false,
+        "name": "民家（アナフリー）",
+        "order": 393,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 246,
+        "expanded": true,
+        "name": "民家（アナフリー）",
+        "order": 394,
+        "parentId": 239,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 247,
+        "expanded": true,
+        "name": "高級娼館（アナフリー）",
+        "order": 395,
+        "parentId": 239,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 248,
+        "expanded": true,
+        "name": "ホテル1F（アナフリー）",
+        "order": 402,
+        "parentId": 239,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 249,
+        "expanded": true,
+        "name": "空き家（アナフリー）",
+        "order": 382,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 250,
+        "expanded": true,
+        "name": "領主の屋敷（アナフリー）",
+        "order": 383,
+        "parentId": 196,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 251,
+        "expanded": false,
+        "name": "ホテルフロア（アナフリー）",
+        "order": 403,
+        "parentId": 248,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 252,
+        "expanded": true,
+        "name": "カジノ（アナフリー）",
+        "order": 404,
+        "parentId": 239,
+        "scrollX": 994.8,
+        "scrollY": 1281
+    },
+    {
+        "id": 253,
+        "expanded": true,
+        "name": "３メイン街（兵士フリー）",
+        "order": 367,
+        "parentId": 228,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 254,
+        "expanded": false,
+        "name": "１酒場（アナフリー）",
+        "order": 363,
+        "parentId": 226,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 255,
+        "expanded": true,
+        "name": "７倉庫（アナフリー倉庫番）",
+        "order": 407,
+        "parentId": 237,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 256,
+        "expanded": true,
+        "name": "メイン街（アナフリー）",
+        "order": 399,
+        "parentId": 247,
+        "scrollX": 1910.3999999999999,
+        "scrollY": 1005
+    },
+    {
+        "id": 257,
+        "expanded": true,
+        "name": "６高級娼館部屋（貴族）",
+        "order": 396,
+        "parentId": 247,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 258,
+        "expanded": true,
+        "name": "２空き家（男の子）",
+        "order": 366,
+        "parentId": 228,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 259,
+        "expanded": false,
+        "name": "４酒場（酒場フリー）",
+        "order": 391,
+        "parentId": 243,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 260,
+        "expanded": true,
+        "name": "８魔術アカデミー寮１F",
+        "order": 375,
+        "parentId": 234,
+        "scrollX": 973.1999999999999,
+        "scrollY": 801
+    },
+    {
+        "id": 261,
+        "expanded": true,
+        "name": "屋敷（敗北４）",
+        "order": 203,
+        "parentId": 378,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 262,
+        "expanded": true,
+        "name": "ガラス部屋（初期）",
+        "order": 352,
+        "parentId": 141,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 263,
+        "expanded": true,
+        "name": "敗北２",
+        "order": 195,
+        "parentId": 174,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 264,
+        "expanded": true,
+        "name": "敗北３",
+        "order": 198,
+        "parentId": 370,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 265,
+        "expanded": true,
+        "name": "領主屋敷１（敗北２）",
+        "order": 318,
+        "parentId": 372,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 266,
+        "expanded": true,
+        "name": "領主屋敷１",
+        "order": 196,
+        "parentId": 263,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 267,
+        "expanded": true,
+        "name": "宿屋１F(回想１４)",
+        "order": 238,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 268,
+        "expanded": false,
+        "name": "酒場（回想１１）",
+        "order": 234,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 269,
+        "expanded": true,
+        "name": "酒場（回想１２）",
+        "order": 235,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 270,
+        "expanded": false,
+        "name": "酒場（回想１２）",
+        "order": 236,
+        "parentId": 269,
+        "scrollX": 708.6666666666666,
+        "scrollY": 551.3333333333334
+    },
+    {
+        "id": 271,
+        "expanded": true,
+        "name": "宿屋１F(回想１４）",
+        "order": 239,
+        "parentId": 267,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 272,
+        "expanded": false,
+        "name": "酒場（回想１３）",
+        "order": 237,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 273,
+        "expanded": true,
+        "name": "路上（回想１５）",
+        "order": 240,
+        "parentId": 171,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 274,
+        "expanded": true,
+        "name": "路上イベ（回想１５）",
+        "order": 241,
+        "parentId": 273,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 275,
+        "expanded": true,
+        "name": "倉庫（回想１６）",
+        "order": 242,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 276,
+        "expanded": true,
+        "name": "倉庫（回想１６）",
+        "order": 243,
+        "parentId": 275,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 277,
+        "expanded": true,
+        "name": "魔術アカデミー（回想１７）",
+        "order": 244,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 278,
+        "expanded": true,
+        "name": "魔術アカデミー（回想１７）",
+        "order": 245,
+        "parentId": 277,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 279,
+        "expanded": true,
+        "name": "路上（回想１８）",
+        "order": 246,
+        "parentId": 171,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 280,
+        "expanded": false,
+        "name": "路上イベ２（回想１８）",
+        "order": 247,
+        "parentId": 279,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 281,
+        "expanded": true,
+        "name": "酒場サブイベ１（回想１９）",
+        "order": 249,
+        "parentId": 283,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 282,
+        "expanded": true,
+        "name": "宿屋１F(回想２０）",
+        "order": 250,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 283,
+        "expanded": true,
+        "name": "酒場サブイベ１（回想１９）",
+        "order": 248,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 284,
+        "expanded": true,
+        "name": "宿屋２F（回想２１）",
+        "order": 251,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 285,
+        "expanded": true,
+        "name": "宿屋２F（回想２２）",
+        "order": 252,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 286,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２３）",
+        "order": 253,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 287,
+        "expanded": true,
+        "name": "宿屋２F（明け方）",
+        "order": 68,
+        "parentId": 57,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 288,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２３）",
+        "order": 254,
+        "parentId": 286,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 289,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２４）",
+        "order": 255,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 290,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２４）",
+        "order": 256,
+        "parentId": 289,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 291,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２４）",
+        "order": 257,
+        "parentId": 290,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 292,
+        "expanded": true,
+        "name": "宿屋２F（回想２５）",
+        "order": 258,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 293,
+        "expanded": true,
+        "name": "宿屋２F（回想２５）",
+        "order": 259,
+        "parentId": 292,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 294,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２６）",
+        "order": 260,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 295,
+        "expanded": true,
+        "name": "高級娼館部屋（回想２７）",
+        "order": 261,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 296,
+        "expanded": true,
+        "name": "高級娼館（回想２８）",
+        "order": 262,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 297,
+        "expanded": true,
+        "name": "ホテル1F（回想２８）",
+        "order": 263,
+        "parentId": 296,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 298,
+        "expanded": true,
+        "name": "宿屋１F（回想２９）",
+        "order": 266,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 299,
+        "expanded": true,
+        "name": "魔術アカデミー２F（回想３０）",
+        "order": 268,
+        "parentId": 171,
+        "scrollX": 816,
+        "scrollY": 704
+    },
+    {
+        "id": 300,
+        "expanded": true,
+        "name": "路上（回想３１）",
+        "order": 271,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 301,
+        "expanded": true,
+        "name": "路上（回想３１）",
+        "order": 272,
+        "parentId": 300,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 302,
+        "expanded": true,
+        "name": "メイン街（回想３２）",
+        "order": 273,
+        "parentId": 171,
+        "scrollX": 1082.6666666666667,
+        "scrollY": 724.6666666666666
+    },
+    {
+        "id": 303,
+        "expanded": true,
+        "name": "ランジェリー（回想３０）",
+        "order": 269,
+        "parentId": 299,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 304,
+        "expanded": true,
+        "name": "ホテルフロア（回想２８）",
+        "order": 264,
+        "parentId": 297,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 305,
+        "expanded": true,
+        "name": "路上（回想２８）",
+        "order": 265,
+        "parentId": 304,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 306,
+        "expanded": true,
+        "name": "宿屋２F（回想２９）",
+        "order": 267,
+        "parentId": 298,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 307,
+        "expanded": true,
+        "name": "魔術アカデミー２F（回想３０）",
+        "order": 270,
+        "parentId": 303,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 308,
+        "expanded": true,
+        "name": "空き家（回想３２）",
+        "order": 274,
+        "parentId": 302,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 309,
+        "expanded": true,
+        "name": "空き家（回想３３）",
+        "order": 275,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 310,
+        "expanded": true,
+        "name": "空き家（回想３３）",
+        "order": 276,
+        "parentId": 309,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 311,
+        "expanded": true,
+        "name": "MAP199（回想３４）",
+        "order": 277,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 312,
+        "expanded": true,
+        "name": "カジノ（回想３４）",
+        "order": 278,
+        "parentId": 311,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 313,
+        "expanded": true,
+        "name": "カジノ（回想３４）",
+        "order": 279,
+        "parentId": 312,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 314,
+        "expanded": true,
+        "name": "カジノ奥（回想３４）",
+        "order": 280,
+        "parentId": 313,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 315,
+        "expanded": true,
+        "name": "地下街（回想３５）",
+        "order": 281,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 316,
+        "expanded": true,
+        "name": "路上（回想３５）",
+        "order": 282,
+        "parentId": 315,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 317,
+        "expanded": true,
+        "name": "地下街（回想３６）",
+        "order": 283,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 318,
+        "expanded": true,
+        "name": "ホテルフロア（回想３６）",
+        "order": 284,
+        "parentId": 317,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 319,
+        "expanded": true,
+        "name": "MAP319",
+        "order": 12,
+        "parentId": 12,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 320,
+        "expanded": true,
+        "name": "MAP320",
+        "order": 13,
+        "parentId": 319,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 321,
+        "expanded": true,
+        "name": "MAP321",
+        "order": 14,
+        "parentId": 320,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 322,
+        "expanded": false,
+        "name": "酒場（魔女フリー）",
+        "order": 185,
+        "parentId": 209,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 323,
+        "expanded": true,
+        "name": "酒場（回想３７）",
+        "order": 285,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 324,
+        "expanded": false,
+        "name": "酒場（回想３７）",
+        "order": 286,
+        "parentId": 323,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 325,
+        "expanded": true,
+        "name": "メイン街（回想３９）",
+        "order": 289,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 326,
+        "expanded": true,
+        "name": "通路（回想３８）",
+        "order": 287,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 327,
+        "expanded": true,
+        "name": "カジノ（回想３８）",
+        "order": 288,
+        "parentId": 326,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 328,
+        "expanded": true,
+        "name": "メイン街（回想３９）",
+        "order": 290,
+        "parentId": 325,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 329,
+        "expanded": true,
+        "name": "酒場（回想４０）",
+        "order": 291,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 330,
+        "expanded": true,
+        "name": "カジノ（アナフリー）",
+        "order": 405,
+        "parentId": 252,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 331,
+        "expanded": false,
+        "name": "１酒場（回想４０）",
+        "order": 292,
+        "parentId": 329,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 332,
+        "expanded": true,
+        "name": "カジノ（アナフリー）",
+        "order": 406,
+        "parentId": 330,
+        "scrollX": 994.8,
+        "scrollY": 1395
+    },
+    {
+        "id": 333,
+        "expanded": true,
+        "name": "カジノ（回想４１）",
+        "order": 293,
+        "parentId": 171,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 334,
+        "expanded": true,
+        "name": "カジノ（回想４１）",
+        "order": 294,
+        "parentId": 333,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 1280.6666666666667
+    },
+    {
+        "id": 335,
+        "expanded": true,
+        "name": "倉庫（アナフリー）",
+        "order": 408,
+        "parentId": 255,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 336,
+        "expanded": true,
+        "name": "倉庫（回想４２）",
+        "order": 295,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 337,
+        "expanded": true,
+        "name": "倉庫（回想４２）",
+        "order": 296,
+        "parentId": 336,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 338,
+        "expanded": true,
+        "name": "倉庫（回想４２）",
+        "order": 297,
+        "parentId": 337,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 339,
+        "expanded": true,
+        "name": "宿屋２F（アナフリー）",
+        "order": 400,
+        "parentId": 256,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 340,
+        "expanded": true,
+        "name": "映像１（アナフリー）",
+        "order": 347,
+        "parentId": 220,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 341,
+        "expanded": true,
+        "name": "カジノ奥２（アナフリー）",
+        "order": 348,
+        "parentId": 340,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 342,
+        "expanded": true,
+        "name": "映像３（アナフリー）",
+        "order": 350,
+        "parentId": 341,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 343,
+        "expanded": true,
+        "name": "カジノ（回想４３）",
+        "order": 298,
+        "parentId": 171,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 344,
+        "expanded": true,
+        "name": "カジノ奥（回想４３）",
+        "order": 299,
+        "parentId": 343,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 345,
+        "expanded": true,
+        "name": "映像１（回想４３）",
+        "order": 300,
+        "parentId": 344,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 346,
+        "expanded": true,
+        "name": "カジノ奥２（回想４３）",
+        "order": 301,
+        "parentId": 345,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 347,
+        "expanded": true,
+        "name": "映像２（回想４３）",
+        "order": 302,
+        "parentId": 346,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "映像３（回想４３）",
+        "order": 303,
+        "parentId": 347,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 349,
+        "expanded": true,
+        "name": "宿屋２F（アナフリー）",
+        "order": 401,
+        "parentId": 339,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 350,
+        "expanded": true,
+        "name": "メイン街（回想４４）",
+        "order": 304,
+        "parentId": 171,
+        "scrollX": 1941.6,
+        "scrollY": 1759.8
+    },
+    {
+        "id": 351,
+        "expanded": true,
+        "name": "宿屋２F（回想４４）",
+        "order": 305,
+        "parentId": 350,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "宿屋２F（回想４４）",
+        "order": 306,
+        "parentId": 351,
+        "scrollX": 1092,
+        "scrollY": 594
+    },
+    {
+        "id": 353,
+        "expanded": true,
+        "name": "高級娼館部屋（貴族）",
+        "order": 397,
+        "parentId": 257,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 354,
+        "expanded": true,
+        "name": "高級娼館部屋（貴族）",
+        "order": 398,
+        "parentId": 353,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 355,
+        "expanded": true,
+        "name": "高級娼館部屋（回想４５）",
+        "order": 307,
+        "parentId": 171,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 356,
+        "expanded": true,
+        "name": "高級娼館部屋（回想４５）",
+        "order": 308,
+        "parentId": 355,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 357,
+        "expanded": true,
+        "name": "高級娼館部屋（回想４５）",
+        "order": 309,
+        "parentId": 356,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 358,
+        "expanded": true,
+        "name": "１F回想１（アナフリー）",
+        "order": 376,
+        "parentId": 260,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 359,
+        "expanded": true,
+        "name": "１F回想２（アナフリー）",
+        "order": 378,
+        "parentId": 360,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 360,
+        "expanded": true,
+        "name": "アカデミー２",
+        "order": 377,
+        "parentId": 358,
+        "scrollX": 973.1999999999999,
+        "scrollY": 799.8
+    },
+    {
+        "id": 361,
+        "expanded": true,
+        "name": "アカデミー３",
+        "order": 379,
+        "parentId": 359,
+        "scrollX": 970.8,
+        "scrollY": 705
+    },
+    {
+        "id": 362,
+        "expanded": true,
+        "name": "アカデミー寮（回想４６）",
+        "order": 310,
+        "parentId": 171,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 800.6666666666666
+    },
+    {
+        "id": 363,
+        "expanded": true,
+        "name": "１F回想１（回想４６）",
+        "order": 311,
+        "parentId": 362,
+        "scrollX": 980.4,
+        "scrollY": 526.1999999999999
+    },
+    {
+        "id": 364,
+        "expanded": true,
+        "name": "アカデミー２（回想４６）",
+        "order": 312,
+        "parentId": 363,
+        "scrollX": 970.8,
+        "scrollY": 855
+    },
+    {
+        "id": 365,
+        "expanded": true,
+        "name": "１F回想２（回想４６）",
+        "order": 313,
+        "parentId": 364,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 584.6666666666666
+    },
+    {
+        "id": 366,
+        "expanded": true,
+        "name": "アカデミー３（回想４６）",
+        "order": 314,
+        "parentId": 365,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 855.3333333333334
+    },
+    {
+        "id": 367,
+        "expanded": true,
+        "name": "アカデミー４",
+        "order": 380,
+        "parentId": 361,
+        "scrollX": 970.8,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 368,
+        "expanded": true,
+        "name": "ガラス部屋（回想４７）",
+        "order": 316,
+        "parentId": 171,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 369,
+        "expanded": true,
+        "name": "アカデミー４（回想４６）",
+        "order": 315,
+        "parentId": 366,
+        "scrollX": 970.8,
+        "scrollY": 640.1999999999999
+    },
+    {
+        "id": 370,
+        "expanded": true,
+        "name": "領主屋敷２",
+        "order": 197,
+        "parentId": 266,
+        "scrollX": 973.1999999999999,
+        "scrollY": 569.4
+    },
+    {
+        "id": 371,
+        "expanded": true,
+        "name": "領主屋敷２（敗北２）",
+        "order": 319,
+        "parentId": 265,
+        "scrollX": 973.1999999999999,
+        "scrollY": 569.4
+    },
+    {
+        "id": 372,
+        "expanded": false,
+        "name": "敗北２",
+        "order": 317,
+        "parentId": 171,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 373,
+        "expanded": false,
+        "name": "酒場（回想４８）",
+        "order": 320,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 374,
+        "expanded": true,
+        "name": "魔術アカデミー１F（アナフリー）",
+        "order": 199,
+        "parentId": 264,
+        "scrollX": 1122,
+        "scrollY": 792.5999999999999
+    },
+    {
+        "id": 375,
+        "expanded": true,
+        "name": "敗北４",
+        "order": 200,
+        "parentId": 374,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 376,
+        "expanded": true,
+        "name": "敗北３",
+        "order": 321,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 377,
+        "expanded": true,
+        "name": "魔術アカデミー１F（敗北３）",
+        "order": 322,
+        "parentId": 376,
+        "scrollX": 1122,
+        "scrollY": 792.5999999999999
+    },
+    {
+        "id": 378,
+        "expanded": true,
+        "name": "テント",
+        "order": 202,
+        "parentId": 379,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 379,
+        "expanded": true,
+        "name": "地下街見世物",
+        "order": 201,
+        "parentId": 375,
+        "scrollX": 994,
+        "scrollY": 904
+    },
+    {
+        "id": 380,
+        "expanded": true,
+        "name": "屋敷内",
+        "order": 205,
+        "parentId": 382,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 381,
+        "expanded": true,
+        "name": "テント３",
+        "order": 206,
+        "parentId": 380,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 382,
+        "expanded": true,
+        "name": "テント２",
+        "order": 204,
+        "parentId": 261,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 383,
+        "expanded": true,
+        "name": "テント４",
+        "order": 208,
+        "parentId": 384,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 384,
+        "expanded": true,
+        "name": "地下街見世物２",
+        "order": 207,
+        "parentId": 381,
+        "scrollX": 994,
+        "scrollY": 1018
+    },
+    {
+        "id": 385,
+        "expanded": true,
+        "name": "敗北回想４",
+        "order": 323,
+        "parentId": 171,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 386,
+        "expanded": true,
+        "name": "地下街見世物敗北回想４",
+        "order": 324,
+        "parentId": 385,
+        "scrollX": 993.5999999999999,
+        "scrollY": 904.1999999999999
+    },
+    {
+        "id": 387,
+        "expanded": true,
+        "name": "テント敗北回想４",
+        "order": 325,
+        "parentId": 386,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 388,
+        "expanded": true,
+        "name": "屋敷（敗北回想４）",
+        "order": 326,
+        "parentId": 387,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 389,
+        "expanded": true,
+        "name": "テント２敗北回想４",
+        "order": 327,
+        "parentId": 388,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 390,
+        "expanded": true,
+        "name": "屋敷内敗北回想４",
+        "order": 328,
+        "parentId": 389,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 391,
+        "expanded": true,
+        "name": "テント３敗北回想４",
+        "order": 329,
+        "parentId": 390,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 392,
+        "expanded": true,
+        "name": "地下街見世物２敗北回想４",
+        "order": 330,
+        "parentId": 391,
+        "scrollX": 993.5999999999999,
+        "scrollY": 1018.1999999999999
+    },
+    {
+        "id": 393,
+        "expanded": true,
+        "name": "テント４敗北回想４",
+        "order": 331,
+        "parentId": 392,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 394,
+        "expanded": true,
+        "name": "屋敷（ED）",
+        "order": 43,
+        "parentId": 51,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 395,
+        "expanded": true,
+        "name": "領主屋敷１",
+        "order": 41,
+        "parentId": 168,
+        "scrollX": 848,
+        "scrollY": 624
+    },
+    {
+        "id": 396,
+        "expanded": true,
+        "name": "魔女の部屋（回想４９）",
+        "order": 333,
+        "parentId": 167,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 397,
+        "expanded": true,
+        "name": "メイン街（回想４９）",
+        "order": 334,
+        "parentId": 396,
+        "scrollX": 2049.6,
+        "scrollY": 1438.2
+    },
+    {
+        "id": 398,
+        "expanded": true,
+        "name": "魔術アカデミー（回想４９）",
+        "order": 335,
+        "parentId": 397,
+        "scrollX": 973.1999999999999,
+        "scrollY": 569.4
+    },
+    {
+        "id": 399,
+        "expanded": true,
+        "name": "地下街（回想４９）",
+        "order": 336,
+        "parentId": 398,
+        "scrollX": 993.5999999999999,
+        "scrollY": 1198.2
+    },
+    {
+        "id": 400,
+        "expanded": true,
+        "name": "魔術アカデミー２F（回想４９）",
+        "order": 337,
+        "parentId": 399,
+        "scrollX": 973.1999999999999,
+        "scrollY": 809.4
+    },
+    {
+        "id": 401,
+        "expanded": true,
+        "name": "宿屋１F（回想４９）",
+        "order": 338,
+        "parentId": 400,
+        "scrollX": 973.1999999999999,
+        "scrollY": 665.4
+    },
+    {
+        "id": 402,
+        "expanded": true,
+        "name": "領主屋敷１（回想４９）",
+        "order": 339,
+        "parentId": 401,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 403,
+        "expanded": true,
+        "name": "領主の屋敷（回想４９）",
+        "order": 340,
+        "parentId": 402,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 404,
+        "expanded": true,
+        "name": "屋敷（回想４９）",
+        "order": 341,
+        "parentId": 403,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 405,
+        "expanded": true,
+        "name": "夜会（回想５０）",
+        "order": 342,
+        "parentId": 171,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 406,
+        "expanded": true,
+        "name": "屋敷",
+        "order": 355,
+        "parentId": 127,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 407,
+        "expanded": true,
+        "name": "夜会（回想５０）",
+        "order": 343,
+        "parentId": 405,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    },
+    {
+        "id": 408,
+        "expanded": true,
+        "name": "屋敷（回想５０）",
+        "order": 344,
+        "parentId": 407,
+        "scrollX": 982.8,
+        "scrollY": 534.6
+    }
+]
