@@ -1410,28 +1410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから行くところで働くなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを自由に通れるようになるわぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Manager] If you're going to work here and go places, you'll need to be\nable to move around freely."
                             ]
                         },
                         {
@@ -1448,28 +1427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンナちゃんみたいに可愛い子なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たくさん稼げると思うけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Manager] I think if you're as cute as Anna-chan, you can earn a lot..."
                             ]
                         },
                         {
@@ -1486,14 +1444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまりハメを外しすぎちゃ駄目よぉ♥"
+                                "[Manager] It's not good to let loose too much, okay? ♥"
                             ]
                         },
                         {
@@ -1911,14 +1862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかこんなところが、この街にあったとは・・・。"
+                                "[Anastasia] I can't believe there's a place like this in this town..."
                             ]
                         },
                         {
@@ -2061,28 +2005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、女の子にとっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで働いてる子以外縁のない場所だから、知らないのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理ないわぁ。"
+                                "[Manager] Well, for girls, it's a place that only those who work here\nhave any connection to, so it's not surprising that you don't know\nabout it."
                             ]
                         },
                         {
@@ -2099,28 +2022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、この場所はこの街の領主様が仕切ってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなりの地位の貴族様を呼んで儲けてるらしいから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上で話そうものなら、タダじゃ済まないわぁ。"
+                                "[Manager] And besides, this place is run by the lord of this town. It\nseems they're making a lot of money by inviting quite a high-ranking\nnobles... If we were to talk about it openly, it wouldn't end well."
                             ]
                         },
                         {
@@ -2137,28 +2039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Manager] By the way..."
                             ]
                         },
                         {
@@ -2175,21 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーの偉い人だけは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場所に反対してるって聞いたことがあったわねぇ・・・。"
+                                "[Manager] I've heard that only the important people from the Academy...\nare against this place."
                             ]
                         },
                         {
@@ -2333,28 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（父の失脚と、この場所・・・何か関係があるのかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知れませんね。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (There might be some connection between my father's\ndownfall and this place...)"
                             ]
                         },
                         {
@@ -2371,21 +2217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この街の領主・・・タイミングからいっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり校長やあの女ともなにか繋がりが・・・）"
+                                "[Anastasia] (The lord of this town... judging by the timing, there must\nbe some connection between the principal, that woman, and him...)"
                             ]
                         },
                         {
@@ -2402,21 +2234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（図らずも、こんな場所に来たのですから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "領主に繋がる手掛かりも、探してみることにしましょう。）"
+                                "[Anastasia] (Since I unexpectedly came to this place... I'll also try\nto search for clues that connect to the lord.)"
                             ]
                         },
                         {

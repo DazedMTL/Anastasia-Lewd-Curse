@@ -1317,7 +1317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい・・・"
+                                "Welcome..."
                             ]
                         },
                         {
@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またどうぞ・・・"
+                                "Please come again..."
                             ]
                         },
                         {

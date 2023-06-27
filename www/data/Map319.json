@@ -1595,14 +1595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　魔法の呪いにより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　アナスタシアは、魔力を失ってしまいました。"
+                                "　　　Due to a curse of magic, Anastasia has lost her magical powers."
                             ]
                         },
                         {
@@ -1619,14 +1612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　魔力は敵を倒しレベルが上がるごとに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　取り戻していくことが可能です。 　　　　"
+                                "　　　 　It is possible to regain magical powers as you defeat enemies and\nlevel up."
                             ]
                         },
                         {
@@ -1844,7 +1830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　敵は、魔女の屋敷内で出現します。"
+                                "　　　The enemies will appear inside the witch's mansion."
                             ]
                         },
                         {
@@ -1861,14 +1847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　 魔女の屋敷内には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　簡単にレベルを上げるための施設もあります。"
+                                "　　　 Inside the witch's mansion, there are facilities to easily level up."
                             ]
                         },
                         {

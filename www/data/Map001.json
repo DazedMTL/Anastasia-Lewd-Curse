@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔術アカデミー",
+    "displayName": "Magic Academy",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -5019,7 +5019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>                   魔術アカデミー"
+                                "\\> Magic Academy"
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　この先講堂"
+                                "　　　Lecture Hall ahead."
                             ]
                         },
                         {
@@ -5183,14 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか裏の山に行ったときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な目眩を起こしたんだよなぁ。"
+                                "I experienced a strange dizziness when I went to the back mountain."
                             ]
                         },
                         {
@@ -5258,14 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか裏の山に行ったときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な目眩を起こしたんだよなぁ。"
+                                "I experienced a strange dizziness when I went to the back mountain."
                             ]
                         },
                         {
@@ -5282,14 +5268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめん、邪魔だったね"
+                                "Ah, sorry for interrupting."
                             ]
                         },
                         {
@@ -5869,14 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・"
+                                "[Anastasia] ...."
                             ]
                         },
                         {
@@ -5893,21 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにかしら違和感を感じますね。"
+                                "[Anastasia] I see, there's definitely a sense of discomfort here."
                             ]
                         },
                         {
@@ -5972,28 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほどまでの結界を張れるとなると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] If you can create such a powerful barrier, then"
                             ]
                         },
                         {
@@ -6010,14 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "術者は、かなり強力な魔力の持ち主のようですね。"
+                                "[Anastasia] The spellcaster seems to be a wielder of considerable\nmagical power."
                             ]
                         },
                         {
@@ -6082,28 +6012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フフフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Hehehe"
                             ]
                         },
                         {
@@ -6120,28 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失踪もしくは誘拐ということでしたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] It was said to be a disappearance or kidnapping."
                             ]
                         },
                         {
@@ -6158,28 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは、なかなか楽しめそうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざわざ王都から来た甲斐がありました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] This seems like it will be quite enjoyable. It was worth\ncoming all the way from the capital."
                             ]
                         },
                         {
@@ -6205,21 +6072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不用意に飛び込むのではなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し、準備をしてから出直すことにしましょう。"
+                                "[Anastasia] Instead of jumping in recklessly, let's prepare a little\nand come back later."
                             ]
                         },
                         {
@@ -6743,28 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Well,"
                             ]
                         },
                         {
@@ -6781,21 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘拐犯のもとへ伺うとしましょう。"
+                                "[Anastasia] Well, let's go and visit the kidnapper."
                             ]
                         },
                         {
@@ -7079,28 +6897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか複雑な結界でしたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] It was quite a complex barrier, but..."
                             ]
                         },
                         {
@@ -7117,28 +6914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、造作もありませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Well, it's no big deal."
                             ]
                         },
                         {
@@ -7155,21 +6931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーの教師レベルでは、欺けたかもしれませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フフフ"
+                                "[Anastasia] At the level of an academy teacher, I might have been able\nto deceive them. Hehehe."
                             ]
                         },
                         {
@@ -7646,28 +7408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような建物はありませんでしたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] There wasn't a building like this before, was there?"
                             ]
                         },
                         {
@@ -7684,28 +7425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "建物ごと移動してくるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] To think that the entire building would move..."
                             ]
                         },
                         {
@@ -7722,21 +7442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の首謀者は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか大胆な方のようです。フフフ"
+                                "[Anastasia] The mastermind behind this incident seems to be quite bold.\nHehehe."
                             ]
                         },
                         {
@@ -8167,28 +7873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界が破られたことには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気付いていると思いますが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I believe you have noticed that the barrier has been\nbroken."
                             ]
                         },
                         {
@@ -8205,28 +7890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここには人の気配はありませんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] There doesn't seem to be any human presence here."
                             ]
                         },
                         {
@@ -8243,28 +7907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとまず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥へ進むことにしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] For now, let's proceed further inside."
                             ]
                         },
                         {
@@ -8735,14 +8378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか裏の山に行ったときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な目眩を起こしたんだよなぁ。"
+                                "I experienced a strange dizziness when I went to the back mountain."
                             ]
                         },
                         {
@@ -8759,14 +8395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そーいえば結界の授業で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似たような現象について習ったような・・・"
+                                "Come to think of it, I think I learned about a similar phenomenon in\nthe barrier class..."
                             ]
                         },
                         {
@@ -9171,28 +8800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・っく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Student]...huh..."
                             ]
                         },
                         {
@@ -9209,14 +8817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・良い気になるなよ・・・。"
+                                "[Noble Student] Don't... get too full of yourself..."
                             ]
                         },
                         {
@@ -9320,14 +8921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フ・・・威勢だけは、いいようですね。"
+                                "[Anastasia] Well... you certainly have quite the confidence."
                             ]
                         },
                         {
@@ -9521,28 +9115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・っく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Student]...huh..."
                             ]
                         },
                         {
@@ -9559,14 +9132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・良い気になるなよ・・・。"
+                                "[Noble Student] Don't... get too full of yourself..."
                             ]
                         },
                         {
@@ -9670,14 +9236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フン・・・・・。"
+                                "[Anastasia] Hmph..."
                             ]
                         },
                         {
@@ -9871,28 +9430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・っく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Student]...huh..."
                             ]
                         },
                         {
@@ -9909,14 +9447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・良い気になるなよ・・・。"
+                                "[Noble Student] Don't... get too full of yourself..."
                             ]
                         },
                         {
@@ -10020,21 +9551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、このような者に構っている暇はありませんね・・・。）"
+                                "[Anastasia] (Haa... haa... I don't have time to deal with someone like\nyou...)"
                             ]
                         },
                         {

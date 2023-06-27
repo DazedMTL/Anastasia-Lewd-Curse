@@ -1772,14 +1772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街に、すごいお店があると聞いて来たんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この店ではないのか・・・。"
+                                "I heard there was an amazing shop in this town, but is this not the\none...?"
                             ]
                         },
                         {
@@ -1855,14 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君、可愛いねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は働いていないのかぃ？ニチャァ"
+                                "You're cute, aren't you? Are you not working? Nyaa."
                             ]
                         },
                         {
@@ -2187,14 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あら、今日はもう働いたでしょ？"
+                                "[Manager] Oh, you've already worked today, haven't you?"
                             ]
                         },
                         {
@@ -2262,21 +2241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あら、アンナちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どーしたの～？"
+                                "[Manager] Oh, Anna-chan, what's wrong?"
                             ]
                         },
                         {
@@ -2344,14 +2309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下でも頑張ってね、アナスタシアちゃん♥"
+                                "[Manager] Keep up the good work down there, Anastasia-chan ♥"
                             ]
                         },
                         {
@@ -2427,14 +2385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上と下の仕事の掛け持ちは禁止なのよぉ。"
+                                "[Manager] It's prohibited to have two jobs at the same time, both\nupstairs and downstairs."
                             ]
                         },
                         {

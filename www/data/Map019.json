@@ -1900,14 +1900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、一人でのお泊りは禁止になりますぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへへへ"
+                                "This place prohibits staying alone. Hehehehehehe."
                             ]
                         },
                         {

@@ -1585,7 +1585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　性欲ゲージが追加されました。"
+                                "　　　Sexual desire gauge has been added."
                             ]
                         },
                         {
@@ -1602,14 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　マップを移動するごとに性欲が溜まっていきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　建物内の移動は含まれません。"
+                                "　　　The sexual desire gauge will increase every time you move on the map.\nMoving inside buildings is not included."
                             ]
                         },
                         {
@@ -1626,14 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　ゲージが最大まで溜まると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　性欲を発散するためイベントへ移行することになります。"
+                                "　　　When the gauge reaches its maximum, you will transition to an event to\nrelease your sexual desire."
                             ]
                         },
                         {
@@ -1650,14 +1636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　状況により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ゲージが溜まりやすくなることがあります。"
+                                "　　　Depending on the situation, the gauge may accumulate more easily."
                             ]
                         },
                         {
@@ -1800,14 +1779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　  　イベントを最後まで進めるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　  魔女を倒すことによりクリアとなります。"
+                                "　　　 　  　You will clear the game by either progressing through the event to the\nend or defeating the witch."
                             ]
                         },
                         {

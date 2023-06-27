@@ -1556,7 +1556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良いことを教えてやる。"
+                                "I'll teach you something good."
                             ]
                         },
                         {
@@ -1573,14 +1573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タピオカジュース・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安いのに、ＴＰをあげてくれる。"
+                                "Tapioca juice... It's cheap, but it increases TP."
                             ]
                         },
                         {
@@ -1597,7 +1590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術が使えなくても、スキルは使えるだろぉ？"
+                                "Even if you can't use sorcery, you can still use skills, right?"
                             ]
                         },
                         {
@@ -1673,14 +1666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまりタピオカばっかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲みすぎるなよ？"
+                                "Don't drink too much tapioca, okay?"
                             ]
                         },
                         {

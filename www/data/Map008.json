@@ -1333,14 +1333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街は、錬金術も進んでいるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴重なアイテムも多いのぉ。"
+                                "This town has advanced alchemy, so there are many valuable items."
                             ]
                         },
                         {
@@ -1416,21 +1409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毛が生える薬も売っておるのか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと１０年早ければ・・・。"
+                                "What?! They even sell a medicine that makes hair grow!! If only it was\navailable 10 years earlier..."
                             ]
                         },
                         {
@@ -1515,7 +1494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このぬいぐるみは、売り物じゃないのか。"
+                                "Is this stuffed animal not for sale?"
                             ]
                         },
                         {
@@ -1592,7 +1571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うに・・・的なもの・・・"
+                                "Something like a sea urchin..."
                             ]
                         },
                         {
@@ -1756,14 +1735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は、まだ必要ありませんね。"
+                                "[Anastasia] It's not necessary for now."
                             ]
                         },
                         {
@@ -1957,7 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ～"
+                                "Welcome~"
                             ]
                         },
                         {
@@ -2045,7 +2017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また来てくださいね～"
+                                "Please come again~"
                             ]
                         },
                         {

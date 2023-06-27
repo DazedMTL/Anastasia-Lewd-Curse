@@ -1588,14 +1588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　魔法の呪いにより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　アナスタシアは、魔力を失ってしまいました。"
+                                "　　　Due to a curse of magic, Anastasia has lost her magical powers."
                             ]
                         },
                         {
@@ -1612,14 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　魔力は敵を倒しレベルが上がるごとに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　取り戻していくことが可能です。 　　　　"
+                                "　　　 　It is possible to regain magical powers by defeating enemies and\nleveling up."
                             ]
                         },
                         {
@@ -1837,7 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　敵は、魔女の屋敷内で出現します。"
+                                "　　　Enemies will appear inside the witch's mansion."
                             ]
                         },
                         {
@@ -1854,14 +1840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　 魔女の屋敷内には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　簡単にレベルを上げるための施設もあります。"
+                                "　　　 There are facilities inside the witch's mansion that make it easy to\nlevel up."
                             ]
                         },
                         {
@@ -1935,7 +1914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　次に"
+                                "　　　Next,"
                             ]
                         },
                         {
@@ -1952,14 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "              この世界には、宿泊をしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "             ケガが治る概念は存在しません。"
+                                "              In this world, there is no concept of staying overnight to heal\ninjuries."
                             ]
                         },
                         {
@@ -1976,14 +1948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　  体力や消費した魔力は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　 魔術やアイテムでのみ回復が可能です。"
+                                "　　　  Physical strength and consumed magical power can only be recovered\nthrough sorcery and items."
                             ]
                         },
                         {
@@ -2000,7 +1965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　アナスタシアはヨーグルトを使用した。"
+                                "　　　Anastasia used yogurt."
                             ]
                         },
                         {
@@ -2038,7 +2003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　 アナスタシアのＭＰが２５回復した。"
+                                "　　　 Anastasia's MP has recovered by 25."
                             ]
                         },
                         {
@@ -2055,7 +2020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アイテムは街のショップで購入することができます。"
+                                "　　Items can be purchased at the town's shop."
                             ]
                         },
                         {
@@ -2072,14 +2037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　また、アナスタシアは体力を回復する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　 　貴重なアイテムを所持しています。"
+                                "　　　 　Furthermore, Anastasia possesses valuable items that can restore her\nhealth."
                             ]
                         },
                         {
@@ -2096,14 +2054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　 　 戦闘中は、使用することが出来ませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　 使用しても無くなることはありません。"
+                                "　　　 　 During battle, you cannot use it, but it will not disappear even if\nyou use it."
                             ]
                         },
                         {
@@ -2235,7 +2186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　性欲ゲージが追加されました。"
+                                "　　　The libido gauge has been added."
                             ]
                         },
                         {
@@ -2252,14 +2203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　マップを移動するごとに性欲が溜まっていきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　建物内の移動は含まれません。"
+                                "　　　The libido gauge will increase every time you move on the map. This\ndoes not include movement inside buildings."
                             ]
                         },
                         {
@@ -2276,14 +2220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　ゲージが最大まで溜まると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　性欲を発散するためイベントへ移行することになります。"
+                                "　　　When the gauge is filled to the maximum, it will transition to an\nevent to release sexual desire."
                             ]
                         },
                         {
@@ -2300,14 +2237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　状況により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　ゲージが溜まりやすくなることがあります。"
+                                "　　　Depending on the situation, the gauge may fill up more easily."
                             ]
                         },
                         {
@@ -2450,14 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　  　イベントを最後まで進めるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　  魔女を倒すことによりクリアとなります。"
+                                "　　　 　  　You will clear the game by advancing through the event until the end\nor by defeating the witch."
                             ]
                         },
                         {

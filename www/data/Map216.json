@@ -10258,14 +10258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【カジノ受付】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おや、これはギジェルミーナ様"
+                                "[Casino Reception] Oh, this is Gisellemina-sama."
                             ]
                         },
                         {
@@ -10282,14 +10275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【カジノ受付】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲストの出演準備をされますか？"
+                                "[Casino Reception] Are you preparing for the guest's appearance?"
                             ]
                         },
                         {
@@ -10318,14 +10304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　※イベントが進行します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　よろしいですか？"
+                                "　　　※The event will proceed. Are you ready?"
                             ]
                         },
                         {
@@ -10435,21 +10414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪いんだけどぉ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出演は３日後でも良いかしらぁ～？"
+                                "[Gisellemina] Sorry, but is it okay if the appearance is postponed for\nthree days?"
                             ]
                         },
                         {
@@ -10475,14 +10440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【カジノ受付】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ええ・・・構いませんが。"
+                                "[Casino Reception] Um... I don't mind."
                             ]
                         },
                         {
@@ -10499,28 +10457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふふ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Hehehe♪"
                             ]
                         },
                         {
@@ -10537,21 +10474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次のステージのために・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっっかり準備しないとねぇえ～♥"
+                                "[Gisellemina] We need to prepare properly for the next stage... or\nelse~♥"
                             ]
                         },
                         {
@@ -10859,28 +10782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -10897,14 +10799,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "う、うぅ・・・。"
+                                "[Anastasia] Ugh..."
                             ]
                         },
                         {
@@ -11097,7 +10992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　　　３日後・・・"
+                                "　　　Three days later..."
                             ]
                         },
                         {
@@ -11126,7 +11021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・・・・"
+                                "..."
                             ]
                         },
                         {
@@ -11251,28 +11146,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（はぁ・・・はぁ・・・こ・・・こんな状態で・・・）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Haa... haa... in... in this state...)"
                             ]
                         },
                         {
@@ -11289,14 +11163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（す、ステージになんて・・・うぅ・・・。）"
+                                "[Anastasia] (O-On the stage... ugh...)"
                             ]
                         },
                         {
@@ -11591,7 +11458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この奥にはVIPルームもある。"
+                                "There is also a VIP room beyond here."
                             ]
                         },
                         {
@@ -11608,14 +11475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気に入った子がいれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥で休憩することもできるのさ。ゲへへ"
+                                "If you have a favorite girl, you can also take a break in the back.\nHehehe."
                             ]
                         },
                         {
@@ -11752,7 +11612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぃ～、ひっく"
+                                "Whee~ hiccup"
                             ]
                         },
                         {
@@ -11829,14 +11689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっひょ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきの子の、全部見えてたわぃ。"
+                                "Translation:  Woohoo~ I saw everything that girl did earlier."
                             ]
                         },
                         {
@@ -11913,7 +11766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先はVIP席だよ。"
+                                "This way is the VIP seating."
                             ]
                         },
                         {
@@ -11930,14 +11783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒を飲みながら、ショーを見る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高だよね。"
+                                "Drinking alcohol while watching the show. It's the best, right?"
                             ]
                         },
                         {
@@ -12014,21 +11860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ・・・・"
+                                "Ah... Ahh... Ahhhhhhh..."
                             ]
                         },
                         {
@@ -12045,7 +11877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああぁぁぁ・・・"
+                                "Ah... Ahh... Ahhhhhhh..."
                             ]
                         },
                         {
@@ -12122,7 +11954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーカーとは、なかなか奥が深い・・・。"
+                                "Poker is quite deep..."
                             ]
                         },
                         {
@@ -12199,14 +12031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ドロップじゃ。"
+                                "Huh?! ...A drop."
                             ]
                         },
                         {
@@ -12283,7 +12108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイズ！！"
+                                "Raise!!"
                             ]
                         },
                         {
@@ -12300,21 +12125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・レイズとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の役に自信があるっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・と見せかけるときに使うこともあるんだよ。"
+                                "...Raise!! is also used when you want to pretend that you have confidence\nin your role."
                             ]
                         },
                         {
@@ -12391,14 +12202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ、神よ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を見捨てたか。"
+                                "Oh, God. Have you abandoned me?"
                             ]
                         },
                         {
@@ -12475,14 +12279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どいつもこいつも、素人ばかりか・・・"
+                                "Hmph... They're all amateurs..."
                             ]
                         },
                         {
@@ -12499,7 +12296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・あっ・・・"
+                                "...Ah..."
                             ]
                         },
                         {
@@ -12576,14 +12373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "妻には内緒なんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "く～やめられん！！"
+                                "I haven't told my wife, but I just can't quit!"
                             ]
                         },
                         {
@@ -12600,14 +12390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儲けたら、君のステージ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見に行くよぉ、ニチャァ♥"
+                                "If I make a profit, I'll come see your stage, nya~♥"
                             ]
                         },
                         {
@@ -12684,14 +12467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夫には内緒なんですけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは、やめられませんわぁ～"
+                                "I can't stop this, but don't tell my husband..."
                             ]
                         },
                         {
@@ -12708,21 +12484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、あなた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの、はしたない子じゃなぁ～いｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふ♥"
+                                "You... You're not a modest child, huh~? Hehe♥"
                             ]
                         },
                         {
@@ -12799,14 +12561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今月の売り上げ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部擦っちまった。がはははは"
+                                "I lost all of this month's sales. Hahahaha."
                             ]
                         },
                         {
@@ -12823,7 +12578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は・・・は・・・"
+                                "Ha...ha..."
                             ]
                         },
                         {
@@ -12900,7 +12655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっ、待っ、今忙しいっ。"
+                                "Wait, I'm busy right now."
                             ]
                         },
                         {
@@ -12977,7 +12732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここではブラックジャックをやっている。"
+                                "I'm playing blackjack here."
                             ]
                         },
                         {
@@ -13054,14 +12809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの売り上げは、全部領主の懐に入ってるってわけか。"
+                                "Ugh... So all the sales here go straight into the lord's pocket, huh?"
                             ]
                         },
                         {
@@ -13078,7 +12826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上手いことやったもんだぜ。"
+                                "I did it skillfully."
                             ]
                         },
                         {
@@ -13215,21 +12963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほほほほ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美しい娘の恥ずかしがる姿・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか一興ですわねぇ。"
+                                "Hohoho, the embarrassed figure of a beautiful girl... It's quite\nentertaining, isn't it?"
                             ]
                         },
                         {
@@ -13306,14 +13040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのショーに出ている子の中には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は貴族の娘とかもいるらしいぜ。ゲへへ"
+                                "Some of the children performing in this show are actually daughters of\nnobles, it seems. Hehehe."
                             ]
                         },
                         {
@@ -13390,14 +13117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はギャンブルというより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの女の子を見に来ているんだよぉ。"
+                                "I'm here to see the girls rather than gamble."
                             ]
                         },
                         {
@@ -13414,21 +13134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのダンスショーはなかなか見物だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はここの娘は、みんな元は良いところの子らしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "からねぇ。"
+                                "The dance show here is quite a spectacle. Actually, the girls here are\nall from good backgrounds, you know."
                             ]
                         },
                         {
@@ -13514,7 +13220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お酒の追加はいかがですかぁ～？"
+                                "Would you like to add some more alcohol?"
                             ]
                         },
                         {
@@ -13540,14 +13246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、あなた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふ、あのステージの子ねぇｗ"
+                                "Oh, you... ufufufu, that girl from that stage, huh?"
                             ]
                         },
                         {
@@ -13752,7 +13451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カジノへようこそぉ～"
+                                "Welcome to the casino~"
                             ]
                         },
                         {
@@ -13769,14 +13468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、あらあなたは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふ・・・よくやるわねぇｗ"
+                                "Oh, it's you... hehehe... you've done well, huh? lol"
                             ]
                         },
                         {
@@ -13913,7 +13605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまには息抜きも必要だよね？"
+                                "Sometimes you need to take a break, right?"
                             ]
                         },
                         {
@@ -13990,7 +13682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また当たっちゃったわぁ～"
+                                "I've done it again~"
                             ]
                         },
                         {
@@ -14067,14 +13759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ・・・ここは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性用トイレ・・・だよ？"
+                                "This...this is the men's restroom...you know?"
                             ]
                         },
                         {
@@ -14151,7 +13836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺、パパと一緒によくきてたんだよねぇ"
+                                "I used to come here often with my dad."
                             ]
                         },
                         {
@@ -14228,21 +13913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒やタバコを楽しみながらギャンブルができる、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがカジノの醍醐味さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぷはぁ～～～～～～～～～"
+                                "You can enjoy gambling while drinking and smoking, that's the essence\nof a casino. Phew~~~~~~~"
                             ]
                         },
                         {
@@ -14259,14 +13930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・今流行りの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "害のない煙だから大丈夫だよ？"
+                                "...It's okay because it's the trendy harmless smoke, right?"
                             ]
                         },
                         {
@@ -14343,7 +14007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうダメだぁ～"
+                                "I can't take it anymore~"
                             ]
                         },
                         {
@@ -14713,14 +14377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、ショーに出演される方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正面から入られちゃ困りますよ。"
+                                "Oops, it would be troublesome if the performer entered from the front."
                             ]
                         },
                         {
@@ -14989,14 +14646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、ショーに出演される方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正面から入られちゃ困りますよ。"
+                                "Oops, it would be troublesome if the performer entered from the front."
                             ]
                         },
                         {
@@ -15231,14 +14881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、ショーに出演される方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正面から入られちゃ困りますよ。"
+                                "Oops, it would be troublesome if the performer entered from the front."
                             ]
                         },
                         {

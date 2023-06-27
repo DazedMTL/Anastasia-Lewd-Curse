@@ -2493,14 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　ここから先、魔女戦となります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　 先へ進みますか？"
+                                "　　　From here on, it will be a witch battle. Will you proceed forward?"
                             ]
                         },
                         {
@@ -2776,14 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　ここから先、魔女戦となります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　 先へ進みますか？"
+                                "　　　From here on, it will be a witch battle. Will you proceed forward?"
                             ]
                         },
                         {
@@ -3215,7 +3201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　アナスタシアは、魔女の僕に敗北した・・・。"
+                                "　　　Anastasia was defeated by the witch's familiar..."
                             ]
                         },
                         {

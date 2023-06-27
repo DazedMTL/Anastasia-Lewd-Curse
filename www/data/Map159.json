@@ -1993,14 +1993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここ、ボクの秘密基地なんだ。"
+                                "[Boy] This is my secret base."
                             ]
                         },
                         {
@@ -2104,28 +2097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ど・・・どうやら、空き家のようですね・・・）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (I...it seems to be an abandoned house...)"
                             ]
                         },
                         {
@@ -2142,28 +2114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ・・・ここなら・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ・・・誰にも・・・。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Th...this place...huff...huff...no one...no one will...)"
                             ]
                         },
                         {
@@ -2180,7 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキ・・・"
+                                "Thump thump..."
                             ]
                         },
                         {
@@ -2323,21 +2274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここのこと誰にも話してなかったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕とお姉ちゃんだけの秘密だよ。"
+                                "[Boy] I haven't told anyone about this place, so it's just a secret\nbetween me and my sister."
                             ]
                         },
                         {
@@ -2441,28 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・えぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、では・・・お互い、このことはしっかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘密にしましょう・・・。"
+                                "[Anastasia] E...Eh... W-Well... Let's make sure to keep this a secret\nbetween the two of us..."
                             ]
                         },
                         {
@@ -2479,28 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで、どーやって治すの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Yeah♪ So, how are you going to cure it?"
                             ]
                         },
                         {
@@ -2517,21 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・はぁ・・・はぁ・・・そ、それでは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その・・・テーブルにでも座りましょうか・・・。"
+                                "[Anastasia] Eh...huff...huff...W-Well then...shall we...sit at\nthat...table...?"
                             ]
                         },
                         {
@@ -3011,28 +2892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・そ・・・それでは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ず・・・ズボンを・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズボンを、脱いで下さい・・・。"
+                                "[Anastasia] Haa... haa... Th-then... P-please... take off your...\npants... haa... haa..."
                             ]
                         },
                         {
@@ -3049,28 +2909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Huh?!"
                             ]
                         },
                         {
@@ -3087,28 +2926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぬ・・・脱がないと・・・腫れているところが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見えませんよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] If... if you don't take them off... I won't be able to see\nthe swollen area, you know?"
                             ]
                         },
                         {
@@ -3125,28 +2943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Ah... That's right."
                             ]
                         },
                         {
@@ -3191,28 +2988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・おちんちんが、またおっきくなってる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Ah... my penis is getting bigger again..."
                             ]
                         },
                         {
@@ -3229,28 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ・・・はぁ・・・こ・・・これが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子の・・・はぁ・・・はぁ・・・。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Haa... haa... Th-This is... this child's... haa... haa...)"
                             ]
                         },
                         {
@@ -3267,28 +3022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃん見てたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この間も、ここが腫れて痛かったんだ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] When I was looking at my sister... the other day, this place was\nswollen and painful..."
                             ]
                         },
                         {
@@ -3305,28 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・え・・・えぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で・・・では・・・今、治してあげますので・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... E... Ehh... W-Well... I will... cure it\nnow..."
                             ]
                         },
                         {
@@ -3343,28 +3056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・その・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Th...that..."
                             ]
                         },
                         {
@@ -3381,28 +3073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目を・・・と、閉じていてください・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Just a little... haa... haa... Please... close your eyes..."
                             ]
                         },
                         {
@@ -3419,28 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Understood."
                             ]
                         },
                         {
@@ -3457,28 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・はぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa... haa..."
                             ]
                         },
                         {
@@ -3495,7 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキ・・・"
+                                "Doki doki doki doki..."
                             ]
                         },
                         {
@@ -3725,28 +3354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] W-Wait..."
                             ]
                         },
                         {
@@ -3763,28 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Huh?!"
                             ]
                         },
                         {
@@ -3801,21 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は、この年端もいかない男の子の・・・ペニスを・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舌で・・・舐めていく・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I will lick the penis of this immature boy with my tongue..."
                             ]
                         },
                         {
@@ -3903,28 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Doki doki doki doki..."
                             ]
                         },
                         {
@@ -3941,28 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心臓の鼓動が・・・高鳴り続ける・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "My heart's beating... continues to race..."
                             ]
                         },
                         {
@@ -3979,28 +3510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけないことをしている・・・背徳感と・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子の、初々しい反応が・・・胸を高鳴らせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm doing something wrong... The feeling of immorality... and this\nchild's innocent reaction... makes my heart race."
                             ]
                         },
                         {
@@ -4017,28 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お・・お姉ちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちん、舐めてるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] S-Sister... Are you licking the penis?"
                             ]
                         },
                         {
@@ -4126,28 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・み、見ては・・・いけません・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... Y-You must not... look..."
                             ]
                         },
                         {
@@ -4164,28 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お・・・おちんちん、舐めて・・・大丈夫なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] L-Licking... the penis... is it okay?"
                             ]
                         },
                         {
@@ -4202,28 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・えぇ・・・れろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・ここから・・・白いのを出せば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・治りますので・・・。"
+                                "[Anastasia] E... Ehh... Lick... If I can produce something white from\nhere... It... It will be cured..."
                             ]
                         },
                         {
@@ -4240,28 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・その・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Th-That..."
                             ]
                         },
                         {
@@ -4278,28 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し・・・白いおしっこは・・・れ・・・れろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で・・・出たことは・・・ありますか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] H-Have... you... ever... produced... white urine...?"
                             ]
                         },
                         {
@@ -4316,28 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えー・・・白いのは・・・出たこと、ないかなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Um... I wonder if... I've ever produced something white..."
                             ]
                         },
                         {
@@ -4425,28 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・そ・・・そうですか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... I-I see..."
                             ]
                         },
                         {
@@ -4463,28 +3805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れろ・・・れろ・・・れ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Lick... lick... li..."
                             ]
                         },
                         {
@@ -4501,21 +3822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ・・・この子・・・まだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精通前・・・なのですね・・・。）"
+                                "[Anastasia] (Th...This child...is still...prepubescent...)"
                             ]
                         },
                         {
@@ -4544,28 +3851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・れろ、れろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa... lick, lick..."
                             ]
                         },
                         {
@@ -4582,28 +3868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精通前の子を・・・私が、精通させる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I will make a prepubescent child... ejaculate..."
                             ]
                         },
                         {
@@ -4620,28 +3885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa... haa..."
                             ]
                         },
                         {
@@ -4658,28 +3902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あまりの背徳的な行ないに・・・興奮が高まっていく・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "As the immoral act continues... my excitement grows..."
                             ]
                         },
                         {
@@ -4703,28 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れ・・・う・・・レロ・・・レ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] L...u...Lick...Le...Le..."
                             ]
                         },
                         {
@@ -4741,14 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ皮も剥け切っておらず・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し・・・恥垢が、残っている・・・。"
+                                "The foreskin hasn't been completely peeled off yet... There's still a\nlittle... smegma remaining..."
                             ]
                         },
                         {
@@ -4836,28 +4031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す・・・少し・・・汚れていますよ・・・れろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃ・・・ちゃんと、洗っているのですか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] It... It's a little... dirty... Lick... Are you... properly\nwashing it...?"
                             ]
                         },
                         {
@@ -4874,28 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ・・・いつも、お風呂でちゃんと洗ってるはず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだけど・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Huh... I always make sure to wash properly in the bath though..."
                             ]
                         },
                         {
@@ -4912,28 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し・・・仕方ありませんね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ・・・私が・・・治すついでに・・・き、綺麗に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してあげますから・・・。"
+                                "[Anastasia] I... I suppose there's no other choice... I... while I'm\nhealing... I'll... make it clean for you..."
                             ]
                         },
                         {
@@ -5021,28 +4153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分が、主導権を握って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛撫してあげているということが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に、少し意地悪な気持ちを奮い起こさせる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Taking the initiative and giving pleasure to someone else... It stirs\nup a slightly mischievous feeling within me..."
                             ]
                         },
                         {
@@ -5059,28 +4170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れろ・・・れろ・・・れ・・・れ・・・れろれろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Lick... lick... l...l...l...l...lick...lick..."
                             ]
                         },
                         {
@@ -5097,28 +4187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・な・・なんか、それ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ・・・お姉ちゃん、そこくすぐったいよっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Uhh... Th-that... Ahh... Big sister, it tickles there..."
                             ]
                         },
                         {
@@ -5206,28 +4275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れろれろ・・・お・・・男の子でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ・・・我慢、してください・・・れろれろれろれろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Lick... lick... l...l...l...l...lick...lick... Ah... you're\na boy, right? Hehehe... Please... endure it... lick... lick... lick...\nlick..."
                             ]
                         },
                         {
@@ -5244,28 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああっ・・・な・・・なんか・・・もっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちんが・・・腫れて痛くなってきたよっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Ah... Ahhh... Wha... What... My... my penis... it's getting more\nswollen and painful..."
                             ]
                         },
                         {
@@ -5282,28 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふ・・・ふぅ・・・こ・・・これで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、だいぶ・・・綺麗に・・・なりましたね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] H...h...phew... With this... It... It's become... quite...\nclean, hasn't it..."
                             ]
                         },
                         {
@@ -5320,28 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ふふふ・・・か、皮も・・・もう剥けそうですね。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Hehehe... Th-the foreskin... seems like it's about to peel\noff.)"
                             ]
                         },
                         {
@@ -5358,28 +4343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ、偉いですね・・・よく我慢しました・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは、今から・・・この腫れを治してあげますからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Hehehe, you've done well... You've endured it... Now then,\nfrom now on... I'll heal this swelling for you, okay."
                             ]
                         },
                         {
@@ -5396,28 +4360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・恥ずかしいので・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度は、ちゃんと・・・目を、閉じているんですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Umm... Because it's embarrassing... This time, I'll make\nsure... to close my eyes, okay?"
                             ]
                         },
                         {
@@ -5434,28 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う、うん・・・分かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Y-Yeah... I understand."
                             ]
                         },
                         {
@@ -5472,14 +4394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして私は・・・遂に、精通前のペニスを・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっと口に、咥える・・・。"
+                                "And I... finally, gently put the penis that hasn't experienced\nejaculation yet... into my mouth..."
                             ]
                         },
                         {
@@ -5579,28 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グポッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Gulp..."
                             ]
                         },
                         {
@@ -5624,28 +4518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわああああぁっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・なんか、暖かくて・・・気持ち・・・いぃのが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちんにっ・・・。"
+                                "[Boy] Uwaaaah... It feels warm... and... good... on my... penis..."
                             ]
                         },
                         {
@@ -5662,28 +4535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ふふふ・・・こ・・・このまま・・・咥えた状態で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一気に・・・っ。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Hehehe... Like this... with it still in my mouth... I'll\ngo all the way...)"
                             ]
                         },
                         {
@@ -5700,28 +4552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は口を窄めて・・・剥けかけて、少しだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先っぽに被っていた皮を・・・一気に下へ捲る・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I narrow my mouth... and quickly roll down the skin that was partially\ncovering the tip... as it was about to peel off..."
                             ]
                         },
                         {
@@ -5750,28 +4581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グポポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Gupopp!!"
                             ]
                         },
                         {
@@ -5795,28 +4605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわああああぁっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・なんか先っぽのところがっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Uwaaaah... Th-the tip... it feels..."
                             ]
                         },
                         {
@@ -5833,28 +4622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ふふふ・・・よく我慢しましたね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで・・・一人前の、おちんちんですよ。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Hehehe... You've endured it well... Now... you're a full-\nfledged penis.)"
                             ]
                         },
                         {
@@ -5871,28 +4639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして剥け切ったペニスの先を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "包み込んだ口全体と、舌で愛撫していく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "And I will caress the fully exposed tip of the penis with my entire\nmouth and tongue."
                             ]
                         },
                         {
@@ -5921,28 +4668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンッ・・・ポッ・・・ンッ・・・ジュポッ・・・ンッ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Mmm... Popp... Mmm... Ju-Popp... Mmm..."
                             ]
                         },
                         {
@@ -5959,28 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あ・・・それ・・・腫れてるところが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛くなくなってきて・・・お姉ちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、なんか・・・気持ちイイ・・・かも・・・。"
+                                "[Boy] Ah... Ah... That... The swollen part... It's starting to feel...\nnot painful... Big sister... It, it feels... good... maybe..."
                             ]
                         },
                         {
@@ -6068,28 +4773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンクッ・・・ンクッ・・・ンチュッ・・・レッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レロ・・・チュパァ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nkku... Nkku... Nchuu... Lel... Lero... Chupa!"
                             ]
                         },
                         {
@@ -6106,28 +4790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の子のペニスが、先程より太くらみ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先のほうから、カウパーが出てきているのが分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The boy's penis has become thicker than before, and I can see that the\npre-cum is coming out from the tip."
                             ]
                         },
                         {
@@ -6144,28 +4807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は、今・・・まだ精子を出したことのない男の子を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精通させようとしている・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I am trying to make a boy who has never ejaculated before... reach\nsexual maturity..."
                             ]
                         },
                         {
@@ -6182,28 +4824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その興奮が・・・さらに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の、男の子へのフェラチオを加速させる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "That excitement... further accelerates my fellatio on the boy..."
                             ]
                         },
                         {
@@ -6220,28 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンポッ・・・ジュポッ・・・ンッ・・・ジュポッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンッ・・・レロ・・・ジュポッ・・・レロレロッ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Npo... Jupo... Nn... Jupo... Nn... Lero... Jupo...\nLeroLero..."
                             ]
                         },
                         {
@@ -6258,28 +4858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・お姉ちゃん・・・な、なんか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちんから・・・で・・・出そうだよっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Ah... Big sister... S-something... It feels like... It's about\nto... come out from my peepee..."
                             ]
                         },
                         {
@@ -6296,28 +4875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズッ・・・ズッ・・・ジュポッ・・・ンッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジュリュ・・・ジュルッ・・・ジュルルッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Zu... Zu... Jupo... Nn... Jyuryu... Juru... Jururu..."
                             ]
                         },
                         {
@@ -6334,28 +4892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さぁ・・・一気に・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・初めての・・・初めての精子っ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出してしまいなさいっ・・・。）"
+                                "[Anastasia] (Now... all at once... haa... haa... Ha... Release your...\nyour first... first semen... Let it out...)"
                             ]
                         },
                         {
@@ -6391,28 +4928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グポォッ・・・・・・ジュポオオオオッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Gupoo... Ju-pooo!!"
                             ]
                         },
                         {
@@ -6429,21 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・お姉ちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、出るっ・・・何か出ちゃうっ！！"
+                                "[Boy] Ah... Big sister... It's... It's coming out... Something is\ncoming out!!"
                             ]
                         },
                         {
@@ -6564,7 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トピュッ"
+                                "Topyu."
                             ]
                         },
                         {
@@ -6581,28 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の子が・・・初めての、精通を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The boy... his first ejaculation..."
                             ]
                         },
                         {
@@ -6619,28 +5100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の・・・口の中で、迎える・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I... will welcome it... in my mouth..."
                             ]
                         },
                         {
@@ -6683,28 +5143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクッドクッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Dokku dokku..."
                             ]
                         },
                         {
@@ -6721,28 +5160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の子の、初めての精子が・・・私の口の中に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "溢れる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The boy's first semen... is overflowing... into my mouth..."
                             ]
                         },
                         {
@@ -6759,28 +5177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の口の中で、男の子の、初めての精通を迎えさせたという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足感が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The satisfaction of having welcomed the boy's first ejaculation in my\nmouth..."
                             ]
                         },
                         {
@@ -6797,14 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自然と、私にその精液を飲み込ませる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Naturally, let me swallow that semen..."
                             ]
                         },
                         {
@@ -6904,28 +5294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ン・・・ングッ・・・ンッ・・・ンクッ・・・ンクンッ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Mmm... Ngh... Ngh... Nk... Nk... Nk..."
                             ]
                         },
                         {
@@ -6942,28 +5311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前は、吐き出してしまうこともあった精液が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不思議と、美味しくすら感じさせる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Previously, there were times when I would vomit semen... but\nstrangely, it even makes me feel delicious..."
                             ]
                         },
                         {
@@ -6985,28 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだビクビクと、残りの精液を吐き出しているが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "射精をしたことで、口の中の男の子の性器は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しずつ、小さくなっていく・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The boy's genitals in my mouth are gradually shrinking as he continues\nto tremble and spit out the remaining semen..."
                             ]
                         },
                         {
@@ -7035,28 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンク・・・ンクッ・・・ンッ・・・ゴクンッ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nk... Nk... Nk... Gulp."
                             ]
                         },
                         {
@@ -7073,28 +5379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・あ・・・あ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Ah... Ahhh... Ah... Ah..."
                             ]
                         },
                         {
@@ -7111,28 +5396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふと見ると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の子は、初めての射精に驚きながら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閉じていた目を開いて・・・私の顔を見ていた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "When I looked, the boy, surprised by his first ejaculation... opened\nhis eyes... and looked at my face..."
                             ]
                         },
                         {
@@ -7149,28 +5413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ン・・・ングッ・・・ンッ・・・///。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Mmm... Ngh... Ngh... Nk... Nk... Nk...///."
                             ]
                         },
                         {
@@ -7187,28 +5430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の子の精液を飲んでしまっている自分の姿を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られてしまっていることに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I've been seen in the act of drinking the boy's semen..."
                             ]
                         },
                         {
@@ -7225,7 +5447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急に、恥ずかしさが込み上げてくる・・・。"
+                                "Suddenly, embarrassment wells up within me..."
                             ]
                         },
                         {
@@ -7349,28 +5571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンパァッ・・・はぁ・・・はぁ・・・はぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nmpaa... Haa... Haa... Haa..."
                             ]
                         },
                         {
@@ -7387,28 +5588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "め・・・目を閉じていないと・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、駄目と・・・言ったでしょう・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] If... if you don't close your eyes... haa... haa... I-I\ntold you... it's... not good, right...?"
                             ]
                         },
                         {
@@ -7432,28 +5612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・ごめんなさい・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・すごい、気持ち良かったから♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] I... I'm sorry... But... it felt amazing♪"
                             ]
                         },
                         {
@@ -7470,28 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう腫れも治って、痛くなくなったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんが、口で治してくれてたんだね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] My swelling has already gone down and it doesn't hurt anymore.\nBig sister, you were treating it with your mouth, right?♪"
                             ]
                         },
                         {
@@ -7508,28 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・えぇ・・・///"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Eh... Ehh...///"
                             ]
                         },
                         {
@@ -7546,28 +5663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今更ながら・・・男の子にフェラチオを見られてしまった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしさで・・・顔が赤くなってくる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Now, after all this time... I was seen giving a blowjob to a boy.\nEmbarrassment washes over me... and my face turns red..."
                             ]
                         },
                         {
@@ -7584,28 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それとともに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めての精通を迎えさせ・・・あまつさえその精子を飲んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しまった背徳感で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "And with that... I experienced my first ejaculation... and to make\nmatters worse, I drank his semen, feeling a sense of immorality..."
                             ]
                         },
                         {
@@ -7622,28 +5697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下着が、大きく濡れてしまっているのが分かる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I can tell that my underwear is soaked..."
                             ]
                         },
                         {
@@ -7660,28 +5714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジモジ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squirming..."
                             ]
                         },
                         {
@@ -7698,28 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジモジ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squirming..."
                             ]
                         },
                         {
@@ -7956,28 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ・・・こ・・・これで・・・も、もう大丈夫ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... Haa... So... with this... I-I'm... I'm alright now."
                             ]
                         },
                         {
@@ -7994,28 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん、ありがとう・・・お姉ちゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Yeah, thank you... Big sister♪"
                             ]
                         },
                         {
@@ -8032,28 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -8070,28 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジ・・・モジ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Moji... Moji..."
                             ]
                         },
                         {
@@ -8108,28 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの、お姉ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Boy] Hm? What's wrong, big sister?"
                             ]
                         },
                         {
@@ -8146,28 +6053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・いえ・・・な・・・何も・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] N-No... It's... nothing..."
                             ]
                         },
                         {
@@ -8184,28 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジモジ・・・モジモジ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Squirming... Squirming..."
                             ]
                         },
                         {
@@ -8222,28 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ・・・ズボンを履いて・・・い、行きますよ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I... I'll put on my pants... and... go..."
                             ]
                         },
                         {
@@ -8260,28 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私自身の、欲求は満足できていないことが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心の片隅に・・・黒い、欲望を沸き起こさせるが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "In the corner of my heart, there is a dissatisfaction with my own\ndesires... It stirs up dark desires..."
                             ]
                         },
                         {
@@ -8298,28 +6121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（た・・・ただでさえ・・・と、とんでもないことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してしまったのですから・・・はぁ・・・はぁ・・・。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (I... I've already done something terrible... and on top of\nthat... *sigh* *pant* *pant*)"
                             ]
                         },
                         {
@@ -8336,21 +6138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ・・・はぁ・・・は・・早く・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを、出なければ・・・。）"
+                                "[Anastasia] (Haa... Haa... I-I need to... get out of here...\nquickly...)"
                             ]
                         },
                         {
@@ -8367,28 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを、なんとか振り払い・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この空き家を後にしようとする・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Trying to shake it off somehow... I'll leave this vacant house\nbehind..."
                             ]
                         },
                         {
@@ -8659,21 +6426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ～・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか、またちょっとだけ大きく・・・。"
+                                "[Boy] Huh... It's like it got a little bigger again..."
                             ]
                         },
                         {
@@ -8758,28 +6511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... Haa... Haa... Haa..."
                             ]
                         },
                         {
@@ -8796,28 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Bakubaku bakubaku..."
                             ]
                         },
                         {
@@ -8834,28 +6545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これから自分がしようとしている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりの背徳的な考えに・・・興奮と性欲の限界で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心臓の音が、今にも聞こえてきそうになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The sound of my heart beating seems like it could be heard any moment\nnow, due to the excessively immoral thoughts I am about to engage\nin... the limits of excitement and desire."
                             ]
                         },
                         {
@@ -8872,28 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁ、はぁ、はぁ、はぁっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa, haa, haa, haa, haa..."
                             ]
                         },
                         {
@@ -8910,28 +6579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は、今から・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "更に取り返しのつかないことをしようとしている・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I am about to do something irreversible... from now on..."
                             ]
                         },
                         {
@@ -8948,28 +6596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰とであろうと・・・絶頂を迎えられないことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最早分かってはいるのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "No matter who it is... I already know that I can't reach the climax..."
                             ]
                         },
                         {
@@ -8986,28 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めての・・・童貞の子との・・・性行為に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Still... my first... sexual encounter with a virgin boy..."
                             ]
                         },
                         {
@@ -9024,14 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "限界を迎えている性欲が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理性を・・・かき消していった・・・。"
+                                "My sexual desire... reaching its limit... It's overpowering my\nrationality..."
                             ]
                         },
                         {

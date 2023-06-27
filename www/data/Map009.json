@@ -1963,7 +1963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここ、下着も売ってるのよね。"
+                                "They sell underwear here too, you know."
                             ]
                         },
                         {
@@ -2049,21 +2049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の服装も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術師だからという固定概念を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ捨て去るときかも知れないな。"
+                                "My attire might be time to discard the fixed notion that I am a\nsorcerer."
                             ]
                         },
                         {
@@ -2140,7 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい"
+                                "Welcome."
                             ]
                         },
                         {

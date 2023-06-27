@@ -1868,14 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よ、よろしく・・・お願い致します・・・。"
+                                "[Anastasia] N-Nice to meet you... please take care of me..."
                             ]
                         },
                         {
@@ -2025,14 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？・・・んん？"
+                                "[Anastasia] Huh?... Hmmm?"
                             ]
                         },
                         {
@@ -2049,21 +2035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君・・・あの宮廷魔術師でも有名なアナスタシア嬢に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似ているねぇ。"
+                                "[Royal Capital Guest] You... you look similar to Anastasia, the famous\ncourt sorceress."
                             ]
                         },
                         {
@@ -2183,28 +2155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぃ・・・いえ・・・あの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よ、よく・・・言われます・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] W-Well... um... I-I often... get told that..."
                             ]
                         },
                         {
@@ -2221,28 +2172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ、実は私は王都から来たんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前に彼女を遠くから見たことがあってねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Royal Capital Guest] Well, you see, I actually came from the royal\ncapital and I've seen her from afar before."
                             ]
                         },
                         {
@@ -2259,28 +2189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠くからでも、それはそれは若くて幼い色香を漂わせつつ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凛とした威厳を感じたものだが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Royal Capital Guest] Even from afar, she exudes a youthful and\ninnocent charm while maintaining a dignified presence..."
                             ]
                         },
                         {
@@ -2297,28 +2206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は彼女にとても似ているよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ～ほんの少し、君のほうが若くて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上も下もないように見えるが・・・それでも十分可愛いよ♥"
+                                "[Royal Capital Guest] You look very similar to her♪ Well, just a\nlittle, you appear younger and more innocent... but still very cute♥"
                             ]
                         },
                         {
@@ -2406,28 +2294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ぇ・・・あ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・そ、それは・・・どうも・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...Eh... Ah... Th-That is... Thank you very much..."
                             ]
                         },
                         {
@@ -2444,28 +2311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ、君はすぐ人気が出そうだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ彼女のファンは多いからねぇ。予約なしで当たれて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に良かった。"
+                                "[Royal Capital Guest] Oh, you're going to become popular in no time.\nAfter all, she has a lot of fans. It's really fortunate that I was\nable to meet you without a reservation."
                             ]
                         },
                         {
@@ -2482,21 +2328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ........"
                             ]
                         },
                         {
@@ -2648,14 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【王都の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず、お酒でも飲もうか。"
+                                "[Royal Capital Guest] For now, shall we have a drink?"
                             ]
                         },
                         {

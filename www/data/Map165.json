@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下街",
+    "displayName": "Underground Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1552,14 +1552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・・はぁ・・・・。"
+                                "[Anastasia] *panting* Haa... haa..."
                             ]
                         },
                         {
@@ -1670,28 +1663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・あああ・・・あ・・・あ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... Aaah... a... a..."
                             ]
                         },
                         {
@@ -1708,28 +1680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（逝きたい・・・逝きたい・・・逝きたい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イキたい、イキたい、イキたい、イキたいっ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (I want to... I want to... I want to... I want to come, I\nwant to come, I want to come, I want to come)"
                             ]
                         },
                         {
@@ -1746,28 +1697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぅ・・・ふぅ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] *panting* Haa... haa..."
                             ]
                         },
                         {
@@ -1784,21 +1714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う・・・あ・・・あああ・・・・あああああああ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] U... A... Aaah... Aaaahhhhh...."
                             ]
                         },
                         {
@@ -2122,28 +2038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふふ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Hehehehe"
                             ]
                         },
                         {
@@ -2160,14 +2055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんばんわぁ～♥"
+                                "[Gisellemina] Good evening~♥"
                             ]
                         },
                         {
@@ -2404,28 +2292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -2442,28 +2309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "っく・・・ううううぅぅ・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ugh... Uuuuhhhhh...."
                             ]
                         },
                         {
@@ -2480,28 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご、５人と・・・す・・・すれば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イケるのではなかったのですかっ！！"
+                                "[Anastasia] If... if I were to... with five people... haa... haa...\nWasn't it supposed to be possible!!"
                             ]
                         },
                         {
@@ -2518,28 +2343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・あ・・・あああ・・・っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... A... Aaaahhh...!"
                             ]
                         },
                         {
@@ -2776,28 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらぁ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなさぁい♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Oh my~ I'm sorry♪"
                             ]
                         },
                         {
@@ -2814,28 +2597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれはぁ・・・嘘♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Oh, that was... a lie♪ That's why♥"
                             ]
                         },
                         {
@@ -2852,28 +2614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イケるか、イケないかは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホントは私の気分ひとつなのぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Whether it's possible or not, it all depends on my mood♪"
                             ]
                         },
                         {
@@ -2890,28 +2631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の子誘惑したり♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "路上で大声でセックス連呼しちゃったり♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Tempting boys♥ Shouting about sex loudly on the street♥"
                             ]
                         },
                         {
@@ -2928,14 +2648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とおおぉっても、楽しかったわぁあ♪"
+                                "[Gisellemina] It was sooo much fun♪"
                             ]
                         },
                         {
@@ -3172,14 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・うぅぅうぅぅぅぅぅぅぅぅ・・・・"
+                                "[Anastasia] A... Aaaahhh... Uuuuhhhhh...."
                             ]
                         },
                         {
@@ -3416,28 +3122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Hehehehehehe♥"
                             ]
                         },
                         {
@@ -3454,28 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもねぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな簡単にイかせてはあげないわぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] But you know... I won't let you come so easily♪"
                             ]
                         },
                         {
@@ -3492,28 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一ヶ月・・・いえ、半年くらい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] One month... no, maybe about half a year..."
                             ]
                         },
                         {
@@ -3530,14 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我慢させようかしら・・・ねぇ♥"
+                                "[Gisellemina] Shall I make you endure...? Hey ♥"
                             ]
                         },
                         {
@@ -3774,28 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あぁぁ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... Ahhh... Uhhh..."
                             ]
                         },
                         {
@@ -3812,28 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクガク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Shaking..."
                             ]
                         },
                         {
@@ -3850,28 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・あああああああああああ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] A... Aaaahhh... Uuuuhhhhh...."
                             ]
                         },
                         {
@@ -3888,28 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガクガクガクガク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Shaking..."
                             ]
                         },
                         {
@@ -3926,28 +3478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁはぁはぁはぁはぁはぁ・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa haa haa haa haa haa haa......"
                             ]
                         },
                         {
@@ -3964,21 +3495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・イかせて・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Let me... let me... haa... haa..."
                             ]
                         },
                         {
@@ -4215,14 +3732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んん？"
+                                "[Gisellemina] Hm?"
                             ]
                         },
                         {
@@ -4459,28 +3969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I..."
                             ]
                         },
                         {
@@ -4497,14 +3986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、逝かせて・・・くだ・・・さい・・・"
+                                "[Anastasia] L-Let me... please... let me..."
                             ]
                         },
                         {
@@ -4521,21 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁはぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も・・・もう・・・我慢出来ないのですっ！！"
+                                "[Anastasia] Haa haa... I... I can't endure it anymore!!"
                             ]
                         },
                         {
@@ -4552,28 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁ、お・・・お願いですからっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、逝かせて・・・ください・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う・・・うぅ・・・"
+                                "[Anastasia] Haa, haa, p-please... p-please let me... c-come...\nplease... ugh... ughhh..."
                             ]
                         },
                         {
@@ -4590,28 +4037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅぅうぅぅぅぅぅぅぅぅ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いですからっ・・・・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Uuuuhhhhh... Please... please...!!"
                             ]
                         },
                         {
@@ -4848,28 +4274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははははははははははははは♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Ahahahahahahahahaha♪"
                             ]
                         },
                         {
@@ -4886,14 +4291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いいわあああぁ～、イイ感じよおおぉぉ～～♪"
+                                "[Gisellemina] Oh, it feels so good~♪"
                             ]
                         },
                         {
@@ -4910,14 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私そおぉ～いうのが、聞きたかったのおおぉぉ～～♥"
+                                "[Gisellemina] I wanted to hear you say that, ohhh~♥"
                             ]
                         },
                         {
@@ -5147,21 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁ・・・あ・・・あああ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で・・・ではっ・・・。"
+                                "[Anastasia] Haa, haa... A... Ahhh... W-well then..."
                             ]
                         },
                         {
@@ -5407,14 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええぇえ♪"
+                                "[Gisellemina] Eeeeee♪"
                             ]
                         },
                         {
@@ -5431,21 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃぁあ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと、連いてらっしゃああぁぁ～い♥"
+                                "[Gisellemina] Well then♪ Come along with me~♥"
                             ]
                         },
                         {

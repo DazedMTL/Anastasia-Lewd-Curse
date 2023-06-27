@@ -1489,14 +1489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、お嬢さん・・・全力の状態では無さそうじゃが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなかの使い手じゃなぁ。"
+                                "Oh, miss... You don't seem to be in full power, but you're quite a\nskilled user."
                             ]
                         },
                         {
@@ -1573,14 +1566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引退はしたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術の研究はずっと続けているのよ、うちの爺さんは。♥"
+                                "Retirement, but my grandfather continues his research on sorcery. ♥"
                             ]
                         },
                         {

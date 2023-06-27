@@ -4061,14 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この宿の紅茶は、なかなかだな。"
+                                "Hmm, the tea at this inn is quite good."
                             ]
                         },
                         {
@@ -4145,7 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街の料理は、どの店もレベルが高いようだ。"
+                                "The cuisine in this town seems to be of high quality in every\nrestaurant."
                             ]
                         },
                         {
@@ -4222,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街って、他に安い宿はないのかな・・・。"
+                                "Is there no other cheap inn in this town...?"
                             ]
                         },
                         {
@@ -4299,14 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か御用でしょうか？"
+                                "[Duncan] Do you need something?"
                             ]
                         },
                         {

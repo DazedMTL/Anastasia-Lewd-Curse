@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた・・・早く憎い敵を倒したほうがいいわよ・・・。"
+                                "[Fortune Teller] You... should defeat your detestable enemy as soon as\npossible..."
                             ]
                         },
                         {
@@ -1692,28 +1685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安い宿屋には・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Fortune Teller] In cheap inns..."
                             ]
                         },
                         {
@@ -1730,14 +1702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近づかないほうがいいわね・・・。"
+                                "[Fortune Teller] It's better not to approach..."
                             ]
                         },
                         {
@@ -1813,14 +1778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふふ、あなた・・・娼婦に・・・"
+                                "[Fortune Teller] Hehehe, you... to a prostitute..."
                             ]
                         },
                         {
@@ -1837,28 +1795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・いえ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Fortune Teller]...No..."
                             ]
                         },
                         {
@@ -1875,14 +1812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもないわ・・・。"
+                                "[Fortune Teller] It's nothing..."
                             ]
                         },
                         {
@@ -1958,14 +1888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はとにかく動きまくっていれば・・・"
+                                "[Fortune Teller] Right now, if you just keep moving..."
                             ]
                         },
                         {
@@ -1982,14 +1905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かが起きるわ・・・。"
+                                "[Fortune Teller] Something is about to happen..."
                             ]
                         },
                         {
@@ -2065,14 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒場では１回・・・倉庫でも１回・・・路上は２回・・・"
+                                "[Fortune Teller] Once at the tavern... once at the warehouse... twice\non the street..."
                             ]
                         },
                         {
@@ -2089,14 +1998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稼げそうよ・・・。"
+                                "[Fortune Teller] It seems like I can make some money..."
                             ]
                         },
                         {
@@ -2196,14 +2098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あら遂に娼婦に・・・うふふふふ"
+                                "[Fortune Teller] Oh, finally becoming a prostitute... hehehehe"
                             ]
                         },
                         {
@@ -2220,14 +2115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は働きまくることね・・・。"
+                                "[Fortune Teller] Now is the time to work hard..."
                             ]
                         },
                         {
@@ -2295,14 +2183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娼館の受付・・・"
+                                "[Fortune Teller] Receptionist of the brothel..."
                             ]
                         },
                         {
@@ -2319,14 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋の１階・・・"
+                                "[Fortune Teller] First floor of the inn..."
                             ]
                         },
                         {
@@ -2343,14 +2217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校の２階・・・"
+                                "[Fortune Teller] Second floor of the school..."
                             ]
                         },
                         {
@@ -2367,14 +2234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "が・・・見えるわね・・・。"
+                                "[Fortune Teller] I... can see it..."
                             ]
                         },
                         {
@@ -2442,14 +2302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホテルのわきと・・・"
+                                "[Fortune Teller] Next to the hotel..."
                             ]
                         },
                         {
@@ -2466,21 +2319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと何かしらこれ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・小さな・・・子供？"
+                                "[Fortune Teller] What else could this be... a... small... child?"
                             ]
                         },
                         {
@@ -2497,14 +2336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "が・・・見えるわね・・・。"
+                                "[Fortune Teller] I... can see... it..."
                             ]
                         },
                         {
@@ -2572,14 +2404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと数が多いわねぇ・・・"
+                                "[Fortune Teller] There are quite a few of you..."
                             ]
                         },
                         {
@@ -2596,14 +2421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い・・・？"
+                                "[Fortune Teller] Is it good...?"
                             ]
                         },
                         {
@@ -2620,21 +2438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案内の兵士、地上の酒場、地下の酒場、倉庫の男、娼館の男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カジノのステージ、娼館の客、学園の生徒達、・・・・・・"
+                                "[Fortune Teller] Soldiers of the guide, taverns on the surface, taverns\nunderground, men in the warehouse, men in the brothel, casino stages,\nbrothel clients, students of the academy, ..."
                             ]
                         },
                         {
@@ -2651,14 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "が・・・見えるわね・・・。"
+                                "[Fortune Teller] I... can see it..."
                             ]
                         },
                         {
@@ -2675,21 +2472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けないさい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学園の生徒達・・・・・・バッドエンドよ。"
+                                "[Fortune Teller] Be careful... the students of the academy... it's a\nbad end."
                             ]
                         },
                         {
@@ -2765,14 +2548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔女に話しかけると・・・"
+                                "[Fortune Teller] When you talk to a witch..."
                             ]
                         },
                         {
@@ -2789,14 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた普通の生活も・・・"
+                                "[Fortune Teller] Your normal life too..."
                             ]
                         },
                         {
@@ -2813,14 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぷぷっ"
+                                "[Fortune Teller] Hehe"
                             ]
                         },
                         {
@@ -2837,14 +2599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも・・・良いことも・・・あるかも♥"
+                                "[Fortune Teller] But... there might also be good things... ♥"
                             ]
                         },
                         {
@@ -2920,14 +2675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・というか・・・"
+                                "[Fortune Teller] ...or rather..."
                             ]
                         },
                         {
@@ -2944,14 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたホントに・・・"
+                                "[Fortune Teller] Are you really..."
                             ]
                         },
                         {
@@ -2968,14 +2709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今が・・・最後のチャンスよ・・・。"
+                                "[Fortune Teller] Now is... your last chance..."
                             ]
                         },
                         {

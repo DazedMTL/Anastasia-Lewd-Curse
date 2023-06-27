@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "水の都カスターニャ",
+    "displayName": "City of Water, Castania",
     "encounterList": [],
     "encounterStep": 30,
     "height": 50,
@@ -20257,7 +20257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君・・・噂になってるよ・・・。"
+                                "You... have become a rumor..."
                             ]
                         },
                         {
@@ -20334,7 +20334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私・・・噂何て信じないけど・・・"
+                                "I... don't believe in rumors, but..."
                             ]
                         },
                         {
@@ -20351,14 +20351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなた・・・ちょっと口には出せないような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へ・・・変態的な・・・噂・・・流れてるわよ・・・。"
+                                "You... there's a kind of... perverted... rumor going around... that I\ncan't really say out loud..."
                             ]
                         },
                         {
@@ -20435,7 +20428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前さん・・・"
+                                "You..."
                             ]
                         },
                         {
@@ -20452,7 +20445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのスカート、随分短いようだね・・・。"
+                                "That skirt seems quite short..."
                             ]
                         },
                         {
@@ -20529,7 +20522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>               この先魔術アカデミー"
+                                "\\>               Ahead is the Magic Academy."
                             ]
                         },
                         {
@@ -20606,7 +20599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昼間から飲む酒は最高だな。"
+                                "Drinking during the day is the best."
                             ]
                         },
                         {
@@ -20683,14 +20676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーひっく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またあの店に行きたいなぁ♥"
+                                "I want to go to that store again ♥"
                             ]
                         },
                         {
@@ -20767,14 +20753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりこのお店は最高ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘いものを食べると、疲れが一気に吹き飛ぶわ。"
+                                "This shop is really the best, isn't it? When I eat something sweet,\nall my fatigue just disappears in an instant."
                             ]
                         },
                         {
@@ -20851,14 +20830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンだけじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今流行りのスイーツもたべれるのよ。"
+                                "You can eat not only bread but also trendy sweets now."
                             ]
                         },
                         {
@@ -20934,14 +20906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タピオカドリンクって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今流行りよね？"
+                                "Tapioca drinks... They're popular now, right?"
                             ]
                         },
                         {
@@ -21026,14 +20991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店内で食べる場合は要予約"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ち帰りの際は、食べるのはお早めに"
+                                "If you plan to eat inside the store, please make a reservation. If you\nare taking it to go, please eat it as soon as possible."
                             ]
                         },
                         {
@@ -21110,14 +21068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここだけの話し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街には、どこかに歓楽街に繋がる入り口があるらしい。"
+                                "Just between us, it seems that there is an entrance somewhere in this\ntown that leads to a pleasure district."
                             ]
                         },
                         {
@@ -21203,14 +21154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちわ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは、カスターニャの街よ。"
+                                "Hello, this is the town of Castania."
                             ]
                         },
                         {
@@ -21287,14 +21231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行方不明の事件が起きてるだなんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物騒だねぇ。"
+                                "It's dangerous that there have been cases of people going missing."
                             ]
                         },
                         {
@@ -21380,14 +21317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は警備を強化しているので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心してください。"
+                                "We have strengthened security measures, so please rest assured."
                             ]
                         },
                         {
@@ -21553,7 +21483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "元々この街の治安は、決して良くはなかったんだけど"
+                                "The public safety in this town was never really good to begin with."
                             ]
                         },
                         {
@@ -21579,14 +21509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカデミーができてからは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "領主様が柄の悪い人たちを、一掃してくれたのよ。"
+                                "Ever since the academy was established, the lord has been able to\neliminate the troublesome people."
                             ]
                         },
                         {
@@ -21700,14 +21623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この間・・・下のほうから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の子の卑猥な声が聞こえてきたんじゃ・・・。"
+                                "I heard a lewd voice of a girl coming from below the other day..."
                             ]
                         },
                         {
@@ -21724,14 +21640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんのその声に・・・少し似ていたような・・・"
+                                "Hm? Your voice... it sounded a little familiar..."
                             ]
                         },
                         {
@@ -21748,7 +21657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気のせいかの・・・。"
+                                "Is it just my imagination...?"
                             ]
                         },
                         {
@@ -21834,14 +21743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入ろうか、どうしようか・・・。"
+                                "Hmm, should I go in or not..."
                             ]
                         },
                         {
@@ -21942,14 +21844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこは、ただのマッサージ店だよ。"
+                                ".... That's just a massage parlor."
                             ]
                         },
                         {
@@ -22146,14 +22041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【男の子】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、お姉ちゃん♥"
+                                "[Boy] Oh, big sister ♥"
                             ]
                         },
                         {
@@ -22254,14 +22142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お屋敷で働いているんだけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は休憩中なの。"
+                                "I'm working at the mansion, but I'm currently on break."
                             ]
                         },
                         {
@@ -22337,14 +22218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "典型的な禿げた小太りタイプね。"
+                                "The lord here is a typical bald and chubby type."
                             ]
                         },
                         {
@@ -22420,14 +22294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主っていろんな噂があるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一言でいえば・・・"
+                                "The lord of this place has various rumors surrounding them, but if I\nhad to sum it up in one word..."
                             ]
                         },
                         {
@@ -22444,7 +22311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スケベね。"
+                                "Pervert."
                             ]
                         },
                         {
@@ -22520,7 +22387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの領主は、何故か貴族に人気があるの。"
+                                "The lord of this place is strangely popular among the nobles."
                             ]
                         },
                         {
@@ -22537,14 +22404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族のオヤジって、スケベが多いから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬が合うのかしら。"
+                                "I wonder if it's because there are many perverted nobles that they get\nalong with the lord of this place."
                             ]
                         },
                         {
@@ -22722,14 +22582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ・・・あの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な噂が・・・あるのですが・・・"
+                                "Um... um... there's a strange rumor..."
                             ]
                         },
                         {
@@ -22746,14 +22599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アナスタシア様が・・・ひ・・・卑猥な・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ことに・・・興じていると・・・"
+                                "Anastasia-sama... is... indulging in... obscene... things..."
                             ]
                         },
                         {
@@ -22857,358 +22703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そのような・・・噂が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 232,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0,
-                                20,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 233,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 234,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                [
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ],
-                                20,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                "ana71",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 232,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                0,
-                                0,
-                                20,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 233,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 234,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                [
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ],
-                                20,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "た・・・タダの・・・噂・・・ですよね・・・？"
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                "ana71",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 232,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0,
-                                20,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 233,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 234,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                [
-                                    0,
-                                    0,
-                                    0,
-                                    0
-                                ],
-                                20,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 230,
-                            "indent": 0,
-                            "parameters": [
-                                20
-                            ]
-                        },
-                        {
-                            "code": 235,
-                            "indent": 0,
-                            "parameters": [
-                                1
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                "ana71",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                "",
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・えぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                "",
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・この方は・・・ど、どのような・・・性器を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お持ち・・・なのでしょうか・・・はぁ・・・はぁ・・・♥）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う・・・噂が・・・嘘か本当か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し・・・あちらへ・・・来て・・・頂けますか・・・？"
+                                "[Anastasia] Th...that kind of... rumor... *panting* *panting*"
                             ]
                         },
                         {
@@ -23351,28 +22846,128 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え・・・"
+                                "Is... is it just... a rumor...?"
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "ana71",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 233,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                20
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "ana71",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                "",
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、アナスタシア様・・・"
+                                "[Anastasia] Eh...ehh..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                "",
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Haa... haa... ♥ What... what kind of... genitals... does\nthis person... have... haa... haa... ♥)"
                             ]
                         },
                         {
@@ -23389,7 +22984,167 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、一体・・・それは・・・どーいう・・・"
+                                "[Anastasia] Um... the rumors... are they true or false... Could you...\ncome over... here for a moment...?"
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 233,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                20
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 231,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                "ana71",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 232,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                0,
+                                0,
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 233,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 234,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                [
+                                    0,
+                                    0,
+                                    0,
+                                    0
+                                ],
+                                20,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 230,
+                            "indent": 0,
+                            "parameters": [
+                                20
+                            ]
+                        },
+                        {
+                            "code": 235,
+                            "indent": 0,
+                            "parameters": [
+                                1
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Um... Ah, Anastasia-sama..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "W-What... exactly... is... that...?"
                             ]
                         },
                         {
@@ -23493,14 +23248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
+                                "[Anastasia] Haa... haa... ♥"
                             ]
                         },
                         {
@@ -23517,7 +23265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキ・・・ドキ・・・ドキ・・・"
+                                "Thump... thump... thump..."
                             ]
                         },
                         {
@@ -23774,14 +23522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま・・・まさかアナスタシア様が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・このような・・・"
+                                "Well... I can't believe Anastasia-sama... would... do something like\nthis..."
                             ]
                         },
                         {
@@ -23798,7 +23539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま・・・"
+                                "Well..."
                             ]
                         },
                         {
@@ -23815,14 +23556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また・・・お願い・・・します"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシア様♥"
+                                "Please... I'm begging you... Anastasia-sama♥"
                             ]
                         },
                         {
@@ -23899,14 +23633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私・・・見ていたのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた・・・あちらの小さな子と・・・"
+                                "I... was watching... you... with that little child over there..."
                             ]
                         },
                         {
@@ -23923,14 +23650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い・・・いえ、気のせいでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にこちらの像にお祈りはいかがですか？"
+                                "No... it must be your imagination. How about we pray together at this\nstatue over here?"
                             ]
                         },
                         {
@@ -24007,14 +23727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと調子に乗って、・・・食べ過ぎたかしら・・・。"
+                                "Phew... I might have gotten a little carried away... I wonder if I ate\ntoo much..."
                             ]
                         },
                         {
@@ -24100,14 +23813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街のどこかに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有名な占い師がいるらしいんだけど・・・"
+                                "There seems to be a famous fortune teller somewhere in this town..."
                             ]
                         },
                         {
@@ -24133,7 +23839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこにいるのかしら？"
+                                "I wonder where they are?"
                             ]
                         },
                         {
@@ -24282,7 +23988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ・・・。"
+                                "Phew..."
                             ]
                         },
                         {
@@ -24375,14 +24081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまには外で勉強って言うのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪くないよね。"
+                                "Sometimes it's not a bad idea to study outside, right?"
                             ]
                         },
                         {
@@ -24459,7 +24158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は風が強いのぉ・・・。"
+                                "The wind is strong today..."
                             ]
                         },
                         {
@@ -24497,14 +24196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お・・・おぬし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、まさかそのスカートの下・・・っ"
+                                "Y-You... could it be, under that skirt..."
                             ]
                         },
                         {
@@ -24608,14 +24300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・//////"
+                                "[Anastasia] Ah... Ahhh...//////"
                             ]
                         },
                         {
@@ -24818,7 +24503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・たる・・・"
+                                "...Taru..."
                             ]
                         },
                         {
@@ -24895,28 +24580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結界というのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力の弱い者には気付くこともなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周りの景色と同じような風景が見えるだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というものもあるんじゃ。"
+                                "Barrier is something that even those with weak magical power may not\nnotice, it just appears as the same scenery as the surroundings."
                             ]
                         },
                         {
@@ -25104,14 +24768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街にも、魔術の結界があるかもしれんのぉ。"
+                                "Maybe, there might be a magical barrier in this town too."
                             ]
                         },
                         {
@@ -25299,7 +24956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・昔、魔術の教師をしていたことがあるんじゃ。"
+                                "...I used to be a sorcery teacher."
                             ]
                         },
                         {

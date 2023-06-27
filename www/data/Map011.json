@@ -2785,14 +2785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここだけの話し、アカデミーの校長とこの街の領主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっこう仲が良いらしいよ。"
+                                "Just between us, it seems that the academy's principal and the lord of\nthis town get along quite well."
                             ]
                         },
                         {
@@ -2868,14 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アカデミーは領主様の力の及ばない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治外法権みたいな立ち位置にあるんだよ"
+                                "The academy is in a position like extraterritoriality, beyond the\nreach of the lord's power."
                             ]
                         },
                         {
@@ -2951,21 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうも領主様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーにも影響力を持ちたいと思ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みたいだね。"
+                                "It seems like the Lord wants to have influence in the Academy as well."
                             ]
                         },
                         {
@@ -3041,14 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は情報屋もやってるんだよね、私。"
+                                "... Actually, I also work as an information broker."
                             ]
                         },
                         {
@@ -3065,7 +3030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛い子には、タダで教えちゃうこと多いけど。"
+                                "I often teach cute girls for free."
                             ]
                         },
                         {
@@ -3166,14 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "錬金術で作った育毛剤ってのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭以外にも効くらしいな。"
+                                "The hair growth tonic made with alchemy seems to work on more than\njust the head."
                             ]
                         },
                         {
@@ -3259,7 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰か若い子が、注いでくれんかのぉ。"
+                                "Could someone pour me a drink, young one?"
                             ]
                         },
                         {
@@ -3336,7 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は、非番です。"
+                                "I'm off duty now."
                             ]
                         },
                         {
@@ -3413,7 +3371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒も料理も旨いが、女が足りんな。"
+                                "The alcohol and food are delicious, but there's a shortage of women."
                             ]
                         },
                         {
@@ -3489,14 +3447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は可愛いが、胸が足りないなぁ。"
+                                "Hmm? You're cute, but you're lacking in the chest department."
                             ]
                         },
                         {
@@ -3590,14 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下品な男が多いと思ってるだろうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒場なんてそんなもんだよ。"
+                                "You probably think there are a lot of vulgar men, but that's just how\nit is in a tavern."
                             ]
                         },
                         {
@@ -3683,14 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒も飲んだし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このあと裏にある店でも行こうかなぁ。"
+                                "I had some drinks, so maybe we should go to the shop in the back\nlater."
                             ]
                         },
                         {
@@ -3767,14 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "広場の近くに倉庫があったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありゃー何を保管してるんだ？"
+                                "There was a warehouse near the square, but what are they storing\nthere?"
                             ]
                         },
                         {
@@ -3851,14 +3781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この辺の街に、カジノがあるらしいんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街にはないよなぁ。"
+                                "There seems to be a casino in this town, but it doesn't exist in this\ntown, huh?"
                             ]
                         },
                         {
@@ -3935,14 +3858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろんな場所に、ユニークモンスターという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぐれたモンスターがいるらしい。"
+                                "It seems that there are stray monsters called Unique Monsters in\nvarious places."
                             ]
                         },
                         {
@@ -3959,14 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、普通のモンスターより強いらしいので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦うのなら注意が必要だな。"
+                                "However, they seem to be stronger than ordinary monsters, so if you're\ngoing to fight them, you need to be careful."
                             ]
                         },
                         {

@@ -2334,28 +2334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシア様"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本日は午後に寝具の交換に参りますので・・・"
+                                "[Duncan] Ah! Lady Anastasia, I will come to exchange the bedding this\nafternoon..."
                             ]
                         },
                         {
@@ -2429,21 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んー"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ってしまいましたねぇ・・・"
+                                "[Duncan] Ah, you've gone, huh..."
                             ]
                         },
                         {

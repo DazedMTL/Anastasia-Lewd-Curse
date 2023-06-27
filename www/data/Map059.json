@@ -4249,14 +4249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この宿の紅茶は、なかなかだな。"
+                                "Hmm, the tea at this inn is quite good."
                             ]
                         },
                         {
@@ -4333,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街の料理は、どの店もレベルが高いようだ。"
+                                "The cuisine in this town seems to be of high quality in every\nrestaurant."
                             ]
                         },
                         {
@@ -4410,7 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街って、他に安い宿はないのかな・・・。"
+                                "Is there no other cheap inn in this town...?"
                             ]
                         },
                         {
@@ -4504,14 +4497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いらっしゃいませ"
+                                "[Duncan] Welcome"
                             ]
                         },
                         {
@@ -4528,14 +4514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご宿泊でございますか？"
+                                "[Duncan] Are you staying with us?"
                             ]
                         },
                         {
@@ -4646,21 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらに、アカデミーで用意した部屋があると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "伺ったのですが"
+                                "[Anastasia] I heard that there is a room prepared for me here at the\nacademy."
                             ]
                         },
                         {
@@ -4819,14 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ややっ"
+                                "[Duncan] Well..."
                             ]
                         },
                         {
@@ -4843,21 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシア様ではっ？！"
+                                "[Duncan] Could it be, Lady Anastasia?!"
                             ]
                         },
                         {
@@ -4968,21 +4912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうですが・・・"
+                                "[Anastasia] Yes, that's right..."
                             ]
                         },
                         {
@@ -4999,14 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のことをご存じなのですか？"
+                                "[Anastasia] Do you know who I am?"
                             ]
                         },
                         {
@@ -5165,14 +5088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろんです。"
+                                "[Duncan] Of course."
                             ]
                         },
                         {
@@ -5189,28 +5105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宮廷魔術師のアナスタシア様といえば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術の実力だけではなく、その美しさからも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多くの人の憧れの存在"
+                                "[Duncan]Speaking of Lady Anastasia, the court sorceress, she is not\nonly admired for her magical abilities but also for her beauty."
                             ]
                         },
                         {
@@ -5227,14 +5122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にもアナスタシア様と同い年くらいの娘がいるのですが"
+                                "[Duncan] I also have a daughter around the same age as Lady Anastasia."
                             ]
                         },
                         {
@@ -5251,14 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "娘もアナスタシア様の大ファンなのです。"
+                                "[Duncan] My daughter is also a big fan of Lady Anastasia."
                             ]
                         },
                         {
@@ -5369,28 +5250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お恥ずかしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I'm embarrassed."
                             ]
                         },
                         {
@@ -5407,28 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も昨年までは、ただの学生だった身"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Until last year, I was just a student too."
                             ]
                         },
                         {
@@ -5445,21 +5284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのような憧れの存在だとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身に余る光栄なことです。"
+                                "[Anastasia] It is an overwhelming honor to be such an admired figure."
                             ]
                         },
                         {
@@ -5609,21 +5434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ははは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご謙遜を"
+                                "[Duncan] Hahaha, you're being too modest."
                             ]
                         },
                         {
@@ -5640,21 +5451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーが借りられている部屋は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この宿の最上階になります。"
+                                "[Duncan] The room where the academy is rented is on the top floor of\nthis inn."
                             ]
                         },
                         {
@@ -5671,14 +5468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごゆっくりお過ごしください。"
+                                "[Duncan] Please enjoy your stay."
                             ]
                         },
                         {
@@ -5789,14 +5579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます。"
+                                "[Anastasia] Thank you very much."
                             ]
                         },
                         {
@@ -6392,14 +6175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（実物は、思ってた以上に小柄で可愛いなぁ。）"
+                                "[Duncan] (The real thing is even smaller and cuter than I thought.)"
                             ]
                         },
                         {
@@ -6416,14 +6192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グフッ"
+                                "[Duncan] Hehe."
                             ]
                         },
                         {

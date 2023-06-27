@@ -4459,28 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、今日も働いてもらいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Maid] Alright, I'll have you work today as well."
                             ]
                         },
                         {
@@ -4497,14 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -4542,21 +4514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "返事が聞こえませんよっ！！"
+                                "[Maid] Hey, I can't hear your response!!"
                             ]
                         },
                         {
@@ -4660,28 +4618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・はぃ・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Y-Yes..."
                             ]
                         },
                         {
@@ -4698,28 +4635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんですか、そのやる気のない返事はっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Maid] What's with that unenthusiastic response?"
                             ]
                         },
                         {
@@ -4736,28 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく・・・魔術もろくに使えない能無しなんですから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてやる気の一つでも見せたらどーなのですかっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Maid] Honestly... You're completely useless when it comes to sorcery.\nCan't you at least show a little bit of enthusiasm?"
                             ]
                         },
                         {
@@ -4783,28 +4678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっはっは♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Lord] Hahaha♪"
                             ]
                         },
                         {
@@ -4821,28 +4695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁまぁｗｗｗｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そー叱らんでもいいじゃろぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Lord] Well well, no need to scold her like that♪"
                             ]
                         },
                         {
@@ -4859,28 +4712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ちぶれたとは言え、元は貴族・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "掃除などやったこともなかったんじゃろｗｗｗｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Lord] Even though you've fallen from grace, you were originally a\nnoble... I bet you've never done any cleaning before, huh? Hahaha!"
                             ]
                         },
                         {
@@ -4897,28 +4729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに今まで魔術に頼り切りで生きてきたんじゃｗｗｗｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力を失って、もはやどーして良いのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにも分からんのじゃろ？"
+                                "[Lord] And now that you've relied solely on sorcery all this time,\nhahaha! You've lost your magical power, and you have no idea what to\ndo anymore, do you?"
                             ]
                         },
                         {
@@ -4944,28 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふんっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まったく領主様はお甘いですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Maid] Hmph, the Lord is too lenient."
                             ]
                         },
                         {
@@ -4982,14 +4772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、無能なあなたには・・・"
+                                "[Maid] Well, for someone as incompetent as you..."
                             ]
                         },
                         {
@@ -5006,21 +4789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぷっｗｗｗｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさにその恰好がお似合いですけどね♪"
+                                "[Maid] Hehehe♪ That appearance suits you perfectly, doesn't it♪"
                             ]
                         },
                         {
@@ -5037,14 +4806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはははは♪ｗｗｗｗ"
+                                "[Maid] Ahahahaha♪ LOL"
                             ]
                         },
                         {
@@ -5132,14 +4894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・はは・・・・ぅ・・・ぐす・・・・・・"
+                                "[Anastasia] H-haha... *sniff*... *sob*..."
                             ]
                         },
                         {
@@ -5165,28 +4920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらあら♪まったく、何を泣いているんですかｗｗｗｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はまず、屋敷すべての雑巾がけからですよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Maid] Oh my, what are you crying for? LOL. First, we'll start with\ncleaning all the rooms in the mansion today♪"
                             ]
                         },
                         {
@@ -5203,28 +4937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋敷中の人間に、お尻の穴までしっかり見られながら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい、自分の立場ってものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よ～く・・・自覚することですねｗｗｗｗ"
+                                "[Maid] While being thoroughly observed by everyone in the mansion, you\nshould at least... really... be aware of your own position, LOL."
                             ]
                         },
                         {
@@ -5241,14 +4954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う・・・ぐす・・・・・は・・・・はぃ・・・"
+                                "[Anastasia] Ugh... *sniff*... Y-yes..."
                             ]
                         },
                         {
@@ -5400,14 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと、そうじゃった♪"
+                                "[Lord] Oh, there we go♪"
                             ]
                         },
                         {
@@ -5455,21 +5154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は息子の奴が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いたくこやつのことを気に入っておってのぉ♪"
+                                "[Lord] Actually, I quite like that rascal of a son of yours, you know♪"
                             ]
                         },
                         {
@@ -5486,21 +5171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【領主】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は、息子の世話を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してもらおうかと思って居ったんじゃｗｗｗｗ"
+                                "[Lord] Today, I was thinking of having you take care of my son, lololol"
                             ]
                         },
                         {
@@ -5517,21 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あら、そうなんですか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは残念♪"
+                                "[Maid] Oh, is that so... That's unfortunate♪"
                             ]
                         },
                         {
@@ -5579,21 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、あなた・・・今日はしっかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご奉仕してらっしゃいな♥"
+                                "[Maid] Well then, you... make sure to serve diligently today, okay? ♥"
                             ]
                         },
                         {
@@ -5610,14 +5253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【メイド】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふ♪"
+                                "[Maid] Hehe♪"
                             ]
                         },
                         {

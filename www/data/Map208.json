@@ -2785,21 +2785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君ならいつでも大歓迎だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニヤニヤ"
+                                "[Master] You're always welcome here. Smiling"
                             ]
                         },
                         {
@@ -2883,21 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、今日は何をしてくれるんだぃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニヤニヤ"
+                                "[Master]: Oh, what are you going to do for me today? *grinning*"
                             ]
                         },
                         {
@@ -3001,21 +2973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと良いアイディアがあるんだけれどぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いできないかしらぁ～♪"
+                                "[Gisellemina]: I have a little good idea... Can I ask you a favor? ♪"
                             ]
                         },
                         {
@@ -3158,14 +3116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ・・・何かな？"
+                                "[Master]: Hmmm... What could it be?"
                             ]
                         },
                         {
@@ -3203,7 +3154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　ギジェルミーナは『××××××の秘蔵映像』を渡した。"
+                                "　　Gisellemina handed over the ×××××× secret footage."
                             ]
                         },
                         {
@@ -3229,14 +3180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おぉ！！なるほど、なるほどぉ♪"
+                                "[Master]: Oh!! I see, I see♪"
                             ]
                         },
                         {
@@ -3253,21 +3197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく準備をさせて貰うよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニヤニヤ。"
+                                "[Master]: Let me prepare right away ♥ *grinning*"
                             ]
                         },
                         {
@@ -3371,21 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いしますわぁ♥"
+                                "[Gisellemina]: Oh, yes♪ Please take care of me ♥"
                             ]
                         },
                         {
@@ -3622,28 +3538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia]: ............"
                             ]
                         },
                         {
@@ -3660,14 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・何を、するのですか・・・？"
+                                "[Anastasia]: W-What... are you going to do...?"
                             ]
                         },
                         {
@@ -3904,28 +3792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うふふふふ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心なさぁ～い♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina]: Ufufufufu♪ Don't worry, be at ease ♥"
                             ]
                         },
                         {
@@ -3942,21 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別にあなたはぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何もしなくても大丈夫だからぁあ♪"
+                                "[Gisellemina]: It's not like you have to do anything... You'll be fine\nwithout doing anything♪"
                             ]
                         },
                         {
@@ -4193,21 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia]: ............"
                             ]
                         },
                         {
@@ -4465,14 +4304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンスだけじゃモノ足んねぇー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部見せろーーー。"
+                                "Dancing alone is not enough!! Show me everything!!"
                             ]
                         },
                         {
@@ -4549,7 +4381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりご飯も、このくらいジャンキーじゃないとなぁ。"
+                                "I guess even food needs to be a little junky."
                             ]
                         },
                         {
@@ -4635,14 +4467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むしゃむしゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんめぇ～。"
+                                "Munch munch. Yummy~."
                             ]
                         },
                         {
@@ -4719,14 +4544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは毎回面白いイベントするから、ついつい来ちゃうぜ。"
+                                "Hehehe, we always have interesting events here, so I can't help but\ncome."
                             ]
                         },
                         {
@@ -4803,7 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ・・・わぁ！！"
+                                "Ugh... wah!!"
                             ]
                         },
                         {
@@ -4820,7 +4638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "零しちゃった・・・。"
+                                "I messed up..."
                             ]
                         },
                         {
@@ -4897,7 +4715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お・・・おえぇ～・・・"
+                                "Oh...oh no..."
                             ]
                         },
                         {
@@ -4983,7 +4801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おひょひょひょひょ～"
+                                "Oh hyohyohyohyo~"
                             ]
                         },
                         {
@@ -5060,7 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃんの出演・・・待ってるぜぇ。ニチャァ"
+                                "I'm waiting for the young lady's appearance... Nyah."
                             ]
                         },
                         {
@@ -5137,14 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は、どんなショーがあるのかなぁ。"
+                                "Hehehe, I wonder what kind of show there will be today."
                             ]
                         },
                         {
@@ -5230,7 +5041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは、ダンスには興味はないのだよ。"
+                                "I'm not interested in dancing."
                             ]
                         },
                         {
@@ -5256,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チラチラ"
+                                "Glitter"
                             ]
                         },
                         {
@@ -5333,14 +5144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぃ～、ひっく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度知っちゃうと、酒に女は欠かせないよなぁ。"
+                                "Whee~, hiccup... Once you know it, you can't do without alcohol and\nwomen, huh."
                             ]
                         },
                         {

@@ -1609,28 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらぁ～あなた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Fortune Teller] Oh my... you..."
                             ]
                         },
                         {
@@ -1647,21 +1626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【占い師】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう堕ちちゃったのねぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今が、ラストチャンスなのだけれど・・・"
+                                "[Fortune Teller] Oh my... you've already fallen, huh? This is your last\nchance..."
                             ]
                         },
                         {

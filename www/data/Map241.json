@@ -1317,7 +1317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地下だと・・・暴漢に襲われることもあるから・・・"
+                                "If it's underground... there's a possibility of being attacked by\nthugs..."
                             ]
                         },
                         {
@@ -1334,7 +1334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "備えておいたほうが・・・良いよ。"
+                                "It's better to be prepared... just in case."
                             ]
                         },
                         {

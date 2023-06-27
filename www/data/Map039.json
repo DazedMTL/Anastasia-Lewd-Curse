@@ -1489,7 +1489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わしも引退はしたが、魔術師だったんじゃ。"
+                                "I may have retired, but I was a sorcerer."
                             ]
                         },
                         {
@@ -1566,14 +1566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引退はしたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術の研究はずっと続けているのよ、うちの爺さんは。"
+                                "Retirement, but my grandfather continues his research on sorcery."
                             ]
                         },
                         {

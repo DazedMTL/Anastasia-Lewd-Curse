@@ -1531,14 +1531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたんだ店長"
+                                "What's wrong, manager?"
                             ]
                         },
                         {
@@ -1555,14 +1548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子を下に連れてってあげようかと思うの。"
+                                "[Manager] I'm thinking of taking this child under my wing."
                             ]
                         },
                         {
@@ -1678,28 +1664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおおおっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはまた、上玉な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Ohhh, this is quite a rare find."
                             ]
                         },
                         {
@@ -1716,7 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺ぁ絶対逝くぜ、その店に！"
+                                "I'm definitely going to that store!"
                             ]
                         },
                         {
@@ -1764,14 +1729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、行くわよ。"
+                                "[Manager] Alright, let's go."
                             ]
                         },
                         {

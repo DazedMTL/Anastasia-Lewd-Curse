@@ -5659,14 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本来この学校は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術の根幹たる魔法を究明するために建てられたんだよ。"
+                                "Originally, this school was built to study the essence of sorcery,\nmagic."
                             ]
                         },
                         {
@@ -5683,14 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "設立には、あなたのお父様である理事長が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多大な貢献をしてくれたのです。"
+                                "The chairman, who is your father, made a significant contribution to\nthe establishment."
                             ]
                         },
                         {
@@ -5767,7 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は、校長室です。"
+                                "This way leads to the principal's office."
                             ]
                         },
                         {
@@ -6015,21 +6001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシア様"
+                                "[Principal] This is Anastasia-sama."
                             ]
                         },
                         {
@@ -6055,14 +6027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかがいたしましたか？"
+                                "[Principal] How may I assist you?"
                             ]
                         },
                         {
@@ -6166,14 +6131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は、ひとつお願い事があって参りました。"
+                                "[Anastasia] Actually, I have a favor to ask."
                             ]
                         },
                         {
@@ -6332,28 +6290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお、それはそれは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でも言ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] Oh, please feel free to tell me anything."
                             ]
                         },
                         {
@@ -6370,21 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒たちのためであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でも協力致しますぞ。"
+                                "[Principal] If it's for the students, I will assist you in any way I\ncan."
                             ]
                         },
                         {
@@ -6495,14 +6418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます。"
+                                "[Anastasia] Thank you very much."
                             ]
                         },
                         {
@@ -6519,28 +6435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少々、街で売っているアイテムでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心許なかったので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I was a little uneasy about the items being sold in town,\nso"
                             ]
                         },
                         {
@@ -6557,21 +6452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーで取り扱っているアイテムを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使わせて頂きたいのです。"
+                                "[Anastasia] I would like to use the items being handled at the academy."
                             ]
                         },
                         {
@@ -6730,28 +6611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] What is it?!"
                             ]
                         },
                         {
@@ -6768,21 +6628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の失踪事件には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それほどの術者が関わっているということですか？！"
+                                "[Principal] Are you saying that there are sorcerers involved in this\ndisappearance case?!"
                             ]
                         },
                         {
@@ -6893,14 +6739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええ"
+                                "[Anastasia] Um..."
                             ]
                         },
                         {
@@ -6917,28 +6756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一のことも考えまして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備は入念にしておこうかと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Just in case, I thought it would be best to prepare\nthoroughly."
                             ]
                         },
                         {
@@ -6955,28 +6773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーでは、街では手に入らない貴重なアイテムも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "錬金していたはず"
+                                "[Anastasia] If I remember correctly, at the academy, we were able to\nalchemize valuable items that couldn't be obtained in town."
                             ]
                         },
                         {
@@ -6993,21 +6790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代金はお支払いいたしますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使わせて頂きたいのです。"
+                                "[Anastasia] I will pay for it, so I would like to use it."
                             ]
                         },
                         {
@@ -7166,28 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] I see..."
                             ]
                         },
                         {
@@ -7204,28 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] Understood."
                             ]
                         },
                         {
@@ -7242,28 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タダでというわけには参りませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代金をお支払いになって頂けるのであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "協力は惜しみません。"
+                                "[Principal] I cannot do it for free, but if you are willing to pay the\nfee, I will spare no effort in assisting you."
                             ]
                         },
                         {
@@ -7374,14 +7094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご協力痛み入ります。"
+                                "[Anastasia] I appreciate your cooperation."
                             ]
                         },
                         {
@@ -7531,21 +7244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お安くは致しますが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴重なアイテムなので"
+                                "[Principal] I can offer you a discount, but... it is a valuable item,\nso"
                             ]
                         },
                         {
@@ -7562,14 +7261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お高いですよ？"
+                                "[Principal] Is it expensive?"
                             ]
                         },
                         {
@@ -7728,28 +7420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご安心を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Please rest assured."
                             ]
                         },
                         {
@@ -7766,28 +7437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなりに所持金は持ってきておりますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I have brought a considerable amount of money with me as\nwell, so"
                             ]
                         },
                         {
@@ -7804,21 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでももし不足があるようであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都の父にご連絡下さい。"
+                                "[Anastasia] However, if there is still a shortage, please contact my\nfather in the capital."
                             ]
                         },
                         {
@@ -7835,21 +7471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色を付けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お返しして頂けるかと思います。"
+                                "[Anastasia] I was wondering if you could color it and give it back to\nme."
                             ]
                         },
                         {
@@ -8008,28 +7630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっはっはっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは、ありがたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] Hahaha, that is much appreciated."
                             ]
                         },
                         {
@@ -8046,21 +7647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうぞお好きなものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お選びください。"
+                                "[Principal] Please choose whatever you like."
                             ]
                         },
                         {
@@ -8146,21 +7733,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何も買われないのですか？"
+                                "[Principal] Oh, are you not going to buy anything?"
                             ]
                         },
                         {
@@ -8197,21 +7770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おひとつでよろしいのですか？"
+                                "[Principal] Oh, just one?"
                             ]
                         },
                         {
@@ -8322,28 +7881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Yes."
                             ]
                         },
                         {
@@ -8360,28 +7898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほどのもの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとつあれば十分です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] If I have just one of these, it will be enough."
                             ]
                         },
                         {
@@ -8531,28 +8048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だいぶ所持金を使わせてしまいましたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] I have made you spend quite a bit of your money, but"
                             ]
                         },
                         {
@@ -8569,28 +8065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒が見つかるまでの間は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生活全般であればアカデミーが支援致しますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご安心ください。"
+                                "[Principal] Until the student is found, the academy will support you in\nall aspects of your life, so please rest assured."
                             ]
                         },
                         {
@@ -8701,28 +8176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Thank you very much."
                             ]
                         },
                         {
@@ -8739,28 +8193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざというときは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王都から、必要な金銭も送っていただきますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご心配には及びません。"
+                                "[Anastasia] In case of emergency, the necessary funds will be sent from\nthe capital, so please don't worry."
                             ]
                         },
                         {
@@ -8777,28 +8210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（さて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最低限の準備はできましたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先程の森に戻ることにしましょう。）"
+                                "[Anastasia] (Well... I've made the minimum preparations, so let's go\nback to the forest earlier.)"
                             ]
                         },
                         {

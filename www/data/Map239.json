@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下街",
+    "displayName": "Underground Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 57,
@@ -15854,7 +15854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君・・・可愛いねぇ。へへ"
+                                "You... are cute, huh. Hehe."
                             ]
                         },
                         {
@@ -15930,7 +15930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族さまも、よくそこで宴会をしてるぜ。"
+                                "Noble-sama, you often hold banquets there."
                             ]
                         },
                         {
@@ -16015,7 +16015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかで見たことあると思ったら・・・"
+                                "If I thought I had seen it somewhere..."
                             ]
                         },
                         {
@@ -16032,28 +16032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宮廷魔術師様だったのかぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "So you were the court sorceress, huh?♪"
                             ]
                         },
                         {
@@ -16070,14 +16049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ、スケベな宮廷魔術師様か♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいねぇ。"
+                                "Hehehe, a perverted court sorceress, huh? ♥ That's nice."
                             ]
                         },
                         {
@@ -16154,14 +16126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君って誰にでも股開くんだね♥"
+                                "Hehehe ♪ You really spread your legs for anyone, don't you? ♥"
                             ]
                         },
                         {
@@ -16298,28 +16263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん、有名な宮廷魔術師なんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Miss, I heard you're a famous court sorceress?"
                             ]
                         },
                         {
@@ -16336,14 +16280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次いつ酒場に出演するんだぃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ♥"
+                                "When will you be performing at the tavern next? Hehehe ♥"
                             ]
                         },
                         {
@@ -16429,7 +16366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこのは見世物小屋だってよ。へへへ"
+                                "That over there is a sideshow booth. Hehehe."
                             ]
                         },
                         {
@@ -16455,7 +16392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、今は誰もいないみたいだけどな。へへへ"
+                                "Well, it looks like there's no one here right now. Hehehe."
                             ]
                         },
                         {
@@ -16559,14 +16496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へぇ～♥"
+                                "[Gisellemina] Wow~♥"
                             ]
                         },
                         {
@@ -16794,14 +16724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかこの街にこんな場所があったとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ・・・これも神のお導きか。"
+                                "I never expected there to be a place like this in this town. Ah...this\nmust also be the guidance of God."
                             ]
                         },
                         {
@@ -16878,21 +16801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃん、簡単にヤらせてくれるって噂になってるぜ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤリマンだってよｗ"
+                                "Hehehe ♪ Miss, there's a rumor going around that you're easy to get\nwith, right? ♥ They say you're a nympho, lol."
                             ]
                         },
                         {
@@ -16996,21 +16905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あ・・・あぁぁ・・・わ、私が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "や・・・ヤリマン・・・だなんて・・・。）"
+                                "[Anastasia] (Ah... Ahhh... I... I can't believe they're saying I'm...\npromiscuous...)"
                             ]
                         },
                         {
@@ -17282,14 +17177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンブルに向いていないのは分かっていたのにぃ・・・"
+                                "Ah~ I knew I wasn't cut out for gambling..."
                             ]
                         },
                         {
@@ -17315,14 +17203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また入ろうか、どうしようか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ～"
+                                "Should I go in again? What should I do... Ah~"
                             ]
                         },
                         {
@@ -17399,7 +17280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、働いてるなら別だけどな♥"
+                                "Well, if you're working, it's a different story ♥"
                             ]
                         },
                         {
@@ -17476,14 +17357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっくっく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいる住民は、好きでみんなここにいるのだ。"
+                                "Hehehe, the residents here are all here because they want to be."
                             ]
                         },
                         {
@@ -17560,7 +17434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの人、ようやくカジノに入ったと思ったら"
+                                "Excuse me, but as soon as I thought I finally entered the casino..."
                             ]
                         },
                         {
@@ -17577,7 +17451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、ああしてウロウロしてるのよ。"
+                                "And there she goes, wandering around like that again."
                             ]
                         },
                         {

@@ -1889,7 +1889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Principal] Even with all the teachers from the Academy searching,\nthey couldn't be found..."
+                                "[Principal] Even with all the teachers from the Academy searching, they\ncouldn't be found..."
                             ]
                         },
                         {
@@ -1922,7 +1922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "[Principal] In the event that something were to happen to the\nstudents, I would be at a complete loss."
+                                "[Principal] In the event that something were to happen to the students,\nI would be at a complete loss."
                             ]
                         },
                         {

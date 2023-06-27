@@ -3571,14 +3571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大部屋はすでに予約されていたのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁこの部屋も悪くはないな。"
+                                "The large room had already been reserved, but well, this room isn't\nbad either."
                             ]
                         },
                         {

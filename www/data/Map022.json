@@ -2785,14 +2785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またよろしくね。"
+                                "[Master] Nice to meet you again."
                             ]
                         },
                         {
@@ -2860,14 +2853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次のイベントタイム、働いていく？"
+                                "[Master] Are you going to work during the next event time?"
                             ]
                         },
                         {
@@ -2954,14 +2940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またよろしくね。"
+                                "[Master] Thank you in advance."
                             ]
                         },
                         {
@@ -3039,21 +3018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のイベントは終わっちゃったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次のときまたよろしく。"
+                                "[Master] Today's event is over, so please look forward to the next one."
                             ]
                         },
                         {
@@ -3121,14 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次のイベントタイム、働いていく？"
+                                "[Master] Are you going to work during the next event time?"
                             ]
                         },
                         {
@@ -3215,14 +3173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またよろしくね。"
+                                "[Master] Thank you in advance."
                             ]
                         },
                         {
@@ -3300,21 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のイベントは終わっちゃったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次のときまたよろしく。"
+                                "[Master] Today's event is over, so please look forward to the next one."
                             ]
                         },
                         {
@@ -3391,14 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいぞー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部見せろーーー。"
+                                "Show me everything!"
                             ]
                         },
                         {
@@ -3475,7 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりご飯も、このくらいジャンキーじゃないとなぁ。"
+                                "I guess even food needs to be a little junky."
                             ]
                         },
                         {
@@ -3561,14 +3491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むしゃむしゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんめぇ～。"
+                                "Munch munch. Yummy~."
                             ]
                         },
                         {
@@ -3645,14 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ストリップショーが見たくて、ついつい来ちゃうぜ。"
+                                "Hehehe, I can't help but come because I want to see a strip show."
                             ]
                         },
                         {
@@ -3729,7 +3645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ・・・わぁ！！"
+                                "Ugh... wah!!"
                             ]
                         },
                         {
@@ -3746,7 +3662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "零しちゃった・・・。"
+                                "I messed up..."
                             ]
                         },
                         {
@@ -3823,7 +3739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お・・・おえぇ～・・・"
+                                "Oh...oh no..."
                             ]
                         },
                         {
@@ -3909,7 +3825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おひょひょひょひょ～"
+                                "Oh hyohyohyohyo~"
                             ]
                         },
                         {
@@ -3986,7 +3902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃんは出ないのかぃ？ニチャァ"
+                                "Are you not coming out, young lady? Nyaa."
                             ]
                         },
                         {
@@ -4063,14 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は、どの娘にしようかねぇ。"
+                                "Hehehe, which girl should I choose today?"
                             ]
                         },
                         {
@@ -4156,7 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは、ダンスには興味はないのだよ。"
+                                "I'm not interested in dancing."
                             ]
                         },
                         {
@@ -4182,7 +4091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チラチラ"
+                                "Glitter"
                             ]
                         },
                         {
@@ -4259,14 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぃ～、ひっく・・・ここは丁度いいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上の店は、お上品すぎるんだよなぁ。"
+                                "Translation: Whee~, hic... This place is just right. The shop upstairs\nis too fancy."
                             ]
                         },
                         {

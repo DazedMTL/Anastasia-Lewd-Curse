@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下街",
+    "displayName": "Underground Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 57,
@@ -15354,28 +15354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・校長に、抱かれるくらいなら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...If it means being embraced by the principal..."
                             ]
                         },
                         {
@@ -15645,14 +15624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ・・・私は一体何を・・・・・・っ"
+                                "[Anastasia] Wha... What on earth..."
                             ]
                         },
                         {
@@ -16549,7 +16521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君・・・可愛いねぇ。へへ"
+                                "You... are cute, huh. Hehe."
                             ]
                         },
                         {
@@ -16625,7 +16597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族さまも、よくそこで宴会をしてるぜ。"
+                                "Noble-sama, you often hold banquets there."
                             ]
                         },
                         {
@@ -16710,14 +16682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前どこかで見たことあるなぁ。"
+                                "Huh? I feel like I've seen you somewhere before."
                             ]
                         },
                         {
@@ -16734,14 +16699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かあれは・・・貴族の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメだ、思い出せねぇ。"
+                                "I think that was... a noble... No, I can't remember."
                             ]
                         },
                         {
@@ -16827,21 +16785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ、君？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金払うから、ヤラせてよ♪"
+                                "[Playboy] Hey, you? I'll pay you, so let me have some fun♪"
                             ]
                         },
                         {
@@ -16945,28 +16889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ugh..."
                             ]
                         },
                         {
@@ -16983,21 +16906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、お金を頂いても・・・か・・・身体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許すようなことは・・・ありませんっ。"
+                                "[Anastasia] E-even if I were to receive money... I-I would never...\nallow something like giving my body..."
                             ]
                         },
                         {
@@ -17140,21 +17049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れねぇなぁ。"
+                                "[Playboy] Hehehe, you won't come with me, huh?"
                             ]
                         },
                         {
@@ -17231,21 +17126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ、ねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金払うからさぁ、ヤラせてよ♪"
+                                "[Playboy] Hey, hey? I'll pay you, so let me have some fun♪"
                             ]
                         },
                         {
@@ -17349,14 +17230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -17373,21 +17247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・このようなところで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体を許すことなど・・・ありませんっ。"
+                                "[Anastasia] I... I would never allow my body to be used in a place like\nthis..."
                             ]
                         },
                         {
@@ -17530,21 +17390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れねぇなぁ。"
+                                "[Playboy] Hehehe, you won't come with me, huh?"
                             ]
                         },
                         {
@@ -17621,21 +17467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ、ねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金払うからさぁ、ヤラせてよ♪"
+                                "[Playboy] Hey, hey? I'll pay you, so let me have some fun♪"
                             ]
                         },
                         {
@@ -17739,28 +17571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "み・・・見ず知らずの方とは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] With someone I don't know..."
                             ]
                         },
                         {
@@ -17777,14 +17588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いきなり・・・す・・・するのは・・・"
+                                "[Anastasia] T-to suddenly... d-doing it..."
                             ]
                         },
                         {
@@ -17801,14 +17605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -17951,21 +17748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちぇっ、連れねぇなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
+                                "[Playboy] Tch, you're no fun. Hehehe."
                             ]
                         },
                         {
@@ -18068,14 +17851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねぇねぇ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金なら払うからさぁ・・・ヤラせてよ♥"
+                                "Hey, hey♪ I'll pay you if it's about money... Let me do it♥"
                             ]
                         },
                         {
@@ -18186,28 +17962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] *panting* Haah... Haah..."
                             ]
                         },
                         {
@@ -18224,28 +17979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そんなに・・・私と・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し・・・したいのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] D-Do you... want to... do it with me... that much?"
                             ]
                         },
                         {
@@ -18262,28 +17996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、だって君・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もの凄い可愛いいんだもん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Ah, because you're... incredibly cute, you know♪"
                             ]
                         },
                         {
@@ -18300,28 +18013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -18338,28 +18030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぃ・・・いぃ・・・ですよ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I-I...it's...fine..."
                             ]
                         },
                         {
@@ -18376,28 +18047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ・・・？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Huh...?! Really?"
                             ]
                         },
                         {
@@ -18414,28 +18064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・・・・はい・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Y-Yes..."
                             ]
                         },
                         {
@@ -18452,28 +18081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおっ、声を掛けて良かったぜ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Oh, I'm glad I called out to you♪ Hehehe"
                             ]
                         },
                         {
@@ -18490,28 +18098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、では・・・そこの・・・ホテルで・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] S-So, then... over there... at the hotel..."
                             ]
                         },
                         {
@@ -18528,28 +18115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Huh?"
                             ]
                         },
                         {
@@ -18566,21 +18132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでしてくれるんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Aren't you going to do it here?"
                             ]
                         },
                         {
@@ -18668,28 +18220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] What?!"
                             ]
                         },
                         {
@@ -18706,28 +18237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・このような場所でですかっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] In... in a place like this?"
                             ]
                         },
                         {
@@ -18744,28 +18254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫だよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら誰もこないし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] It's okay♪ No one will come here..."
                             ]
                         },
                         {
@@ -18782,28 +18271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに屋外でするっていうのも、案外良いんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Besides, doing it outdoors is surprisingly good, you know?"
                             ]
                         },
                         {
@@ -18820,28 +18288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そんなはずっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... It... it shouldn't be like this..."
                             ]
                         },
                         {
@@ -18858,28 +18305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かに見られるかもしれない・・・ってドキドキが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] The thrill of someone possibly seeing us... makes my heart\nrace..."
                             ]
                         },
                         {
@@ -18896,28 +18322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外に・・・興奮するんだぜ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Surprisingly... it excites me, you know? ♥"
                             ]
                         },
                         {
@@ -18934,28 +18339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -18972,28 +18356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thump, thump..."
                             ]
                         },
                         {
@@ -19010,28 +18373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと想像して・・・興奮しちゃったかなぁ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Huh? Did you get a little excited just imagining it? ♥"
                             ]
                         },
                         {
@@ -19048,28 +18390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・ちっ・・・違いますっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... ah... t-t-that's not it..."
                             ]
                         },
                         {
@@ -19086,28 +18407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -19124,28 +18424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁまぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな場所、誰も来ないからさ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Well well♪ No one will come to a place like this, you know\n♥"
                             ]
                         },
                         {
@@ -19162,28 +18441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、隣で水も流れてるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと・・・くらい大声出しちゃっても・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Besides, the water is flowing next to us, so even if we\nraise our voices a little..."
                             ]
                         },
                         {
@@ -19200,28 +18458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にも・・・聞こえないぜ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] No one... can hear us... ♥"
                             ]
                         },
                         {
@@ -19238,28 +18475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa... haa..."
                             ]
                         },
                         {
@@ -19276,28 +18492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -19314,28 +18509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下だけで良いからさ・・・ここで脱いで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Hey ♥ Just the bottom is fine... Take it off here..."
                             ]
                         },
                         {
@@ -19352,28 +18526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外で・・・セックスしちゃおうぜ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Let's have sex outside, shall we? ♥"
                             ]
                         },
                         {
@@ -19390,14 +18543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "[Anastasia] ........"
                             ]
                         },
                         {
@@ -19516,28 +18662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Mmm.........."
                             ]
                         },
                         {
@@ -19554,28 +18679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、帽子だけじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下も・・・さぁ、さぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Look, not just the hat, but also the bottom... Come on,\ncome on... ♥"
                             ]
                         },
                         {
@@ -19592,28 +18696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・う・・・・・うぅ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...U... Ugh... Ugh..."
                             ]
                         },
                         {
@@ -19630,28 +18713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -19668,21 +18730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し・・・下・・・はぁ・・・はぁ・・・だけ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・。"
+                                "[Anastasia] The... bottom... haa... haa... just... haa... haa..."
                             ]
                         },
                         {
@@ -19699,28 +18747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざってとき流石に裸ってのは、厳しいでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Ah ♪ When it comes to it, being naked is tough, isn't it?"
                             ]
                         },
                         {
@@ -19737,28 +18764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -19775,28 +18781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ・・・はぁっ・・・あ・・・あああっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... a... aahhh..."
                             ]
                         },
                         {
@@ -19813,28 +18798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -19851,28 +18815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫、大丈夫♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上さえ着てれば、バレないから♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Don't worry, don't worry♪ As long as you're covered on\ntop, no one will notice♥"
                             ]
                         },
                         {
@@ -19889,28 +18832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああっ・・・はっ・・・はっ・・・はぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... aahhh... haa... haa... haa..."
                             ]
                         },
                         {
@@ -19927,7 +18849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキ・・・"
+                                "Thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20046,28 +18968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・あ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...U... Ugh... Ugh..."
                             ]
                         },
                         {
@@ -20084,28 +18985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スカートを脱ぎ・・・太ももが、スース―する・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I take off my skirt... My thighs feel... ticklish..."
                             ]
                         },
                         {
@@ -20122,28 +19002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ・・・はぁっ・・・あ・・・あああっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... a... aahhh..."
                             ]
                         },
                         {
@@ -20160,7 +19019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバク・・・・"
+                                "Thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20177,28 +19036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと下着だけだよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Hehehe, just the underwear left♪"
                             ]
                         },
                         {
@@ -20215,28 +19053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa... haa..."
                             ]
                         },
                         {
@@ -20253,7 +19070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバク・・・・"
+                                "Thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20270,21 +19087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く下着も脱いで脱いで・・・。"
+                                "[Smooth Guy] Come on♪ Hurry up and take off your underwear..."
                             ]
                         },
                         {
@@ -20301,14 +19104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・・ああああああっ・・・・"
+                                "[Anastasia] Ah... aahhh... haa... haa... haa..."
                             ]
                         },
                         {
@@ -20325,28 +19121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっそり、野外セックス・・・しちゃお♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Smooth Guy] Let's have a secret outdoor sex...♥"
                             ]
                         },
                         {
@@ -20363,14 +19138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁ、はぁ・・・っ。"
+                                "[Anastasia] Haa, haa, haa..."
                             ]
                         },
                         {
@@ -20387,7 +19155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバクバクバクバクバク・・・・"
+                                "Thump, thump, thump, thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20404,7 +19172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恥ずかしさで、心臓が破裂しそうになりながら・・・。"
+                                "Feeling so embarrassed, my heart feels like it's about to burst..."
                             ]
                         },
                         {
@@ -20421,28 +19189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイツの紐と・・・下着に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The strings of the tights... and the underwear..."
                             ]
                         },
                         {
@@ -20459,28 +19206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手を掛ける・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I will take care of it..."
                             ]
                         },
                         {
@@ -20497,21 +19223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁっ・・・はぁっ・・・ぬ・・・脱いだら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、私の・・・性器が・・・見えてしまうっ・・・）"
+                                "[Anastasia] (Haa... haa... If I take it off... M-My... genitals... will\nbe exposed...)"
                             ]
                         },
                         {
@@ -20528,21 +19240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ・・・こんな・・・お・・・屋外でっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "か・・・下半身がっ！！）"
+                                "[Anastasia] (Th...this...out...outdoors...my...lower body!!)"
                             ]
                         },
                         {
@@ -20559,14 +19257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁ、はぁ、はぁ、はぁ・・・っ。"
+                                "[Anastasia] Haa, haa, haa, haa, haa..."
                             ]
                         },
                         {
@@ -20583,7 +19274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバクバクバクバクバク・・・・"
+                                "Thump, thump, thump, thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20600,28 +19291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Smooth..."
                             ]
                         },
                         {
@@ -20728,28 +19398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・ああああああっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... aaaa... aaaaaaah..."
                             ]
                         },
                         {
@@ -20766,7 +19415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバクバクバクバクバク・・・・"
+                                "Thump, thump, thump, thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20783,28 +19432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下半身の・・・大事なところが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "My... important area... in my lower body..."
                             ]
                         },
                         {
@@ -20821,28 +19449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひんやりと・・・外気に触れる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Cool... touching the outside air..."
                             ]
                         },
                         {
@@ -20859,21 +19466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下半身・・・丸出しになっちゃったね♥"
+                                "[Playboy] Yeah♪ Your lower body... is completely exposed, huh♥"
                             ]
                         },
                         {
@@ -20890,28 +19483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ぬ、脱いでしまった・・・はぁ・・・はぁ・・・。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (I-I took it off... haa... haa...)"
                             ]
                         },
                         {
@@ -20928,28 +19500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こ、こんな屋外でっ・・・わ・・・私・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・スカートを・・・し、下着を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱いでしまったっ・・・あ・・・あああっ・・・！！）"
+                                "[Anastasia] (I-I took off my skirt and underwear... I... in this kind\nof outdoors... haa... haa... aaaaah...!!)"
                             ]
                         },
                         {
@@ -20966,7 +19517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バクバクバクバクバクバクバクバク・・・・"
+                                "Thump, thump, thump, thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -20983,28 +19534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫だよ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "案外その上着で隠れてて、そんなに見えてないからさ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Playboy] Don't worry♪ Surprisingly, you're pretty well hidden with\nthat coat, so it's not that visible♥"
                             ]
                         },
                         {
@@ -21021,28 +19551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ・・・はぁっ・・・はぁっ・・・はぁっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa... haa...!!"
                             ]
                         },
                         {
@@ -21059,28 +19568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへへ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Playboy] Hehehehe♥"
                             ]
                         },
                         {
@@ -21097,28 +19585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと・・・興奮しちゃうでしょ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Playboy] Hey... Doesn't it get you a little excited? ♥"
                             ]
                         },
                         {
@@ -21135,28 +19602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっ、はっ、はっ、はっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa, haa, haa, haa..."
                             ]
                         },
                         {
@@ -21173,7 +19619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドキドキドキドキドキドキ・・・・"
+                                "Thump, thump, thump, thump, thump, thump..."
                             ]
                         },
                         {
@@ -21190,28 +19636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【チャラ男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ・・・・・・しようか？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Playboy] Well... shall we do it? ♥"
                             ]
                         },
                         {
@@ -21228,14 +19653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あああ・・・ああああああっ・・・・"
+                                "[Anastasia] Ah... aaaaah... aaaaaah... aaaaaaaaah..."
                             ]
                         },
                         {
@@ -21458,14 +19876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また屋外でヤラせてよ♥"
+                                "Hehehe♪ Let's do it outside again, okay? ♥"
                             ]
                         },
                         {
@@ -21602,7 +20013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなかここまでの歓楽街はないからな。"
+                                "There's no entertainment district quite like this one."
                             ]
                         },
                         {
@@ -21619,14 +20030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "広まり過ぎないよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな上ではあんまり話さないのさ。"
+                                "We don't talk about it too much in public, so it doesn't spread too\nwidely."
                             ]
                         },
                         {
@@ -21712,7 +20116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこのは見世物小屋だってよ。へへへ"
+                                "That over there is a sideshow booth. Hehehe."
                             ]
                         },
                         {
@@ -21738,7 +20142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、今は誰もいないみたいだけどな。へへへ"
+                                "Well, it looks like there's no one here right now. Hehehe."
                             ]
                         },
                         {
@@ -21840,14 +20244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかこの街にこんな場所があったとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ・・・これも神のお導きか。"
+                                "I never expected there to be a place like this in this town. Ah...this\nmust also be the guidance of God."
                             ]
                         },
                         {
@@ -21924,7 +20321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくらなんだい？"
+                                "How much is it?"
                             ]
                         },
                         {
@@ -21941,7 +20338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃんになら、３万だしてもいいぜ。へへへ"
+                                "I'll give you 30,000 yen, my dear. Hehehe."
                             ]
                         },
                         {
@@ -22018,7 +20415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくらなんだい？"
+                                "How much is it?"
                             ]
                         },
                         {
@@ -22035,7 +20432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬢ちゃんになら、３万だしてもいいぜ。へへへ"
+                                "I'll pay you 30,000 if you become my girl. Hehehe."
                             ]
                         },
                         {
@@ -22168,28 +20565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -22206,14 +20582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・あ・・・あの・・・・・・。"
+                                "[Anastasia] Umm... um..."
                             ]
                         },
                         {
@@ -22356,14 +20725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさか３万で相手してくれるの？"
+                                "Oh? Are you saying you'll be my partner for 30,000?"
                             ]
                         },
                         {
@@ -22474,21 +20836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "く、口で・・・・・・お相手するだけ・・・では・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "駄目でしょうか？"
+                                "[Anastasia] C-Could we just... be partners... without... doing anything\nelse? Would that be okay?"
                             ]
                         },
                         {
@@ -22631,7 +20979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん～、口だけかぁ・・・・・・"
+                                "Hmm, just all talk, huh..."
                             ]
                         },
                         {
@@ -22648,14 +20996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、君なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その半額でだったら良いぜ♥"
+                                "Well, if it's you, I'd be fine with half that amount♥"
                             ]
                         },
                         {
@@ -22766,21 +21107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "え、えぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "は・・・半額でも・・・構いません、ので・・・"
+                                "[Anastasia] E-eh... H-half the amount... would be fine... so..."
                             ]
                         },
                         {
@@ -22923,21 +21250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お？！マジかっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おっけ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃ、１万５千Ｇで頼むよ"
+                                "Oh?! Seriously? Alright, then. I'll ask for 15,000G."
                             ]
                         },
                         {
@@ -23087,21 +21400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お、お金を頂いても・・・か・・・身体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "許すようなことは・・・ありませんっ。"
+                                "[Anastasia] I-I wouldn't... a-accept money... or... do anything like\nthat..."
                             ]
                         },
                         {
@@ -23244,7 +21543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへへ、残念。"
+                                "Hehehe, too bad."
                             ]
                         },
                         {
@@ -23331,28 +21630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hehehe"
                             ]
                         },
                         {
@@ -23369,14 +21647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君の舌使い、最高だったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
+                                "Your tongue skills were amazing. Hehehe."
                             ]
                         },
                         {
@@ -23462,7 +21733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ"
+                                "Hehehe"
                             ]
                         },
                         {
@@ -23479,7 +21750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、口でお願いできるかい？"
+                                "Can I ask you with my mouth again?"
                             ]
                         },
                         {
@@ -23612,14 +21883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "え、えぇ・・・・・・"
+                                "[Anastasia] Uh, um..."
                             ]
                         },
                         {
@@ -23636,14 +21900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ・・・分かりました・・・。"
+                                "[Anastasia] I... I understand..."
                             ]
                         },
                         {
@@ -23912,14 +22169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "い、今は・・・ちょっと・・・。"
+                                "[Anastasia] R-Right now... um... just a little..."
                             ]
                         },
                         {
@@ -24062,7 +22312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへへ、残念。"
+                                "Hehehe, too bad."
                             ]
                         },
                         {
@@ -24149,7 +22399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ♥"
+                                "Hehehe ♥"
                             ]
                         },
                         {
@@ -24217,14 +22467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃん、上の店で働いてるのかい？"
+                                "Hehehe, miss, are you working at the shop upstairs?"
                             ]
                         },
                         {
@@ -24370,14 +22613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンブルに向いていないのは分かっているが・・・"
+                                "Ah~ I know I'm not cut out for gambling..."
                             ]
                         },
                         {
@@ -24403,14 +22639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入ろうか、どうしようか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ～"
+                                "Should I go in or not... Ah~"
                             ]
                         },
                         {
@@ -24487,14 +22716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはカスターニャの秘密の歓楽街だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女、子供の来るような場所じゃないぜ。"
+                                "This is Castania's secret pleasure district. It's not a place for\nwomen and children to come."
                             ]
                         },
                         {
@@ -24511,7 +22733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、働いてるなら別だけどな。へへへへへ"
+                                "Well, if you're working, it's a different story. Hehehehehehe."
                             ]
                         },
                         {
@@ -24588,14 +22810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっくっく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいる住民は、好きでみんなここにいるのだ。"
+                                "Hehehe, the residents here are all here because they want to be."
                             ]
                         },
                         {
@@ -24672,7 +22887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの人、ああしてずっとウロウロしてるのよ。"
+                                "Person over there, why are you wandering around like that?"
                             ]
                         },
                         {
@@ -24689,7 +22904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入るなら、さっさとはいればいいのに、ねぇ？"
+                                "If you're going in, you should just hurry up and go in, right?"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アカデミー講堂",
+    "displayName": "Academy Lecture Hall",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -1923,14 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　  調教エンドがONになり正規ルートに進めなくなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　  よろしいですか？"
+                                "　  Will you activate the Training End and be unable to proceed on the\nregular route? Is that okay?"
                             ]
                         },
                         {
@@ -1981,7 +1974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　『思い出の香炉』の効果が減少した。"
+                                "　　　The effect of the Memories Incense Burner has decreased."
                             ]
                         },
                         {

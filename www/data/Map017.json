@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アカデミー学生寮",
+    "displayName": "Academy Student Dormitory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5083,21 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この学校を卒業したら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "差はあるけれど、将来が約束されたようなものなのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げ出すわけないよ。"
+                                "After graduating from this school, even though there may be\ndifferences, it's not like I would run away from a future that is\npromised."
                             ]
                         },
                         {
@@ -5165,28 +5151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連絡のつかなかった生徒たちもみんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事で良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm glad that all the students who couldn't be contacted are safe."
                             ]
                         },
                         {
@@ -5203,14 +5168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは、みんな良きライバルだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことで、いなくなってもらっちゃ困るよ。"
+                                "Here, everyone is a good rival. I would be troubled if anyone were to\ndisappear over something like this."
                             ]
                         },
                         {
@@ -5287,7 +5245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つ・・・疲れた・・・。"
+                                "I... am tired..."
                             ]
                         },
                         {
@@ -5364,14 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家から通っている子もいるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寮のほうが効率がいいよね。"
+                                "Some students commute from home, but living in the dormitory is more\nefficient, right?"
                             ]
                         },
                         {
@@ -5457,14 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は、女子寮だよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴクッ"
+                                "This is the girls' dormitory... Gulp."
                             ]
                         },
                         {
@@ -5549,14 +5493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・べ、別に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕はただここにいるだけだよっ。"
+                                "...I-I'm just here, you know."
                             ]
                         },
                         {
@@ -5650,14 +5587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術師にもランクがあるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その魔術師たちの最エリートが、宮廷魔術師なんだ。"
+                                "There are ranks even among sorcerers. The most elite among those\nsorcerers are the court sorcerers."
                             ]
                         },
                         {
@@ -5942,7 +5872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はまだ見習いだから、ランクはないよ。"
+                                "I'm still an apprentice, so I don't have a rank."
                             ]
                         },
                         {
@@ -6227,14 +6157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族の子の中には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊ぶために寮に入ってる奴もけっこういるんだ。"
+                                "Among the children of nobles, there are quite a few who enter the\ndormitory just to play."
                             ]
                         },
                         {
@@ -6251,14 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は遊ぶ場所も多いんだぜ。ゲへへ"
+                                "This town actually has many places to play, you know. Hehehe."
                             ]
                         },
                         {
@@ -6335,28 +6251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm..."
                             ]
                         },
                         {
@@ -6373,14 +6268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裏の森・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなにどこまで行っても森だったかなぁ・・・"
+                                "The forest behind... No matter how far I went, it was still just a\nforest..."
                             ]
                         },
                         {
@@ -6472,28 +6360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm..."
                             ]
                         },
                         {
@@ -6510,7 +6377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この僕が迷子になるなんて・・・"
+                                "I can't believe I got lost like this..."
                             ]
                         },
                         {
@@ -6578,28 +6445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Hmm..."
                             ]
                         },
                         {
@@ -6616,7 +6462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれを・・・どこかに落としてしまうなんて・・・。"
+                                "To... drop that somewhere..."
                             ]
                         },
                         {
@@ -6879,28 +6725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺、行方不明だったらしいんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I heard that I was missing..."
                             ]
                         },
                         {
@@ -6917,7 +6742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まったく記憶にない・・・。"
+                                "I have no recollection at all..."
                             ]
                         },
                         {
@@ -6995,14 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒２】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっ、なん・・・でしょうか・・・？"
+                                "[Noble Student 2] W-What... could it be...?"
                             ]
                         },
                         {
@@ -7019,21 +6837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の生徒２】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼ・・・僕は、平民には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃ・・・ちゃんと平等に、接します・・・よ。"
+                                "[Noble Student 2] I-I will... tr-treat commoners... equally..."
                             ]
                         },
                         {

@@ -1436,14 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔女に挑むなら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最低でも３０レベルはあったほうが良いね。"
+                                "If you're going to challenge a witch... It's best to be at least level\n30."
                             ]
                         },
                         {
@@ -1460,7 +1453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん、３５でも・・・また何か覚えそうだけどねぇ。"
+                                "Hmm, even at level 35... I feel like I might learn something new\nagain."
                             ]
                         },
                         {
@@ -1536,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この下には、牢屋があるんだ。"
+                                "There is a prison cell below here."
                             ]
                         },
                         {
@@ -1553,14 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして、もう行ったことある？ｗｗｗｗ"
+                                "Huh? By any chance, have you been here before? LOL"
                             ]
                         },
                         {

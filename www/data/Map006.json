@@ -1814,28 +1814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Oops."
                             ]
                         },
                         {
@@ -1852,14 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、関係者以外立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰んなっ。"
+                                "This area is off-limits to anyone other than authorized personnel.\nLeave."
                             ]
                         },
                         {
@@ -2237,21 +2209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【倉庫番】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから先は、大人の世界だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
+                                "[Warehouse Guard] Beyond this point is the adult world. Hehehe."
                             ]
                         },
                         {
@@ -2328,21 +2286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【倉庫番】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃん、頼みがあるんだがよぉ。"
+                                "[0][1]Warehouse Keeper: Hehehe, Miss, I have a favor to ask you."
                             ]
                         },
                         {
@@ -2446,14 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・なんでしょうか・・・。"
+                                "[Anastasia] W-What is it...?"
                             ]
                         },
                         {
@@ -2596,28 +2533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【倉庫番】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "４千Ｇで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっそりここで抜いてくれねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口で構わねぇからよぉ。"
+                                "[Warehouse Keeper] Can you secretly take out 4,000G here for me? I\ndon't care how you do it."
                             ]
                         },
                         {
@@ -2743,14 +2659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "い・・・いいですよ・・・。"
+                                "[Anastasia] S-Sure, I'll do it..."
                             ]
                         },
                         {
@@ -2902,28 +2811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【倉庫番】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へへへ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "忙しくてなかなか下に行けねぇからよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "助かるぜ♥"
+                                "[Warehouse Keeper] Hehehe♪ I'm so busy that I can't go down there\neasily. I appreciate it♥"
                             ]
                         },
                         {
@@ -3057,14 +2945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よ・・・４千・・・では・・・。"
+                                "[Anastasia] 4,000... I will..."
                             ]
                         },
                         {
@@ -3207,21 +3088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "【倉庫番】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "４千じゃ、流石にだめかぁ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ま、仕方ねぇ。"
+                                "[Warehouse Keeper] 4,000 is a bit too much, huh~ Well, can't be helped."
                             ]
                         },
                         {
@@ -3308,28 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【倉庫番】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへへ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃん可愛いからよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機会があれば下にも行くぜ。"
+                                "[Warehouse Guard] Hehehe ♥ Because the young lady is cute, you know. If\nthere's a chance, I'll go down below too."
                             ]
                         },
                         {
@@ -3440,14 +3286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そうですか・・・。"
+                                "[Anastasia] I-I see..."
                             ]
                         },
                         {

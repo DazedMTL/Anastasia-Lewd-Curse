@@ -1555,28 +1555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この店、かなり高級なお酒も取り扱っていてねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君ぐらいの子でも、飲める美味しいのもたくさんあるだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Guest] This shop also handles quite a selection of high-quality\nalcohol. Even someone like you can find plenty of delicious drinks to\nenjoy."
                             ]
                         },
                         {
@@ -1687,28 +1666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（お酒で酔わせよう・・・という考えでしょうが・・・）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (I suppose the idea is to get me drunk with alcohol...)"
                             ]
                         },
                         {
@@ -1725,21 +1683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（生憎・・・それほどお酒は、弱くないので・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ・・・問題はないでしょう・・・。）"
+                                "[Anastasia] (Unfortunately... I'm not weak when it comes to alcohol...\nWell... It shouldn't be a problem...)"
                             ]
                         },
                         {
@@ -1768,7 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴク・・・"
+                                "Gulp..."
                             ]
                         },
                         {
@@ -1861,28 +1805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah..."
                             ]
                         },
                         {
@@ -1899,21 +1822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは・・・確かに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しい・・・ですね。"
+                                "[Anastasia] This... is indeed... delicious... isn't it?"
                             ]
                         },
                         {
@@ -2063,28 +1972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだろぉ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと飲もうよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Guest] That's right~♪ Let's drink more, shall we?"
                             ]
                         },
                         {
@@ -2101,14 +1989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乾杯♪"
+                                "[Noble Guest] Cheers♪"
                             ]
                         },
                         {
@@ -2137,14 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（意外に、お酒は弱くはないみたいだが・・・）"
+                                "[Noble Guest] (Surprisingly, it seems she's not weak when it comes to\nalcohol...)"
                             ]
                         },
                         {
@@ -2161,21 +2035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ここの店の酒は・・・それだけじゃないのだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くくく・・・。）"
+                                "[Noble Guest](The alcohol in this shop... is not the only thing.\nHehehe...)"
                             ]
                         },
                         {
@@ -2244,28 +2104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほほぉ～、君なかなかお酒強いねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Guest] Ohh, you're quite strong when it comes to alcohol, huh?"
                             ]
                         },
                         {
@@ -2291,14 +2130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほらほら、もう一杯。"
+                                "[Noble Guest] Here, here, have another drink."
                             ]
                         },
                         {
@@ -2426,28 +2258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・っん・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...Hm..."
                             ]
                         },
                         {
@@ -2464,28 +2275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（よ、弱くはない・・・はず・・・なのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・なにやら身体が・・・火照って・・・・・）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (I-I'm not weak... I shouldn't be... but... my body... it's\ngetting hot...)"
                             ]
                         },
                         {
@@ -2537,28 +2327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "っ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Huh?!"
                             ]
                         },
                         {
@@ -2575,28 +2344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男がにじり寄ってきて、太ももを触ってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The man approaches and starts touching my thigh."
                             ]
                         },
                         {
@@ -2613,28 +2361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの・・・触らないで・・・貰えますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Um... Could you please not touch me?"
                             ]
                         },
                         {
@@ -2651,28 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすさす・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Rub, rub..."
                             ]
                         },
                         {
@@ -2689,28 +2395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ悪いねぇ。そんな恰好をしているからつい、ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Oh, sorry about that. It's just because of the way you're\ndressed, you know."
                             ]
                         },
                         {
@@ -2727,28 +2412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫。ちょっとだけだから♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Don't worry. It's just a little bit ♥"
                             ]
                         },
                         {
@@ -2765,28 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謝りながらも、手は太ももからその付け根に向けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さすり続ける・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "While apologizing, his hand continues to rub from my thigh towards the\nbase..."
                             ]
                         },
                         {
@@ -2803,28 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすさす・・・さすさす・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Rub, rub... rub, rub..."
                             ]
                         },
                         {
@@ -2841,28 +2463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あの・・・そろそろ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Um, um... It's about time..."
                             ]
                         },
                         {
@@ -2879,28 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっはっは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "減るものじゃないんだし、いいじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Hahaha, it's not like it's decreasing, so it's fine, isn't\nit?"
                             ]
                         },
                         {
@@ -2917,21 +2497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすさすさす・・・くちゅっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Rub, rub, rub... *smack*"
                             ]
                         },
                         {
@@ -3028,28 +2594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah!!"
                             ]
                         },
                         {
@@ -3066,28 +2611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ・・・駄目っ・・・こ、これ以上は・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] No... Stop... I-I can't take it anymore..."
                             ]
                         },
                         {
@@ -3104,28 +2628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おやぁ、でも君のここは、こんなに濡れちゃって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か期待しちゃってるんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Oh my, but you're so wet here. Are you expecting something?"
                             ]
                         },
                         {
@@ -3142,28 +2645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、嫌っ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、これは・・・違っ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] N-No... Th-This is... wrong..."
                             ]
                         },
                         {
@@ -3180,28 +2662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら・・・君も、私のを触ってごらん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Look... why don't you touch mine too..."
                             ]
                         },
                         {
@@ -3218,28 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男は、私の手をつかんで、自分の股間へ持っていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The man grabs my hand and takes it to his crotch."
                             ]
                         },
                         {
@@ -3256,28 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっ・・・あっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Hey... Ah..."
                             ]
                         },
                         {
@@ -3294,28 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の手を、男のズボンの盛り上がった部分に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スリスリと上下するように触れさせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "He makes me touch the bulging part of his pants, rubbing it up and\ndown with my hand."
                             ]
                         },
                         {
@@ -3403,28 +2801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あっ・・・・・・す、すごい固くなってる・・・。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Ah... I-It's gotten so hard...)"
                             ]
                         },
                         {
@@ -3441,28 +2818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとだけ、ベットのほうに行かない・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "横になるだけでも良いから♪"
+                                "[Noble Man] How about it... Would you like to come to the bed for a\nlittle while...? Even just lying down would be fine♪"
                             ]
                         },
                         {
@@ -3479,28 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・よ、横になるだけで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は・・・だ、駄目ですよ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...Just lying down... I can't... anymore..."
                             ]
                         },
                         {
@@ -3517,28 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、もちろんだとも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Oh, of course."
                             ]
                         },
                         {
@@ -3555,21 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ........"
                             ]
                         },
                         {
@@ -3803,7 +3103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギシ・・・ギシ・・・"
+                                "Gis... Gis..."
                             ]
                         },
                         {
@@ -3938,28 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んっ・・・あっ・・・んっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Mmm... Ah... Mmm..."
                             ]
                         },
                         {
@@ -3993,28 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "In the end..."
                             ]
                         },
                         {
@@ -4031,28 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この男と・・・私はこのような・・・ことに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "With this man... I... ended up... doing something like this..."
                             ]
                         },
                         {
@@ -4086,28 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・んっ・・・よ・・・横に・・・んっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・なるだけでは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかったの、ですか・・・？"
+                                "[Anastasia] Ah... ngh... lying down... ngh... haa... haa... Wasn't it\njust... enough...?"
                             ]
                         },
                         {
@@ -4124,28 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体の疼きを・・・抑えることができず・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私自身も、この男を受け入れてしまっているのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I can't suppress the throbbing of my body... Even though I have\naccepted this man myself..."
                             ]
                         },
                         {
@@ -4162,28 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめてもの抵抗で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男に対して、抗議をする・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "As a small resistance... I will protest against this man..."
                             ]
                         },
                         {
@@ -4217,28 +3391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと言って・・・本当は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待してたんじゃないのかぃ？"
+                                "[Noble Man] Hehehe ♪ Saying something like that... Deep down... Weren't\nyou actually... expecting it?"
                             ]
                         },
                         {
@@ -4255,28 +3408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そんなことありません・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Th-there's... no such thing..."
                             ]
                         },
                         {
@@ -4293,28 +3425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "内心では・・・生ではなく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用意されていた避妊具をつけての行為ならば・・・と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "In my heart... If it was with protection... instead of raw..."
                             ]
                         },
                         {
@@ -4348,28 +3459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言い訳にもならないことを考えてしまっていたが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I had been thinking of something that wouldn't even be an excuse..."
                             ]
                         },
                         {
@@ -4386,28 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当かなぁ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中はもう随分濡れ濡れのようだけどぉ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] I wonder if that's true~♪ It seems like you're already\nquite wet inside, huh? ♥"
                             ]
                         },
                         {
@@ -4512,28 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "っ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ?!"
                             ]
                         },
                         {
@@ -4550,28 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あ・・・あああ・・・い、一体・・・なぜ、こんなっ？！)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Ah... Ahhh... Wh-why... why on earth... like this?!)"
                             ]
                         },
                         {
@@ -4605,28 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとは期待してたんだよねぇ～？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] You were expecting it a little, right~? ♥"
                             ]
                         },
                         {
@@ -4643,28 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(むふふふ・・・まぁ、ここのお酒には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとした媚薬効果も含まれていたからねぇ♪)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] (Hehehe... Well, you see, the alcohol here contains a\nslight aphrodisiac effect ♪)"
                             ]
                         },
                         {
@@ -4681,28 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まぁそれにしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子は・・・想像以上に身体発情してるみたいだけどｗ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] (Well, anyway, this girl... seems to be more sexually\naroused than I imagined, lol)"
                             ]
                         },
                         {
@@ -4736,28 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぅ・・・んっ・・・ん・・・あっ・・・あああっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nn... Nn... N... Ah... Aaah..."
                             ]
                         },
                         {
@@ -4774,21 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ、ねぇ、どうなんだぃ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Hey, hey, how about it~♪"
                             ]
                         },
                         {
@@ -4893,28 +3822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・そ・・・それは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... Th-that is..."
                             ]
                         },
                         {
@@ -4931,28 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、さぁ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今更セックスしてしまってるんだし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素直になったほうが、気持ちいんだよぉお？♥"
+                                "[Noble Man] Come on, come on~♪ Since you've already ended up having\nsex, it would feel better if you just let go and enjoy it, you know? ♥"
                             ]
                         },
                         {
@@ -4969,28 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・その・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... That..."
                             ]
                         },
                         {
@@ -5007,28 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んん～～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Hmmm~?"
                             ]
                         },
                         {
@@ -5062,28 +3907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す・・・少しだけ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "き・・・期待・・・してました・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I... I was... expecting it... a little..."
                             ]
                         },
                         {
@@ -5100,28 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むふふふふ、素直でよろしいぃ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、思いっきりセックス・・・楽しもうか♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Hehehe, you're so obedient~♪ Well then, let's enjoy\nourselves to the fullest... with some passionate sex ♥"
                             ]
                         },
                         {
@@ -5226,28 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぅ・・・んっ・・・ん・・・あっ・・・あああっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そんな・・・い、いきなり・・・はげしっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nn... Nn... N... Ah... Aaah... Th... That... all of a\nsudden... so intense..."
                             ]
                         },
                         {
@@ -5264,28 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、気持ちいいだろうぅ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] But, it feels good, doesn't it? ♥"
                             ]
                         },
                         {
@@ -5302,28 +4063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぅ・・・んっ・・・ん・・・あっ・・・あああっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・あっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nn... Nn... N... Ah... Aaah... Haa... Haa... Ah♥"
                             ]
                         },
                         {
@@ -5340,21 +4080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素直に受け入れてしまったことと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妊娠をする心配のないことも相まって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "徐々に・・・快感を受け入れてしまっていく・・・。"
+                                "I gradually... accepted the pleasure... partly because I had already\naccepted it obediently... and partly because I didn't have to worry\nabout getting pregnant..."
                             ]
                         },
                         {
@@ -5459,28 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んぅ・・・んっ・・・ん・・・んんんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んはぁ・・・はぁ・・・んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nn... Nn... N... Nnnn!! Nhaa... Haa... Nnnn♥"
                             ]
                         },
                         {
@@ -5497,28 +4202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いねぇ～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い声出てきたよぉ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Good, isn't it~♥ You're making such nice sounds~♪"
                             ]
                         },
                         {
@@ -5535,28 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・あっ・・・ん・・・あああっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・ああああああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... Ah... Nn... Aaahhh!! Haa... Haa... Ahhhhh♥"
                             ]
                         },
                         {
@@ -5573,28 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気持ちいい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "It feels good..."
                             ]
                         },
                         {
@@ -5611,28 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呪いで性欲が高まっているところに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お酒も入ってるせいだろうか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Is it because of the curse that my sexual desire is heightened? Or is\nit because of the alcohol...?"
                             ]
                         },
                         {
@@ -5649,28 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性行為が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の性器が・・・気持ちいい・・・っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Sexual intercourse... My genitals... feel good..."
                             ]
                         },
                         {
@@ -5687,28 +4287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自然とどんどん声も出てしまう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "My voice naturally keeps getting louder and louder..."
                             ]
                         },
                         {
@@ -5742,28 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んふぅ・・・んっ・・・あああっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あああ・・・はああああ～～～っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nn... Fuu... Nn... Aaaahh♥ Aaaah... Haaaahhhh♥"
                             ]
                         },
                         {
@@ -5780,28 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乗ってきたねぇ～～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ・・・私も・・・ふぅ・・・ふぅ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] You've come along~♪ Me too... Fuu... Fuu...♥"
                             ]
                         },
                         {
@@ -5818,28 +4355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ・・・はぁ・・はぁ・・・逝きそうだよぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] It's about time... Haa... Haa... I'm about to cum~♥"
                             ]
                         },
                         {
@@ -5856,28 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ～～～、はぁ～～～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・あああっ・・・は・・・はいっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa~~~, haa~~~♥ Ah... Aaaahh... H... Here...♥"
                             ]
                         },
                         {
@@ -5911,28 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後に・・・ふっ・・・ふっ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いがあるのだが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Finally... Haa... Haa...♪ I have a favor to ask..."
                             ]
                         },
                         {
@@ -5949,28 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んっ・・・んんっ・・・・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Mmm... Hmmm...?"
                             ]
                         },
                         {
@@ -5987,28 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ、はぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴムを外して・・・身体に、かけてもいいかな？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Haa, haa♪ Can I take off the condom... and come on your\nbody? ♥"
                             ]
                         },
                         {
@@ -6113,28 +4545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ～～～♥はぁ～～～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa~~~, haa~~~♥ Ah... Aaaahh... H... Here...♥"
                             ]
                         },
                         {
@@ -6151,28 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・中に・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ・・・出さないのであれば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I...inside...hah...hah...if...if you won't release it..."
                             ]
                         },
                         {
@@ -6206,28 +4596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそんなことはしないからねぇ～♪"
+                                "[Noble Man] It's okay♥ Haa... Haa... I won't do such a thing, you\nknow~♪"
                             ]
                         },
                         {
@@ -6244,28 +4613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んはぁ・・・はぁ・・・んんっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど・・・どうぞ・・・あ・・・んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Nnhaa... Haa... Nnn... Please... Ah... Nnn♥"
                             ]
                         },
                         {
@@ -6282,28 +4630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よしっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ・・・じゃ・・・はぁ・・・はぁ・・・出すよぉお♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Alright♥ Then... then... haa... haa... I'm going to cum~♥"
                             ]
                         },
                         {
@@ -6320,21 +4647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言うと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は、私の性器から抜き取り・・・ゴムを外す・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "And with that... the man removed himself from my genitals... and took\noff the condom..."
                             ]
                         },
                         {
@@ -6434,28 +4747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、出すよぉおおっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、出るところ・・・はぁ、はぁ・・・よ～く見ててっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Alright, I'm going to cum~♥ So, watch closely... haa,\nhaa...♪"
                             ]
                         },
                         {
@@ -6472,28 +4764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっ、はっ、はっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... Haa...♥ Haa, haa, haa♥"
                             ]
                         },
                         {
@@ -6510,28 +4781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は・・・男の性器の先を・・・凝視するっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I... will... gaze at the tip of the man's genitals..."
                             ]
                         },
                         {
@@ -6548,14 +4798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・逝くっ・・・イクッ・・・ああああっ！！"
+                                "[Noble Man] I... I'm... cumming... I'm cumming... Aaaahhh!!"
                             ]
                         },
                         {
@@ -6695,28 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドピュッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Dopyu"
                             ]
                         },
                         {
@@ -6733,28 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah..."
                             ]
                         },
                         {
@@ -6771,28 +4972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の性器から・・・精液が・・・勢いよく発射される・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Semen... is forcefully ejaculated... from the man's genitals..."
                             ]
                         },
                         {
@@ -6847,28 +5027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドピュッ、ドピュッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Dopyu, dopyu"
                             ]
                         },
                         {
@@ -6885,28 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しゃ、射精・・・射精している・・・♥）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (Haa... Haa...♥ The... the ejaculation... he's\nejaculating...♥)"
                             ]
                         },
                         {
@@ -6923,28 +5061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブル、ブル、ブル・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "Bul, bul, bul..."
                             ]
                         },
                         {
@@ -6961,14 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精する瞬間を見て・・・私も・・・小さく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶頂を迎える・・・。"
+                                "I will also... experience a small... climax... as I watch the moment\nof ejaculation..."
                             ]
                         },
                         {
@@ -6985,7 +5095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビクッ、ビクッ、ビクッ"
+                                "Biku, biku, biku."
                             ]
                         },
                         {
@@ -7073,28 +5183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ～・・・たくさん出てしまったねぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] Haa... haa... haa...♪ Ahh... I... I came a lot, didn't I?♥"
                             ]
                         },
                         {
@@ -7123,28 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa...♥"
                             ]
                         },
                         {
@@ -7168,28 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君・・・凄い良かったよぉ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] You... were amazing♪"
                             ]
                         },
                         {
@@ -7218,28 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... haa..."
                             ]
                         },
                         {
@@ -7263,28 +5289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶頂が・・・収まっていくにつれ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "As the climax... subsides..."
                             ]
                         },
                         {
@@ -7301,28 +5306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このような場所で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男と一緒に・・・乱れてしまった自分に対し・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "In a place like this... being in disarray with a man... I can't help\nbut feel..."
                             ]
                         },
                         {
@@ -7339,28 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どんどん後ろ暗い・・・感情が浮かんでくる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The atmosphere is getting darker and darker... Emotions are welling\nup..."
                             ]
                         },
                         {
@@ -7377,28 +5340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -7415,28 +5357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そうですか・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I-I see..."
                             ]
                         },
                         {
@@ -7453,28 +5374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次来るときも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また君を指名することにしようかねぇ～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Man] When I come next time... I think I'll request you again~♥"
                             ]
                         },
                         {
@@ -7491,21 +5391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {

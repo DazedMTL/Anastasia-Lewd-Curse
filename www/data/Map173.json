@@ -1436,7 +1436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはモンスタールーム。"
+                                "This is the Monster Room."
                             ]
                         },
                         {
@@ -1453,7 +1453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵を倒すごとにレベルを上げることができる・・・。"
+                                "You can level up by defeating enemies..."
                             ]
                         },
                         {
@@ -1529,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋は進むごとに、強くなる。"
+                                "The room becomes stronger as we go further."
                             ]
                         },
                         {
@@ -1546,14 +1546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヤバかったら戻りな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場所に戻ってくるぜ。"
+                                "If it gets dangerous, let's go back. We'll come back to this place."
                             ]
                         },
                         {
@@ -1988,7 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "甘いものは・・・"
+                                "Sweet things..."
                             ]
                         },
                         {
@@ -2005,7 +1998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人間じゃなくても、好きなんだぜ？"
+                                "Even if you're not human, I still like you, you know?"
                             ]
                         },
                         {

@@ -1730,7 +1730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ンチュ、ンッ、ンクッ、ンレロ、レロレロ、チュパァ！"
+                                "Nchu, n, nku, nlero, lerolero, chupa!"
                             ]
                         },
                         {
@@ -1747,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうですかァ？お客様ぁ。"
+                                "How is it? Customer."
                             ]
                         },
                         {
@@ -1824,14 +1824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっ・・・おっ・・・いいいねぇ・・・おお！！"
+                                "[Customer] Oh... oh... that's nice... ohh!!"
                             ]
                         },
                         {
@@ -1908,14 +1901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えへへへ、その胸、いいねぇ♥"
+                                "[Customer] Ehehehe, your chest looks nice♥"
                             ]
                         },
                         {
@@ -1992,7 +1978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ンジュ、ンプ、、ジュプ、ジュポッ、ジュポッ！"
+                                "Nju, npu, jup, jupo, jupo!"
                             ]
                         },
                         {
@@ -2009,21 +1995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ～ん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなとこ・・・ンプッ、ジュプォ・・・触っちゃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ンプ、ンプ・・・だ、駄目ぇ～～～♥"
+                                "Ah~ there... Npuu, juppo... don't touch... Npu, npu... no, stop~♥"
                             ]
                         },
                         {
@@ -2100,14 +2072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【店長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張ってね、アンナちゃん♥"
+                                "[Manager] Do your best, Anna-chan ♥"
                             ]
                         },
                         {
@@ -2340,28 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、アンナです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よ・・・よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah, it's Anna. Nice to...nice to meet you."
                             ]
                         },
                         {
@@ -2378,28 +2322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【客１】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおおっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Customer 1] Ohhh!!"
                             ]
                         },
                         {
@@ -2416,28 +2339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【客１】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君可愛いいねぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君みたいな子がいるなんて、来た甲斐があったヨォ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Customer 1] You're so cute ♥ It was worth coming here just to see a\ngirl like you."
                             ]
                         },
                         {
@@ -2454,28 +2356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah, thank you very much."
                             ]
                         },
                         {
@@ -2492,28 +2373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【客１】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、早速お願いしようかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Customer 1] Well then, let's get started right away."
                             ]
                         },
                         {
@@ -2530,28 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・っ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・・はぃ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...Yes..."
                             ]
                         },
                         {
@@ -2722,28 +2561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここがどのような店であるかは知っている・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I know what kind of shop this is..."
                             ]
                         },
                         {
@@ -2760,28 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性の・・・性器を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "A man's...genitals..."
                             ]
                         },
                         {
@@ -2798,14 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口に咥えるのだ・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I will put it in my mouth..."
                             ]
                         },
                         {

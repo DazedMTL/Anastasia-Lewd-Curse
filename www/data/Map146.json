@@ -2199,21 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はまた、ずいぶんと来るの早いねぇ。"
+                                "[Scout] Huh? You're here quite early again today."
                             ]
                         },
                         {
@@ -2326,21 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・いえ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は・・・たまたま、来るのが早かっただけです・・・。"
+                                "[Anastasia] N-No... Today... I just happened to come early..."
                             ]
                         },
                         {
@@ -2483,28 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっか・・・でも丁度良かった♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Scout] I see... But it's perfect timing♪"
                             ]
                         },
                         {
@@ -2521,21 +2472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の評判が良くて、予約がたくさん入っちゃってたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちも助かるよ♪"
+                                "[Scout] Your reputation is so good that we've received a lot of\nreservations, so it's a big help for us too♪"
                             ]
                         },
                         {
@@ -2639,14 +2576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そうですか・・・。"
+                                "[Anastasia] I-I see..."
                             ]
                         },
                         {
@@ -2798,21 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、今日もさっそく頼むよ♪。"
+                                "[Scout] Alright, then I'll count on you right away today♪."
                             ]
                         },
                         {
@@ -2916,7 +2832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジ・・・モジ・・・"
+                                "Moji... Moji..."
                             ]
                         },
                         {
@@ -2933,28 +2849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -2971,28 +2866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・えぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] E...Eh..."
                             ]
                         },
                         {
@@ -3009,14 +2883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、分かりました・・・。"
+                                "[Anastasia] U-Understood..."
                             ]
                         },
                         {
@@ -3033,7 +2900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジモジ・・・"
+                                "Moji moji..."
                             ]
                         },
                         {
@@ -3176,14 +3043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？"
+                                "[Scout] Hm?"
                             ]
                         },
                         {
@@ -3200,14 +3060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か、具合悪いの？"
+                                "[Scout] Is something wrong?"
                             ]
                         },
                         {
@@ -3320,14 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い・・・いえ・・・っ。"
+                                "[Anastasia] N-No..."
                             ]
                         },
                         {
@@ -3344,14 +3190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・。"
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -3368,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な・・・何でも・・・あ、ありませんので・・・。"
+                                "[Anastasia] W-What... it's... n-nothing..."
                             ]
                         },
                         {
@@ -3392,14 +3224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お・・・お気遣い、なさらずに・・・。"
+                                "[Anastasia] P-Please... don't worry about me..."
                             ]
                         },
                         {
@@ -3416,7 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モジモジ・・・"
+                                "Moji moji..."
                             ]
                         },
                         {
@@ -3568,21 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあまぁ、頑張ってね♪"
+                                "[Scout] Is that so? Well then, do your best♪"
                             ]
                         },
                         {
@@ -3686,14 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・んっ・・・。"
+                                "[Anastasia] ...Hmm..."
                             ]
                         },
                         {
@@ -3710,14 +3514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "[Anastasia] ...."
                             ]
                         },
                         {

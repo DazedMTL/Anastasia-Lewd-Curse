@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "地下街",
+    "displayName": "Underground Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 57,
@@ -14834,7 +14834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君・・・可愛いねぇ。へへ"
+                                "You... are cute, hehe."
                             ]
                         },
                         {
@@ -14910,7 +14910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族さまも、よくそこで宴会をしてるぜ。"
+                                "Noble-sama, you often hold banquets there."
                             ]
                         },
                         {
@@ -14995,14 +14995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前どこかで見たことあるなぁ。"
+                                "Huh? I feel like I've seen you somewhere before."
                             ]
                         },
                         {
@@ -15019,14 +15012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かあれは・・・貴族の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメだ、思い出せねぇ。"
+                                "I think that was... a noble... No, I can't remember."
                             ]
                         },
                         {
@@ -15223,7 +15209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなかここまでの歓楽街はないからな。"
+                                "There's no entertainment district quite like this one."
                             ]
                         },
                         {
@@ -15240,14 +15226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "広まり過ぎないよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな上ではあんまり話さないのさ。"
+                                "We don't talk about it too much in public, so it doesn't spread too\nwidely."
                             ]
                         },
                         {
@@ -15324,7 +15303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこのは見世物小屋だってよ。へへへ"
+                                "That over there is a sideshow booth. Hehehe."
                             ]
                         },
                         {
@@ -15341,7 +15320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、今は誰もいないみたいだけどな。へへへ"
+                                "Well, it looks like there's no one here right now. Hehehe."
                             ]
                         },
                         {
@@ -15434,14 +15413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかこの街にこんな場所があったとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ・・・これも神のお導きか。"
+                                "I never expected there to be a place like this in this town. Ah...this\nmust also be the guidance of God."
                             ]
                         },
                         {
@@ -15518,7 +15490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくらなんだい？"
+                                "How much is it?"
                             ]
                         },
                         {
@@ -15535,7 +15507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬢ちゃんになら、５万だしてもいいぜ。へへへ"
+                                "I'll give you 50,000 if you become my girl. Hehehe."
                             ]
                         },
                         {
@@ -15672,14 +15644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギャンブルに向いていないのは分かっているが・・・"
+                                "Ah~ I know I'm not cut out for gambling..."
                             ]
                         },
                         {
@@ -15696,14 +15661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入ろうか、どうしようか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ～"
+                                "Should I go in or not... Ah~"
                             ]
                         },
                         {
@@ -15781,14 +15739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっくっく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいる住民は、好きでみんなここにいるのだ。"
+                                "Hehehe, the residents here are all here because they want to be."
                             ]
                         },
                         {
@@ -15865,7 +15816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの人、ああしてずっとウロウロしてるのよ。"
+                                "Person over there, why are you wandering around like that?"
                             ]
                         },
                         {
@@ -15882,7 +15833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入るなら、さっさとはいればいいのに、ねぇ？"
+                                "If you're going in, you should just hurry up and go in, right?"
                             ]
                         },
                         {

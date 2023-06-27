@@ -1868,21 +1868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぁ・・・あの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よ、よろしく・・・お願い致します・・・。"
+                                "[Anastasia] Umm... um... Nice to meet you... please take care of me..."
                             ]
                         },
                         {
@@ -2032,21 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おぉっ！！若くて可愛い子をお願いしていたんだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は、期待以上じゃないか♥"
+                                "[Noble Guest] Oh!! I was hoping for a young and cute girl, but you are\neven better than I expected ♥"
                             ]
                         },
                         {
@@ -2157,14 +2129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぁ・・・ありがとう、ございます・・・。"
+                                "[Anastasia] Th... Thank you very much..."
                             ]
                         },
                         {
@@ -2314,28 +2279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、なんだ緊張しているのかぃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Noble Guest] Huh, why are you so nervous?"
                             ]
                         },
                         {
@@ -2352,28 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫、大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は、辺なことをする気でここに来てるわけじゃないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと気楽にしていいよ♪"
+                                "[Noble Guest] Don't worry, don't worry. I didn't come here with any\nulterior motives, so you can relax a bit more ♪"
                             ]
                         },
                         {
@@ -2390,21 +2313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の客】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず、飲み物でも頼もうかね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お酒は、飲んだことはある？"
+                                "[Noble Guest] For now, shall we order some drinks? Have you ever had\nalcohol before?"
                             ]
                         },
                         {
@@ -2515,21 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、少し・・・なら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嗜んで・・・いますが・・・。"
+                                "[Anastasia] I-I... I have... indulged... a little... before..."
                             ]
                         },
                         {
@@ -2555,21 +2450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【貴族の男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお、そうかそうか♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、飛びっきり良い酒を頼もう。"
+                                "[Noble Guest] Oh, I see, I see ♪ Then, let's order some top-notch\ndrinks."
                             ]
                         },
                         {

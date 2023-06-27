@@ -4249,14 +4249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この宿の紅茶は、なかなかだな。"
+                                "Hmm, the tea at this inn is quite good."
                             ]
                         },
                         {
@@ -4333,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街の料理は、どの店もレベルが高いようだ。"
+                                "The cuisine in this town seems to be of high quality in every\nrestaurant."
                             ]
                         },
                         {
@@ -4410,7 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街って、他に安い宿はないのかな・・・。"
+                                "Is there no other cheap inn in this town...?"
                             ]
                         },
                         {
@@ -4487,14 +4480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か御用でしょうか？"
+                                "[Duncan] Do you need something?"
                             ]
                         },
                         {
@@ -4562,21 +4548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か御用でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うひ♡"
+                                "[Duncan] Do you need something? Uh-huh ♡"
                             ]
                         },
                         {
@@ -4680,28 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ?"
                             ]
                         },
                         {
@@ -4718,21 +4669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえ・・・何も・・・。"
+                                "[Anastasia] ......... No... nothing..."
                             ]
                         },
                         {
@@ -4926,21 +4863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か御用でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うひ♡"
+                                "[Duncan] Do you need something? Uh-huh ♡"
                             ]
                         },
                         {
@@ -5044,28 +4967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ?"
                             ]
                         },
                         {
@@ -5082,21 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえ・・・何も・・・。"
+                                "[Anastasia] ......... No... nothing..."
                             ]
                         },
                         {
@@ -5290,21 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か御用でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うひ♡"
+                                "[Duncan] Do you need something? Uhi ♡"
                             ]
                         },
                         {
@@ -5408,14 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いえ・・・何も・・・。"
+                                "[Anastasia] N-No... Nothing..."
                             ]
                         },
                         {
@@ -5731,28 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・あの・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa... A... um..."
                             ]
                         },
                         {
@@ -5769,28 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはアナスタシア様♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Duncan] Oh, this is Anastasia-sama♥"
                             ]
                         },
                         {
@@ -5807,28 +5632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかがされましたかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような早い時間に♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Duncan] How are you doing? At such an early hour♪"
                             ]
                         },
                         {
@@ -5845,28 +5649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・あ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] E... Ah..."
                             ]
                         },
                         {
@@ -5883,28 +5666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -5921,28 +5683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -5959,28 +5700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・そ、その・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Umm... th-that..."
                             ]
                         },
                         {
@@ -5997,28 +5717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Duncan] Hm?"
                             ]
                         },
                         {
@@ -6035,28 +5734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Duncan] Ahh..."
                             ]
                         },
                         {
@@ -6073,28 +5751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもの・・・あれ・・・ですかねぇ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Duncan] Is it the usual... that... I wonder? ♥"
                             ]
                         },
                         {
@@ -6111,28 +5768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・っぐ・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...guh..."
                             ]
                         },
                         {
@@ -6149,28 +5785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Haa... haa..."
                             ]
                         },
                         {
@@ -6187,28 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぁ・・・え・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah... um..."
                             ]
                         },
                         {
@@ -6225,28 +5819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -6263,28 +5836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・は・・・はぃ・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ...Ha... Ha..."
                             ]
                         },
                         {
@@ -6301,21 +5853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] ............"
                             ]
                         },
                         {
@@ -6518,14 +6056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまないが、少しの間受付を頼むよぉ♪"
+                                "[Duncan] Sorry, but could you handle the reception for a little while?\n♪"
                             ]
                         },
                         {
@@ -6593,21 +6124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え・・・あ、うん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かった。"
+                                "[Claire] Huh... Ah, yeah, I got it."
                             ]
                         },
                         {
@@ -6760,14 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か御用でしょうか？"
+                                "[Duncan] Do you need something?"
                             ]
                         },
                         {
@@ -6853,14 +6363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・はじめまして。"
+                                "[Clare] Nice to meet you..."
                             ]
                         },
                         {
@@ -6964,28 +6467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、あなたが宿の主人が言っていた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Ah, you're the one the innkeeper was talking about..."
                             ]
                         },
                         {
@@ -7002,28 +6484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クレアと言います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お会いできて光栄ですっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Clare] My name is Clare. It's an honor to meet you."
                             ]
                         },
                         {
@@ -7040,28 +6501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえ、こちらこそ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] No, the honor is mine."
                             ]
                         },
                         {
@@ -7078,28 +6518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくは、こちらに滞在することになると思いますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願い致しますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Since you will be staying here for a while, I look forward\nto working with you."
                             ]
                         },
                         {
@@ -7116,28 +6535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は・・・はいっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあればいつでも言ってください、アナスタシア様っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Clare] Y-Yes, please feel free to let me know if there's anything I\ncan do, Lady Anastasia."
                             ]
                         },
                         {
@@ -7154,28 +6552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フフフ、歳もたいして変わりありませんし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシアで構いませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Hehe, my age hasn't changed much, so you can just call me\nAnastasia."
                             ]
                         },
                         {
@@ -7192,28 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そんないきなり・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも良いのかなぁ・・・あ・・・いえっ・・・"
+                                "[Clare] Huh?! S-Such a sudden... But is it okay... Ah... No..."
                             ]
                         },
                         {
@@ -7230,28 +6586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああっ、何でもないですっ・・・えっとぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どーしたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Clare] Ah, it's nothing... um... what should I do..."
                             ]
                         },
                         {
@@ -7268,28 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フフフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Hehehe..."
                             ]
                         },
                         {
@@ -7306,28 +6620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し意地悪が過ぎましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きな呼び方で構いませんよ、クレアさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] I was a little mean, wasn't I? You can call me whatever you\nlike, Clare-san."
                             ]
                         },
                         {
@@ -7344,28 +6637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びっくりしましたぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Clare] Ahahaha, I was so surprised!"
                             ]
                         },
                         {
@@ -7382,28 +6654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ・・・こ、これからよろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、アナスタシアさんっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Clare] Um... N-Nice to meet you... A-Anastasia-san."
                             ]
                         },
                         {
@@ -7420,21 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フフ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願い致します。"
+                                "[Anastasia] Hehe... Nice to meet you."
                             ]
                         },
                         {
@@ -7652,21 +6889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあればなんでも言って下さい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシアさん♪"
+                                "[Clare] If there's anything, please feel free to tell me, Anastasia-\nsan♪"
                             ]
                         },
                         {
@@ -7734,21 +6957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあればなんでも言って下さい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナスタシアさん♪"
+                                "[Clare] If there's anything, please feel free to tell me, Anastasia-\nsan♪"
                             ]
                         },
                         {
@@ -7852,21 +7061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えぇ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます、クレアさん。"
+                                "[Anastasia] Oh, thank you very much, Clare-san."
                             ]
                         },
                         {
@@ -8060,21 +7255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【クレア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "父がやたらと上機嫌なのですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か良いことでもあったんでしょうかね。"
+                                "[Clare] My father seems unusually cheerful... I wonder if something\ngood happened."
                             ]
                         },
                         {
@@ -8178,28 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じょ・・・上機嫌・・・ですか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Is... in a good mood...?"
                             ]
                         },
                         {
@@ -8216,14 +7376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "～～～～～～～～～っ。"
+                                "[Anastasia] ~~~~~~~~."
                             ]
                         },
                         {
@@ -8686,7 +7839,7 @@
                             "code": 108,
                             "indent": 0,
                             "parameters": [
-                                "info:回想部屋,13"
+                                "info:Recollection,13"
                             ]
                         },
                         {

@@ -3571,14 +3571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大部屋はすでに予約されていたのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁこの部屋も悪くはないな。"
+                                "The large room had already been reserved, but well, this room isn't\nbad either."
                             ]
                         },
                         {
@@ -3803,28 +3796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Oh well."
                             ]
                         },
                         {
@@ -3841,28 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お忍びで来る貴族が使うような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏口まである部屋なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] A room with a back entrance like the one used by nobles who\ncome in secret."
                             ]
                         },
                         {
@@ -3879,28 +3830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーも随分高そうな部屋を借りたものですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] It seems you've rented quite an expensive room at the\nacademy."
                             ]
                         },
                         {
@@ -3926,28 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アカデミーの教師総出で探しても見つからない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということですが・・・"
+                                "[Anastasia] ......... It means that even with all the teachers from the\nacademy searching, they couldn't find it..."
                             ]
                         },
                         {
@@ -3964,28 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街の外に連れ出されていることも考慮すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手あたり次第に探しても、意味はなさそうですし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] Considering that we're being taken outside of this town,\nsearching randomly would be pointless..."
                             ]
                         },
                         {
@@ -4025,21 +3913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは、街や魔術アカデミーで情報収集をするのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良さそうですね。"
+                                "[Anastasia] First, it seems like gathering information in the town and\nthe Magic Academy would be a good idea."
                             ]
                         },
                         {
@@ -4194,7 +4068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　※びっくりマークのキャラと会話をしましょう。"
+                                "　　　※Let's have a conversation with the character with the exclamation\nmark."
                             ]
                         },
                         {

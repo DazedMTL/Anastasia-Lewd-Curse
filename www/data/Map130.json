@@ -2245,14 +2245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おお！"
+                                "[Scout Man] Oh!"
                             ]
                         },
                         {
@@ -2269,14 +2262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく似合ってるじゃない。"
+                                "[Scout Man] It suits you well."
                             ]
                         },
                         {
@@ -2389,21 +2375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ・・・この恰好で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接客するのですか？"
+                                "[Anastasia] In this... outfit... am I supposed to serve customers?"
                             ]
                         },
                         {
@@ -2546,21 +2518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、でも水着だってそんな変わらないじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのくらいなら、みんな誰でも着てるから大丈夫だよ。"
+                                "[Scout Man] Well, but a swimsuit isn't that different, right? If it's\njust that, everyone is wearing it, so it's okay."
                             ]
                         },
                         {
@@ -2664,21 +2622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いったい・・・何が、大丈夫なのでしょうか。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (What on earth... is going to be okay?)"
                             ]
                         },
                         {
@@ -2877,21 +2821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女１】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきの魔術で有名な、あのアナスタシアに似てなかった？"
+                                "[Girl 1] Hey... Didn't she look like that famous sorceress, Anastasia,\nfrom earlier?"
                             ]
                         },
                         {
@@ -2908,14 +2838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女２】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、それ私も思ったぁ。"
+                                "[Girl 2] Ah, I thought the same thing."
                             ]
                         },
                         {
@@ -2941,28 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女１】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそんな有名人がこんなところで働くわけないし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの似てる子でしょ、きっと。"
+                                "[Girl 1] Well... But there's no way a famous person like that would be\nworking in a place like this, right? She must just be a look-alike,\nfor sure."
                             ]
                         },
                         {
@@ -2979,28 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女２】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Girl 2] Yeah, that's right."
                             ]
                         },
                         {
@@ -3017,21 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女２】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、似てたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんかすぐ人気でそうねぇ、あの子。"
+                                "[Girl 2] But she looked similar, and she seems popular already, huh,\nthat girl."
                             ]
                         },
                         {
@@ -3048,14 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女１】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーん、私の大口のお客さん取られたら困るぅ～。"
+                                "[Girl 1] Ahh, if she steals my big-spending customer, I'll be in\ntrouble~."
                             ]
                         },
                         {
@@ -3072,14 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【女２】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ～。"
+                                "[Girl 2] Hey~."
                             ]
                         },
                         {
@@ -3121,14 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、何、君有名人なの？"
+                                "[Scout Man] Huh, are you a famous person?"
                             ]
                         },
                         {
@@ -3145,28 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Scout Man] But it's okay."
                             ]
                         },
                         {
@@ -3183,28 +3008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちは結構訳ありの貴族の子とか、学生なんかもいたりする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "からね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Scout Man] We have quite a few nobles with some circumstances, and\neven students, you know."
                             ]
                         },
                         {
@@ -3221,28 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の子の個人情報はしっかり管理してるし、下手に酒場とか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこら辺で働くよりは、相手にするのは毎回１人だけだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対安心だよ。"
+                                "[Scout Man] We manage the personal information of the girls properly,\nand unlike working at some random tavern, we only have one customer at\na time, so you can definitely feel safe."
                             ]
                         },
                         {
@@ -3346,21 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "た・・・確かに、それは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるかもしれませんが・・・。"
+                                "[Anastasia] Y-Yes... That might be true..."
                             ]
                         },
                         {
@@ -3503,28 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね？そうでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Scout Man] Right? Isn't that true?"
                             ]
                         },
                         {
@@ -3541,21 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【スカウトの男】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、とりあえずは試しに働いてみるだけだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気軽にやってよ。"
+                                "[Scout Man] Well, for now, just give it a try and work casually."
                             ]
                         },
                         {
@@ -3659,14 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "[Anastasia] ........"
                             ]
                         },
                         {

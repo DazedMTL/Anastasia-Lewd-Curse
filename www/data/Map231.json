@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "魔術アカデミー",
+    "displayName": "Magic Academy",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -5019,7 +5019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>                   魔術アカデミー"
+                                "\\> Magic Academy"
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　この先講堂"
+                                "　　　Lecture Hall ahead."
                             ]
                         },
                         {
@@ -5186,7 +5186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここを通過してから結構経つけど・・・"
+                                "It's been quite a while since we passed through here..."
                             ]
                         },
                         {
@@ -5203,7 +5203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このままでいいの？"
+                                "Is it okay like this?"
                             ]
                         },
                         {

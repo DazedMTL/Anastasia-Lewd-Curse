@@ -2490,28 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（と、とにかく落ち着いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一旦ここから撤退しましょう。）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] (A-anyway, let's calm down and retreat from here for now.)"
                             ]
                         },
                         {
@@ -2528,14 +2507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まだ、アイテムが残っていたはず）"
+                                "[Anastasia] (There should still be some items left.)"
                             ]
                         },
                         {
@@ -2806,14 +2778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっ？！"
+                                "[Anastasia] Huh?!"
                             ]
                         },
                         {
@@ -3050,28 +3015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメよぉ～お♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Nooo~ Stop it♥"
                             ]
                         },
                         {
@@ -3088,28 +3032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな物を使っても、逃がしてあげないんだからぁ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Even if you use something like that, I won't let you\nescape♪"
                             ]
                         },
                         {
@@ -3126,28 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の魔法の実験台にして・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Gisellemina] Be my experimental subject for magic..."
                             ]
                         },
                         {
@@ -3164,14 +3066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの頭の中身、全ぇ～～部曝け出してあげるぅぅう♥"
+                                "[Gisellemina] I'll expose everything inside your head, eeeverything♥"
                             ]
                         },
                         {
@@ -3408,28 +3303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フ・・・フフ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia] H-haha..."
                             ]
                         },
                         {
@@ -3446,28 +3320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ・・・そんな脅しで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたごときに、私が許しを乞うとでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思っているのですか？"
+                                "[Anastasia] Th-threatening me like that... Do you really think I would\nbeg for forgiveness from someone like you?"
                             ]
                         },
                         {
@@ -3704,21 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらぁ～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その澄まし顔と減らず口・・・一体いつまで持つかしらぁ♪"
+                                "[Gisellemina] Oh my~♥ That innocent face and that never-ending mouth...\nI wonder how long they will last♪"
                             ]
                         },
                         {
@@ -3735,21 +3574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ギジェルミーナ】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女として生まれてきてしまったことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死ぬほど後悔させてあげるわぁあ♥"
+                                "[Gisellemina] I'll make you regret being born as a woman to the point\nof death, hehe♥"
                             ]
                         },
                         {

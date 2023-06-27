@@ -1498,14 +1498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "              この世界には、宿泊をしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "             ケガが治る概念は存在しません。"
+                                "              In this world, the concept of injuries healing even with lodging does\nnot exist."
                             ]
                         },
                         {
@@ -1522,14 +1515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　  体力や消費した魔力は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　 魔術やアイテムでのみ回復が可能です。"
+                                "　　　  Physical strength and consumed magical power can only be recovered\nthrough sorcery and items."
                             ]
                         },
                         {
@@ -1546,7 +1532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　アナスタシアはヨーグルトを使用した。"
+                                "　　　Anastasia used yogurt."
                             ]
                         },
                         {
@@ -1584,7 +1570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　 アナスタシアのＭＰが２５回復した。"
+                                "　　　 Anastasia's MP has recovered by 25."
                             ]
                         },
                         {
@@ -1601,7 +1587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　アイテムは街のショップで購入することができます。"
+                                "　　Items can be purchased at the city shop."
                             ]
                         },
                         {
@@ -1618,14 +1604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　 　また、アナスタシアは体力を回復する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　 　貴重なアイテムを所持しています。"
+                                "　　　 　Furthermore, Anastasia possesses valuable items to recover her\nphysical strength."
                             ]
                         },
                         {
@@ -1642,14 +1621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　 　 戦闘中は、使用することが出来ませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　 使用しても無くなることはありません。"
+                                "　　　 　 During battle, you cannot use it, but even if you use it, it will not\ndisappear."
                             ]
                         },
                         {

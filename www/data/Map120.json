@@ -2742,14 +2742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、じゃぁ報酬のお金。"
+                                "[Master]: Yes, then here is the money for the reward."
                             ]
                         },
                         {
@@ -2778,7 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　所持金が２５０００Ｇ増えた。"
+                                "　　　My funds increased by 25,000 G."
                             ]
                         },
                         {
@@ -2804,14 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【マスター】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また働きたくなったら来てよ。"
+                                "[Master]: If you feel like working again, come by."
                             ]
                         },
                         {
@@ -2922,28 +2908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Anastasia]: ............"
                             ]
                         },
                         {
@@ -2960,21 +2925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う・・・うぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま・・・・・・また、来ます・・・・。"
+                                "[Anastasia]: Ugh... I-I... I'll come again..."
                             ]
                         },
                         {
@@ -2991,14 +2942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・"
+                                "[Anastasia]: ............"
                             ]
                         },
                         {
@@ -3369,14 +3313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいぞー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部見せろーーー。"
+                                "Show me everything!"
                             ]
                         },
                         {
@@ -3453,7 +3390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりご飯も、このくらいジャンキーじゃないとなぁ。"
+                                "I guess even food needs to be a little junky."
                             ]
                         },
                         {
@@ -3530,14 +3467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むしゃむしゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんめぇ～。"
+                                "Chomp chomp. Mmm, delicious~."
                             ]
                         },
                         {
@@ -3614,14 +3544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ストリップショーが見たくて、ついつい来ちゃうぜ。"
+                                "Hehehe, I can't help but come because I want to see a strip show."
                             ]
                         },
                         {
@@ -3698,7 +3621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うっ・・・わぁ！！"
+                                "Ugh... wah!!"
                             ]
                         },
                         {
@@ -3715,7 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "零しちゃった・・・。"
+                                "I messed up..."
                             ]
                         },
                         {
@@ -3793,7 +3716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おひょひょひょひょ～"
+                                "Oh hyohyohyohyo~"
                             ]
                         },
                         {
@@ -3870,7 +3793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃんは出ないのかぃ？ニチャァ"
+                                "Are you not coming out, young lady? Nyaa."
                             ]
                         },
                         {
@@ -3947,14 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへへへへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は、どの娘にしようかねぇ。"
+                                "Hehehe, which girl should I choose today?"
                             ]
                         },
                         {
@@ -4031,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは、ストリップには興味はないのだよ。"
+                                "I'm not interested in stripping."
                             ]
                         },
                         {
@@ -4048,7 +3964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チラチラ"
+                                "Glitter"
                             ]
                         },
                         {
@@ -4125,14 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぃ～、ひっく・・・ここは丁度いいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上の店は、お上品すぎるんだよなぁ。"
+                                "Translation: Whee~, hic... This place is just right. The shop upstairs\nis too fancy."
                             ]
                         },
                         {

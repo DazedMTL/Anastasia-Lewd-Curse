@@ -4831,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族の子は、家から通っている子が多いわね。"
+                                "Noble children often commute from home, don't they?"
                             ]
                         },
                         {
@@ -4848,21 +4848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家は貴族だけど、勉強についていくために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寮に入っているの。"
+                                "Me? My family is noble, but I live in the dormitory to keep up with my\nstudies."
                             ]
                         },
                         {
@@ -4948,14 +4934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、このままじゃまずいわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の試験で、高得点を取らないとっ。"
+                                "This, this is bad as it is! If I don't get a high score on the next\nexam..."
                             ]
                         },
                         {
@@ -5056,14 +5035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜中に抜け出してる子がいるみたいだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勉強もしないで、何をやっているのかしら。"
+                                "It seems like there's a child sneaking out in the middle of the\nnight... I wonder what they're doing without studying."
                             ]
                         },
                         {
@@ -5140,7 +5112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "授業のない日は、アルバイトしてる子もいるみたいね。"
+                                "On days without classes, it seems like some students are working part-\ntime."
                             ]
                         },
                         {
@@ -5157,14 +5129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "成績に余裕があれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もカフェとかで働いてみたいなぁ。"
+                                "If I have some spare time in my grades, I would like to try working at\na café or something."
                             ]
                         },
                         {
@@ -5241,7 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頭を使うと、甘いものが食べたくなるわね。"
+                                "When you use your brain, you start craving something sweet."
                             ]
                         },
                         {
@@ -5318,7 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子禁制！！"
+                                "No boys allowed!!"
                             ]
                         },
                         {
@@ -5446,28 +5411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確か私・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I'm certain that I..."
                             ]
                         },
                         {
@@ -5484,28 +5428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたを見たような・・・気がするの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "I feel like I've seen you before..."
                             ]
                         },
                         {
@@ -5522,7 +5445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・気のせいかしら？"
+                                "...Is it just my imagination?"
                             ]
                         },
                         {
@@ -5773,28 +5696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行方不明だったあいだの記憶が曖昧なんだけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私・・・何かされたのかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "The memories during my disappearance are vague... I wonder if\nsomething happened to me."
                             ]
                         },
                         {
@@ -5811,14 +5713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・っは？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、私の貞操がっ？！"
+                                "...Huh?! No way, my chastity?!"
                             ]
                         },
                         {
@@ -5844,7 +5739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・"
+                                "..."
                             ]
                         },
                         {
@@ -5861,7 +5756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・無事みたいね。"
+                                "...It seems like you're safe."
                             ]
                         },
                         {

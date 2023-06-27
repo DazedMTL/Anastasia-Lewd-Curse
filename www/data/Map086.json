@@ -2044,28 +2044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へ、部屋を変える？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Duncan] Huh?! Ch-Changing rooms?"
                             ]
                         },
                         {
@@ -2082,28 +2061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【ダンカン】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、ダメダメだめっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの部屋以外映らな・・・あ、いや・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、今あの部屋以外予約もあって満室なんですよっ"
+                                "[Duncan] N-No, no, no! Only that room is available... Ah, no... I\nmean... Right now, besides that room, there are also other\nreservations, so it's fully booked."
                             ]
                         },
                         {
@@ -2183,28 +2141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕様がありませんねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御恩のあるアナスタシア様の頼み・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無下にもできませんしな。"
+                                "[Principal] There are no specifications. I cannot disregard the request\nof Anastasia-sama, who has done us a favor."
                             ]
                         },
                         {
@@ -2221,14 +2158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとか致しましょう。"
+                                "[Principal] Let's do something about it."
                             ]
                         },
                         {
@@ -2245,28 +2175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは何ですので・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
+                                "[Principal] What is it here..."
                             ]
                         },
                         {
@@ -2283,21 +2192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【校長】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ありませんが、アカデミーまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "御同行願えないでしょうか、アナスタシア様。"
+                                "[Principal] I apologize, but could you please accompany us to the\nacademy, Anastasia-sama?"
                             ]
                         },
                         {
@@ -2345,21 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え、ええ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました・・・"
+                                "[Anastasia] Uh, um... I understand..."
                             ]
                         },
                         {
@@ -2376,14 +2257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "【アナスタシア】"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・"
+                                "[Anastasia] ............"
                             ]
                         },
                         {

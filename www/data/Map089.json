@@ -4493,7 +4493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\>                   魔術アカデミー"
+                                "\\> Magic Academy"
                             ]
                         },
                         {
@@ -4580,7 +4580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　この先講堂"
+                                "　　　Lecture Hall ahead."
                             ]
                         },
                         {
@@ -4660,14 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか裏の山に行ったときに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な目眩を起こしたんだよなぁ。"
+                                "I experienced a strange dizziness when I went to the back mountain."
                             ]
                         },
                         {
@@ -4684,14 +4677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そーいえば結界の授業で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似たような現象について習ったような・・・"
+                                "Come to think of it, I think I learned about a similar phenomenon in\nthe barrier class..."
                             ]
                         },
                         {
