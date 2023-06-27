@@ -5665,28 +5665,28 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"2_t=3_subject=セックス(性行為)　　　 　　　  \\\\V[10]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"2_t=3_subject=Sex　　　 　　　  \\\\V[10]x\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"2_t=5_subject=中出し(膣内射精)　　　　　　　 \\\\V[12]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"2_t=5_subject=Creampies　　　　　　　 \\\\V[12]x\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"2_t=7_subject=セックスした人数　　　　　　 　\\\\V[14]人\"])"
+                                "$gameSystem.CBR_eroSta_change([\"2_t=7_subject=Sex Partners　　　　　　 　\\\\V[14] People\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"4_t=6_subject=膣内射精した精子の量　 　 　　\\\\V[49]mℓ\"])"
+                                "$gameSystem.CBR_eroSta_change([\"4_t=6_subject=Creampie Amount　 　　\\\\V[49]mℓ\"])"
                             ]
                         },
                         {
@@ -6243,7 +6243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  　　　My magical power has recovered a little."
+                                "　　My magical power has recovered a little."
                             ]
                         },
                         {

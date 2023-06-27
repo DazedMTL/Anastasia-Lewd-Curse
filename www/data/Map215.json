@@ -7542,7 +7542,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"4_t=7_subject=使用した玩具の種類　　　　　　\\\\V[50]種\"])"
+                                "$gameSystem.CBR_eroSta_change([\"4_t=7_subject=Toys Used     \\\\V[50]x\"])"
                             ]
                         },
                         {

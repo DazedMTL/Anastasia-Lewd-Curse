@@ -5881,7 +5881,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"3_t=7_subject=排泄行為を人に見られた　　　　 \\\\V[42]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"3_t=7_subject=Defecation　　　　 \\\\V[42]x\"])"
                             ]
                         },
                         {

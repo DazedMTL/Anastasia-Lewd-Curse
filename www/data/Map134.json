@@ -2696,7 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  　　　My magical power has recovered a little."
+                                "　　My magical power has recovered a little."
                             ]
                         },
                         {
@@ -3253,14 +3253,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"2_t=8_subject=風俗でセックスした人数　 　　　\\\\V[15]人\"])"
+                                "$gameSystem.CBR_eroSta_change([\"2_t=8_subject=Prostitution 　　　\\\\V[15] People\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"4_t=4_subject=コンドームを使用した個数　　　\\\\V[47]個\"])"
+                                "$gameSystem.CBR_eroSta_change([\"4_t=4_subject=Condoms Used     \\\\V[47]x\"])"
                             ]
                         },
                         {

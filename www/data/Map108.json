@@ -4044,7 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  　　　My magical power has recovered a little."
+                                "　　My magical power has recovered a little."
                             ]
                         },
                         {
@@ -4616,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  　　　The event has been unlocked."
+                                "　　The event has been unlocked."
                             ]
                         },
                         {

@@ -2034,7 +2034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "  　　　My magical power has recovered a little."
+                                "　　My magical power has recovered a little."
                             ]
                         },
                         {
@@ -2390,14 +2390,14 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"3_t=2_subject=精液を味わい精飲した　　　   　\\\\V[17]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"3_t=2_subject=Swallowed   　\\\\V[17]x\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"4_t=5_subject=精飲した精子の量　　 　 　　　\\\\V[48]mℓ\"])"
+                                "$gameSystem.CBR_eroSta_change([\"4_t=5_subject=Semen Swallowed 　 　　　\\\\V[48]mℓ\"])"
                             ]
                         },
                         {

@@ -6002,7 +6002,7 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"4_t=2_subject=ティッシュを使用した枚数　  　\\\\V[45]枚\"])"
+                                "$gameSystem.CBR_eroSta_change([\"4_t=2_subject=Tissues Used 　\\\\V[45] Sheets\"])"
                             ]
                         },
                         {

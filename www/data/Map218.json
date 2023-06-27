@@ -15425,21 +15425,21 @@
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"1_t=6_subject=オナニーの頻度を告白　　  　　\\\\V[6]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"1_t=6_subject=Masturbation Confessions \\\\V[6]x\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"1_t=7_subject=オナニーのオカズを告白　　 　 \\\\V[6]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"1_t=7_subject=Fap Material Confessions 　 \\\\V[6]x\"])"
                             ]
                         },
                         {
                             "code": 355,
                             "indent": 0,
                             "parameters": [
-                                "$gameSystem.CBR_eroSta_change([\"1_t=8_subject=オナニーを覚えた歳を告白    　\\\\V[7]回\"])"
+                                "$gameSystem.CBR_eroSta_change([\"1_t=8_subject=Confessed Masturbation Age \\\\V[7]x\"])"
                             ]
                         },
                         {
