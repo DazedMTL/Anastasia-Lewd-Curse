@@ -83,7 +83,7 @@ Window_Base.prototype.contentsHeight = function () {
 };
 
 Window_Base.prototype.fittingHeight = function (numLines) {
-    return numLines * this.lineHeight() + this.standardPadding() * 2;
+    return numLines * this.lineHeight() + this.standardPadding() * 2 + 15;
 };
 
 Window_Base.prototype.updateTone = function () {
