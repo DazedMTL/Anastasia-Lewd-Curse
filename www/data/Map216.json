@@ -10304,7 +10304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　※The event will proceed. Are you ready?"
+                                "※The event will proceed. Are you ready?"
                             ]
                         },
                         {
@@ -10992,7 +10992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　Three days later..."
+                                "Three days later..."
                             ]
                         },
                         {

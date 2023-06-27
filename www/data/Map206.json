@@ -1923,7 +1923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　  Will you activate the Training End and be unable to proceed on the\nregular route? Is that okay?"
+                                "  Will you activate the Training End and be unable to proceed on the\nregular route? Is that okay?"
                             ]
                         },
                         {
@@ -1974,7 +1974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　　　The effect of the Memories Incense Burner has decreased."
+                                "The effect of the Memories Incense Burner has decreased."
                             ]
                         },
                         {

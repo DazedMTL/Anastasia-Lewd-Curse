@@ -2696,7 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　  　　　My magical power has recovered a little."
+                                "  　　　My magical power has recovered a little."
                             ]
                         },
                         {
@@ -3410,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　My money increased by 100,000G."
+                                "My money increased by 100,000G."
                             ]
                         },
                         {

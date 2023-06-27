@@ -1585,7 +1585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　Sexual desire gauge has been added."
+                                "Sexual desire gauge has been added."
                             ]
                         },
                         {
@@ -1602,7 +1602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　The sexual desire gauge will increase every time you move on the map.\nMoving inside buildings is not included."
+                                "The sexual desire gauge will increase every time you move on the map.\nMoving inside buildings is not included."
                             ]
                         },
                         {
@@ -1619,7 +1619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　When the gauge reaches its maximum, you will transition to an event to\nrelease your sexual desire."
+                                "When the gauge reaches its maximum, you will transition to an event to\nrelease your sexual desire."
                             ]
                         },
                         {
@@ -1636,7 +1636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　Depending on the situation, the gauge may accumulate more easily."
+                                "Depending on the situation, the gauge may accumulate more easily."
                             ]
                         },
                         {
@@ -1779,7 +1779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　 　  　You will clear the game by either progressing through the event to the\nend or defeating the witch."
+                                " 　  　You will clear the game by either progressing through the event to the\nend or defeating the witch."
                             ]
                         },
                         {
