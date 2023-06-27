@@ -173,8 +173,8 @@
     },
     "skillTypes": [
         "",
-        "Magic",
-        "Special move"
+        "魔法",
+        "必殺技"
     ],
     "sounds": [
         {
@@ -568,7 +568,7 @@
             "Fight",
             "Escape",
             "Attack",
-            "Defense",
+            "防御",
             "Item",
             "Skill",
             "Equip",
