@@ -2401,8 +2401,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "宿泊する",
-                                    "宿泊しない"
+                                    "Stay",
+                                    "Not staying overnight"
                                 ],
                                 1,
                                 0,
